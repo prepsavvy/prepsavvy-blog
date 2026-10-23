@@ -1,0 +1,477 @@
+[
+  {
+    "work_id": "https://openalex.org/W2578199307",
+    "doi": "https://doi.org/10.1111/nous.12191",
+    "authorship_position": 0,
+    "decision": "acknowledgment_filter",
+    "original_institutions": [
+      "https://openalex.org/I170201317"
+    ],
+    "retained_institutions": [
+      "https://openalex.org/I170201317"
+    ],
+    "source": "https://doi.org/10.1111/nous.12191",
+    "raw_affiliation_sha256": "f0da03195d6ca2066fb384c8b3394f44bca7ba90dd9e69c82e9be0b4fcf74673"
+  },
+  {
+    "work_id": "https://openalex.org/W2913156781",
+    "doi": "https://doi.org/10.1111/phpr.12575",
+    "authorship_position": 0,
+    "decision": "acknowledgment_filter",
+    "original_institutions": [
+      "https://openalex.org/I74775410"
+    ],
+    "retained_institutions": [
+      "https://openalex.org/I74775410"
+    ],
+    "source": "https://doi.org/10.1111/phpr.12575",
+    "raw_affiliation_sha256": "012eaad5b250db8b31bd66901ec417afcffbe3ea975e386ffed28a29fedd5674"
+  },
+  {
+    "work_id": "https://openalex.org/W2744401009",
+    "doi": "https://doi.org/10.1111/nous.12214",
+    "authorship_position": 0,
+    "decision": "acknowledgment_filter",
+    "original_institutions": [
+      "https://openalex.org/I44260953"
+    ],
+    "retained_institutions": [
+      "https://openalex.org/I44260953"
+    ],
+    "source": "https://doi.org/10.1111/nous.12214",
+    "raw_affiliation_sha256": "af6e09280077122f0819af50b320629d76ccaae46155b9349b88ed227310fbf9"
+  },
+  {
+    "work_id": "https://openalex.org/W4246508614",
+    "doi": "https://doi.org/10.1111/nous.12266",
+    "authorship_position": 0,
+    "decision": "acknowledgment_filter",
+    "original_institutions": [
+      "https://openalex.org/I1174212"
+    ],
+    "retained_institutions": [
+      "https://openalex.org/I1174212"
+    ],
+    "source": "https://doi.org/10.1111/nous.12266",
+    "raw_affiliation_sha256": "44eb24bf82961ee12b300328a9245c8ac6c5969fea346ecfbbe23650742d8061"
+  },
+  {
+    "work_id": "https://openalex.org/W4399045571",
+    "doi": "https://doi.org/10.1111/papa.12259",
+    "authorship_position": 0,
+    "decision": "acknowledgment_filter",
+    "original_institutions": [],
+    "retained_institutions": [],
+    "source": "https://doi.org/10.1111/papa.12259",
+    "raw_affiliation_sha256": "017e1255d0e18927b979baf5627445c085f7f91dec4febd6f9dc16729b806da9"
+  },
+  {
+    "work_id": "https://openalex.org/W2770449548",
+    "doi": "https://doi.org/10.1086/697744",
+    "authorship_position": 0,
+    "decision": "acknowledgment_filter",
+    "original_institutions": [
+      "https://openalex.org/I107639228",
+      "https://openalex.org/I118347636",
+      "https://openalex.org/I169381384",
+      "https://openalex.org/I187531555",
+      "https://openalex.org/I204250578",
+      "https://openalex.org/I241749",
+      "https://openalex.org/I904495901"
+    ],
+    "retained_institutions": [
+      "https://openalex.org/I107639228",
+      "https://openalex.org/I169381384",
+      "https://openalex.org/I187531555",
+      "https://openalex.org/I204250578",
+      "https://openalex.org/I241749"
+    ],
+    "source": "https://doi.org/10.1086/697744",
+    "raw_affiliation_sha256": "200720bed036ede1e98abd91cd5285ea029f56e4c4b1270a954268cb450b6cd4"
+  },
+  {
+    "work_id": "https://openalex.org/W2770449548",
+    "doi": "https://doi.org/10.1086/697744",
+    "authorship_position": 1,
+    "decision": "acknowledgment_filter",
+    "original_institutions": [
+      "https://openalex.org/I107639228",
+      "https://openalex.org/I118347636",
+      "https://openalex.org/I169381384",
+      "https://openalex.org/I187531555",
+      "https://openalex.org/I204250578",
+      "https://openalex.org/I241749",
+      "https://openalex.org/I904495901"
+    ],
+    "retained_institutions": [
+      "https://openalex.org/I107639228",
+      "https://openalex.org/I169381384",
+      "https://openalex.org/I187531555",
+      "https://openalex.org/I204250578",
+      "https://openalex.org/I241749"
+    ],
+    "source": "https://doi.org/10.1086/697744",
+    "raw_affiliation_sha256": "feb7a9c0167f59e79ec8a915f8b4ddad246cefd94d8db73a19c7371667778e3d"
+  },
+  {
+    "work_id": "https://openalex.org/W2516398651",
+    "doi": "https://doi.org/10.1111/papa.12065",
+    "authorship_position": 0,
+    "decision": "acknowledgment_filter",
+    "original_institutions": [
+      "https://openalex.org/I118347636",
+      "https://openalex.org/I153230381",
+      "https://openalex.org/I165779595",
+      "https://openalex.org/I16835326",
+      "https://openalex.org/I40120149"
+    ],
+    "retained_institutions": [
+      "https://openalex.org/I16835326",
+      "https://openalex.org/I40120149"
+    ],
+    "source": "https://doi.org/10.1111/papa.12065",
+    "raw_affiliation_sha256": "d05629177659be5c0b95f7e576af820051dc1e68e373810a8840bc9a9a03d30d"
+  },
+  {
+    "work_id": "https://openalex.org/W4401483285",
+    "doi": "https://doi.org/10.1111/papa.12274",
+    "authorship_position": 0,
+    "decision": "acknowledgment_filter",
+    "original_institutions": [
+      "https://openalex.org/I183935753"
+    ],
+    "retained_institutions": [],
+    "source": "https://doi.org/10.1111/papa.12274",
+    "raw_affiliation_sha256": "c360f1a534ad406a8aba44224dffff9999d97f64984f96888d3a3759e8941b6e"
+  },
+  {
+    "work_id": "https://openalex.org/W2548665418",
+    "doi": "https://doi.org/10.1086/693927",
+    "authorship_position": 0,
+    "decision": "acknowledgment_filter",
+    "original_institutions": [
+      "https://openalex.org/I169381384"
+    ],
+    "retained_institutions": [
+      "https://openalex.org/I169381384"
+    ],
+    "source": "https://doi.org/10.1086/693927",
+    "raw_affiliation_sha256": "165cfab86057e01c09da4ccdafb98e54ae59e2895b575a0f7d0691f495713725"
+  },
+  {
+    "work_id": "https://openalex.org/W3002360773",
+    "doi": "https://doi.org/10.1080/02691728.2019.1706117",
+    "authorship_position": 0,
+    "decision": "acknowledgment_filter",
+    "original_institutions": [
+      "https://openalex.org/I227875332",
+      "https://openalex.org/I39343248",
+      "https://openalex.org/I90803817"
+    ],
+    "retained_institutions": [
+      "https://openalex.org/I227875332",
+      "https://openalex.org/I90803817"
+    ],
+    "source": "https://doi.org/10.1080/02691728.2019.1706117",
+    "raw_affiliation_sha256": "abd4d7f16e204e73ccd2f50b7b08e9a3f2675356f34875a62a5ec9bdce409407"
+  },
+  {
+    "work_id": "https://openalex.org/W1941232946",
+    "doi": "https://doi.org/10.1111/nous.12104",
+    "authorship_position": 0,
+    "decision": "acknowledgment_filter",
+    "original_institutions": [
+      "https://openalex.org/I1174212"
+    ],
+    "retained_institutions": [
+      "https://openalex.org/I1174212"
+    ],
+    "source": "https://doi.org/10.1111/nous.12104",
+    "raw_affiliation_sha256": "709711bc7ac3bc3d1ec04c1e95accfbcc8abedbb9318ca53f45181950e064da0"
+  },
+  {
+    "work_id": "https://openalex.org/W2510417116",
+    "doi": "https://doi.org/10.1111/papa.12067",
+    "authorship_position": 0,
+    "decision": "acknowledgment_filter",
+    "original_institutions": [
+      "https://openalex.org/I20089843"
+    ],
+    "retained_institutions": [],
+    "source": "https://doi.org/10.1111/papa.12067",
+    "raw_affiliation_sha256": "b37add7f715a5961243215c522f6f8eed8e39cffc69542b6839215d3c523d128"
+  },
+  {
+    "work_id": "https://openalex.org/W2940431891",
+    "doi": "https://doi.org/10.1111/nous.12283",
+    "authorship_position": 0,
+    "decision": "acknowledgment_filter",
+    "original_institutions": [
+      "https://openalex.org/I130828816",
+      "https://openalex.org/I16835326",
+      "https://openalex.org/I190082696",
+      "https://openalex.org/I198945027",
+      "https://openalex.org/I4210114522"
+    ],
+    "retained_institutions": [
+      "https://openalex.org/I130828816",
+      "https://openalex.org/I16835326",
+      "https://openalex.org/I4210114522"
+    ],
+    "source": "https://doi.org/10.1111/nous.12283",
+    "raw_affiliation_sha256": "98bb375dfae51c789486eb3314316a2a8520daa3b1466f967b85772bb1023b6e"
+  },
+  {
+    "work_id": "https://openalex.org/W4244691421",
+    "doi": "https://doi.org/10.1086/684712",
+    "authorship_position": 0,
+    "decision": "primary_source_correction",
+    "original_institutions": [
+      "https://openalex.org/I43439940",
+      "https://openalex.org/I70931966",
+      "https://openalex.org/I7882870"
+    ],
+    "retained_institutions": [
+      "https://openalex.org/I43439940"
+    ],
+    "source": "https://eprints.soton.ac.uk/380387/",
+    "raw_affiliation_sha256": "9bf33dc563ba0b13e75cdb5e1612dea4af645bcb85e8f8da329e6706babb8113"
+  },
+  {
+    "work_id": "https://openalex.org/W4244691421",
+    "doi": "https://doi.org/10.1086/684712",
+    "authorship_position": 1,
+    "decision": "primary_source_correction",
+    "original_institutions": [
+      "https://openalex.org/I43439940",
+      "https://openalex.org/I70931966",
+      "https://openalex.org/I7882870"
+    ],
+    "retained_institutions": [
+      "https://openalex.org/I43439940"
+    ],
+    "source": "https://eprints.soton.ac.uk/380387/",
+    "raw_affiliation_sha256": "9bf33dc563ba0b13e75cdb5e1612dea4af645bcb85e8f8da329e6706babb8113"
+  },
+  {
+    "work_id": "https://openalex.org/W2839579055",
+    "doi": "https://doi.org/10.1111/nous.12257",
+    "authorship_position": 0,
+    "decision": "acknowledgment_filter",
+    "original_institutions": [
+      "https://openalex.org/I145311948"
+    ],
+    "retained_institutions": [
+      "https://openalex.org/I145311948"
+    ],
+    "source": "https://doi.org/10.1111/nous.12257",
+    "raw_affiliation_sha256": "0d2bd61bb9b745845daff2bd3567ef688dc2b0973db65c9e4baaf06c7bd71686"
+  },
+  {
+    "work_id": "https://openalex.org/W2017418000",
+    "doi": "https://doi.org/10.1086/678371",
+    "authorship_position": 0,
+    "decision": "acknowledgment_filter",
+    "original_institutions": [
+      "https://openalex.org/I20089843"
+    ],
+    "retained_institutions": [],
+    "source": "https://doi.org/10.1086/678371",
+    "raw_affiliation_sha256": "0fe2257e5b72a095d61a9df499f4d9b101a6ab59caa863d3c655ed8e844ebe9e"
+  },
+  {
+    "work_id": "https://openalex.org/W2017418000",
+    "doi": "https://doi.org/10.1086/678371",
+    "authorship_position": 1,
+    "decision": "acknowledgment_filter",
+    "original_institutions": [
+      "https://openalex.org/I20089843"
+    ],
+    "retained_institutions": [],
+    "source": "https://doi.org/10.1086/678371",
+    "raw_affiliation_sha256": "0fe2257e5b72a095d61a9df499f4d9b101a6ab59caa863d3c655ed8e844ebe9e"
+  },
+  {
+    "work_id": "https://openalex.org/W2563658370",
+    "doi": "https://doi.org/10.1017/epi.2016.20",
+    "authorship_position": 0,
+    "decision": "acknowledgment_filter",
+    "original_institutions": [
+      "https://openalex.org/I111236770",
+      "https://openalex.org/I111979921",
+      "https://openalex.org/I124055696",
+      "https://openalex.org/I18014758",
+      "https://openalex.org/I27837315",
+      "https://openalex.org/I5388228",
+      "https://openalex.org/I6902469",
+      "https://openalex.org/I71999127"
+    ],
+    "retained_institutions": [
+      "https://openalex.org/I111236770",
+      "https://openalex.org/I124055696",
+      "https://openalex.org/I18014758",
+      "https://openalex.org/I5388228"
+    ],
+    "source": "https://doi.org/10.1017/epi.2016.20",
+    "raw_affiliation_sha256": "47a8e9aa9ffd1993c8394552853d5e0cee4083e8f8e17dbe0dbc77d843dd5180"
+  },
+  {
+    "work_id": "https://openalex.org/W1485525781",
+    "doi": "https://doi.org/10.1111/nous.12090",
+    "authorship_position": 0,
+    "decision": "acknowledgment_filter",
+    "original_institutions": [
+      "https://openalex.org/I1174212",
+      "https://openalex.org/I12315562"
+    ],
+    "retained_institutions": [
+      "https://openalex.org/I1174212"
+    ],
+    "source": "https://doi.org/10.1111/nous.12090",
+    "raw_affiliation_sha256": "21e14204e0fe26120aff6f6701cdcd5a47da76200ff73c7d24d7d46571f33b29"
+  },
+  {
+    "work_id": "https://openalex.org/W2794464497",
+    "doi": "https://doi.org/10.1086/701072",
+    "authorship_position": 0,
+    "decision": "acknowledgment_filter",
+    "original_institutions": [
+      "https://openalex.org/I118347636",
+      "https://openalex.org/I164389053",
+      "https://openalex.org/I169381384",
+      "https://openalex.org/I909854389"
+    ],
+    "retained_institutions": [
+      "https://openalex.org/I164389053"
+    ],
+    "source": "https://doi.org/10.1086/701072",
+    "raw_affiliation_sha256": "5deaac8f390d232ce92ceae3bedb6b5805975c8a6a26f7e3cb1f59ffc0800cf3"
+  },
+  {
+    "work_id": "https://openalex.org/W3199990341",
+    "doi": "https://doi.org/10.1111/papa.12200",
+    "authorship_position": 0,
+    "decision": "acknowledgment_filter",
+    "original_institutions": [
+      "https://openalex.org/I12093191",
+      "https://openalex.org/I170897317",
+      "https://openalex.org/I7882870",
+      "https://openalex.org/I95674353",
+      "https://openalex.org/I98677209"
+    ],
+    "retained_institutions": [
+      "https://openalex.org/I7882870"
+    ],
+    "source": "https://doi.org/10.1111/papa.12200",
+    "raw_affiliation_sha256": "5ba7a1cbb0e05758c29fb258340ff301b475eb307f957e419e28e4322f64e62d"
+  },
+  {
+    "work_id": "https://openalex.org/W839643451",
+    "doi": "https://doi.org/10.1086/680910",
+    "authorship_position": 0,
+    "decision": "acknowledgment_filter",
+    "original_institutions": [
+      "https://openalex.org/I102322142",
+      "https://openalex.org/I102502594",
+      "https://openalex.org/I130828816",
+      "https://openalex.org/I40120149",
+      "https://openalex.org/I52669646",
+      "https://openalex.org/I63966007"
+    ],
+    "retained_institutions": [],
+    "source": "https://doi.org/10.1086/680910",
+    "raw_affiliation_sha256": "9cfe77a9d75a8f4d56d45a50726327d7e044f84f3c5c7817d7d3f2c5a922a983"
+  },
+  {
+    "work_id": "https://openalex.org/W839643451",
+    "doi": "https://doi.org/10.1086/680910",
+    "authorship_position": 1,
+    "decision": "acknowledgment_filter",
+    "original_institutions": [
+      "https://openalex.org/I102322142",
+      "https://openalex.org/I102502594",
+      "https://openalex.org/I130828816",
+      "https://openalex.org/I40120149",
+      "https://openalex.org/I52669646",
+      "https://openalex.org/I63966007"
+    ],
+    "retained_institutions": [],
+    "source": "https://doi.org/10.1086/680910",
+    "raw_affiliation_sha256": "9cfe77a9d75a8f4d56d45a50726327d7e044f84f3c5c7817d7d3f2c5a922a983"
+  },
+  {
+    "work_id": "https://openalex.org/W2804329868",
+    "doi": "https://doi.org/10.1111/phpr.12520",
+    "authorship_position": 0,
+    "decision": "acknowledgment_filter",
+    "original_institutions": [
+      "https://openalex.org/I70983195",
+      "https://openalex.org/I859038795"
+    ],
+    "retained_institutions": [
+      "https://openalex.org/I859038795"
+    ],
+    "source": "https://doi.org/10.1111/phpr.12520",
+    "raw_affiliation_sha256": "724445ae4c3cfc5be98c0d8c45c48604f5b15b12ab40f3b34fbe33661a199333"
+  },
+  {
+    "work_id": "https://openalex.org/W2283897913",
+    "doi": "https://doi.org/10.1086/683325",
+    "authorship_position": 0,
+    "decision": "acknowledgment_filter",
+    "original_institutions": [
+      "https://openalex.org/I118347636",
+      "https://openalex.org/I125749732",
+      "https://openalex.org/I129774422",
+      "https://openalex.org/I1311206647",
+      "https://openalex.org/I170201317",
+      "https://openalex.org/I190082696",
+      "https://openalex.org/I190816365",
+      "https://openalex.org/I201448701",
+      "https://openalex.org/I204250578",
+      "https://openalex.org/I204465549",
+      "https://openalex.org/I241749",
+      "https://openalex.org/I36258959",
+      "https://openalex.org/I592451",
+      "https://openalex.org/I79576946",
+      "https://openalex.org/I8961855"
+    ],
+    "retained_institutions": [
+      "https://openalex.org/I118347636",
+      "https://openalex.org/I129774422",
+      "https://openalex.org/I190816365",
+      "https://openalex.org/I201448701",
+      "https://openalex.org/I204250578",
+      "https://openalex.org/I204465549",
+      "https://openalex.org/I592451",
+      "https://openalex.org/I79576946",
+      "https://openalex.org/I8961855"
+    ],
+    "source": "https://doi.org/10.1086/683325",
+    "raw_affiliation_sha256": "5956c9750e29475326fbe8203b3203cfcc817f9fc6f9123391a6c59963e2d9e9"
+  },
+  {
+    "work_id": "https://openalex.org/W2275487040",
+    "doi": "https://doi.org/10.1086/682192",
+    "authorship_position": 0,
+    "decision": "acknowledgment_filter",
+    "original_institutions": [],
+    "retained_institutions": [],
+    "source": "https://doi.org/10.1086/682192",
+    "raw_affiliation_sha256": "7a7c6652c0e5fa74e526c9a5f03bb7e9eee201e65d7df04cdb7a99c9214a13b5"
+  },
+  {
+    "work_id": "https://openalex.org/W4247001389",
+    "doi": "https://doi.org/10.1111/nous.12213",
+    "authorship_position": 0,
+    "decision": "acknowledgment_filter",
+    "original_institutions": [
+      "https://openalex.org/I52099693"
+    ],
+    "retained_institutions": [
+      "https://openalex.org/I52099693"
+    ],
+    "source": "https://doi.org/10.1111/nous.12213",
+    "raw_affiliation_sha256": "4be38793875376b38d9a9cc1056e4573b69d7b6b33d8a0c99e869a97d6364023"
+  }
+]

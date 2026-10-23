@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "reject_pattern": "\\b(thank\\w*|acknowledg\\w*|audiences?|referees?|workshops?|conferences?|comments?|helpful|earlier versions|several|SLACRR|supported by|grant number)\\b",
+  "aliases": {
+    "https://openalex.org/I204250578": [
+      "UC Irvine",
+      "University of California Irvine"
+    ],
+    "https://openalex.org/I44260953": [
+      "HHU Dusseldorf"
+    ]
+  },
+  "overrides": {
+    "https://openalex.org/W4244691421": {
+      "reason": "Acknowledgments naming Glasgow and Montreal were indexed as affiliations. Southampton's institutional paper record identifies its Philosophy organisation.",
+      "source": "https://eprints.soton.ac.uk/380387/",
+      "institutions": [
+        {
+          "id": "https://openalex.org/I43439940",
+          "display_name": "University of Southampton",
+          "country_code": "GB",
+          "type": "education"
+        }
+      ]
+    }
+  }
+}

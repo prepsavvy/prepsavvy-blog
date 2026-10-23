@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite the PrepSavvy article and dated data edition when using this research. The article is currently an editorial draft."
+title: "PrepSavvy Philosophy Research Index, 2026-10-23"
+type: dataset
+authors:
+  - name: PrepSavvy
+version: "2026-10-23"
+date-released: 2026-10-23
+url: "https://prepsavvy.ai/blog/top-philosophy-schools"
+repository-code: "https://github.com/prepsavvy/prepsavvy-blog"
+license: CC-BY-4.0

@@ -1,0 +1,219 @@
+{
+  "without_technology_journals": {
+    "works": 22401,
+    "excluded_issn": [
+      "1388-1957",
+      "2210-5433"
+    ],
+    "base_top20_positions": [
+      {
+        "institution": "University of Oxford",
+        "base_rank": 1,
+        "scenario_rank": 1
+      },
+      {
+        "institution": "University of California, Irvine",
+        "base_rank": 2,
+        "scenario_rank": 2
+      },
+      {
+        "institution": "University of Cambridge",
+        "base_rank": 3,
+        "scenario_rank": 4
+      },
+      {
+        "institution": "New York University",
+        "base_rank": 4,
+        "scenario_rank": 3
+      },
+      {
+        "institution": "University of Edinburgh",
+        "base_rank": 5,
+        "scenario_rank": 5
+      },
+      {
+        "institution": "University of Glasgow",
+        "base_rank": 6,
+        "scenario_rank": 6
+      },
+      {
+        "institution": "Rutgers, The State University of New Jersey",
+        "base_rank": 7,
+        "scenario_rank": 7
+      },
+      {
+        "institution": "Princeton University",
+        "base_rank": 8,
+        "scenario_rank": 8
+      },
+      {
+        "institution": "University of Geneva",
+        "base_rank": 9,
+        "scenario_rank": 9
+      },
+      {
+        "institution": "Macquarie University",
+        "base_rank": 10,
+        "scenario_rank": 10
+      },
+      {
+        "institution": "University of Groningen",
+        "base_rank": 11,
+        "scenario_rank": 18
+      },
+      {
+        "institution": "Australian National University",
+        "base_rank": 12,
+        "scenario_rank": 11
+      },
+      {
+        "institution": "Ruhr University Bochum",
+        "base_rank": 13,
+        "scenario_rank": 12
+      },
+      {
+        "institution": "King's College London",
+        "base_rank": 14,
+        "scenario_rank": 14
+      },
+      {
+        "institution": "University of Southampton",
+        "base_rank": 15,
+        "scenario_rank": 13
+      },
+      {
+        "institution": "Massachusetts Institute of Technology",
+        "base_rank": 16,
+        "scenario_rank": 17
+      },
+      {
+        "institution": "University of Amsterdam",
+        "base_rank": 17,
+        "scenario_rank": 19
+      },
+      {
+        "institution": "University of Helsinki",
+        "base_rank": 18,
+        "scenario_rank": 15
+      },
+      {
+        "institution": "University of St Andrews",
+        "base_rank": 19,
+        "scenario_rank": 16
+      },
+      {
+        "institution": "University of Southern California",
+        "base_rank": 20,
+        "scenario_rank": 20
+      }
+    ]
+  },
+  "without_synthese": {
+    "works": 19297,
+    "excluded_issn": [
+      "0039-7857"
+    ],
+    "base_top20_positions": [
+      {
+        "institution": "University of Oxford",
+        "base_rank": 1,
+        "scenario_rank": 1
+      },
+      {
+        "institution": "University of California, Irvine",
+        "base_rank": 2,
+        "scenario_rank": 4
+      },
+      {
+        "institution": "University of Cambridge",
+        "base_rank": 3,
+        "scenario_rank": 3
+      },
+      {
+        "institution": "New York University",
+        "base_rank": 4,
+        "scenario_rank": 2
+      },
+      {
+        "institution": "University of Edinburgh",
+        "base_rank": 5,
+        "scenario_rank": 5
+      },
+      {
+        "institution": "University of Glasgow",
+        "base_rank": 6,
+        "scenario_rank": 7
+      },
+      {
+        "institution": "Rutgers, The State University of New Jersey",
+        "base_rank": 7,
+        "scenario_rank": 6
+      },
+      {
+        "institution": "Princeton University",
+        "base_rank": 8,
+        "scenario_rank": 8
+      },
+      {
+        "institution": "University of Geneva",
+        "base_rank": 9,
+        "scenario_rank": 28
+      },
+      {
+        "institution": "Macquarie University",
+        "base_rank": 10,
+        "scenario_rank": 22
+      },
+      {
+        "institution": "University of Groningen",
+        "base_rank": 11,
+        "scenario_rank": 10
+      },
+      {
+        "institution": "Australian National University",
+        "base_rank": 12,
+        "scenario_rank": 13
+      },
+      {
+        "institution": "Ruhr University Bochum",
+        "base_rank": 13,
+        "scenario_rank": 19
+      },
+      {
+        "institution": "King's College London",
+        "base_rank": 14,
+        "scenario_rank": 14
+      },
+      {
+        "institution": "University of Southampton",
+        "base_rank": 15,
+        "scenario_rank": 11
+      },
+      {
+        "institution": "Massachusetts Institute of Technology",
+        "base_rank": 16,
+        "scenario_rank": 9
+      },
+      {
+        "institution": "University of Amsterdam",
+        "base_rank": 17,
+        "scenario_rank": 23
+      },
+      {
+        "institution": "University of Helsinki",
+        "base_rank": 18,
+        "scenario_rank": 15
+      },
+      {
+        "institution": "University of St Andrews",
+        "base_rank": 19,
+        "scenario_rank": 16
+      },
+      {
+        "institution": "University of Southern California",
+        "base_rank": 20,
+        "scenario_rank": 12
+      }
+    ]
+  }
+}

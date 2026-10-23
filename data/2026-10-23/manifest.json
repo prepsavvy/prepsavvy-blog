@@ -1,0 +1,2410 @@
+{
+  "edition": "2026-10-23",
+  "generated_at": "2026-10-23T15:19:39.929665+00:00",
+  "coverage": {
+    "works": 23457,
+    "without_education_affiliation": 5748,
+    "institution_entities": 1636,
+    "eligible_institutions": 112,
+    "minimum_articles": 50,
+    "journal_year_thresholds": {
+      "https://openalex.org/S147691735:2015": {
+        "works": 92,
+        "boundary_citations": 73,
+        "boundary_credit": 0.1999999999999993
+      },
+      "https://openalex.org/S63151042:2015": {
+        "works": 81,
+        "boundary_citations": 38,
+        "boundary_credit": 0.5499999999999998
+      },
+      "https://openalex.org/S107049385:2016": {
+        "works": 42,
+        "boundary_citations": 110,
+        "boundary_credit": 0.20000000000000018
+      },
+      "https://openalex.org/S147022693:2015": {
+        "works": 179,
+        "boundary_citations": 88,
+        "boundary_credit": 0.4499999999999993
+      },
+      "https://openalex.org/S98189702:2015": {
+        "works": 98,
+        "boundary_citations": 49,
+        "boundary_credit": 0.8000000000000007
+      },
+      "https://openalex.org/S107049385:2015": {
+        "works": 44,
+        "boundary_citations": 100,
+        "boundary_credit": 0.40000000000000036
+      },
+      "https://openalex.org/S81959571:2015": {
+        "works": 134,
+        "boundary_citations": 65,
+        "boundary_credit": 0.40000000000000036
+      },
+      "https://openalex.org/S204374153:2015": {
+        "works": 97,
+        "boundary_citations": 116,
+        "boundary_credit": 0.6999999999999993
+      },
+      "https://openalex.org/S14411630:2016": {
+        "works": 57,
+        "boundary_citations": 68,
+        "boundary_credit": 0.7000000000000002
+      },
+      "https://openalex.org/S147022693:2016": {
+        "works": 222,
+        "boundary_citations": 55,
+        "boundary_credit": 0.1999999999999993
+      },
+      "https://openalex.org/S147691735:2016": {
+        "works": 91,
+        "boundary_citations": 88,
+        "boundary_credit": 0.09999999999999964
+      },
+      "https://openalex.org/S255146:2016": {
+        "works": 325,
+        "boundary_citations": 55,
+        "boundary_credit": 0.25
+      },
+      "https://openalex.org/S121299002:2016": {
+        "works": 89,
+        "boundary_citations": 23,
+        "boundary_credit": 0.9000000000000004
+      },
+      "https://openalex.org/S63151042:2016": {
+        "works": 63,
+        "boundary_citations": 41,
+        "boundary_credit": 0.2999999999999998
+      },
+      "https://openalex.org/S954855591:2016": {
+        "works": 5,
+        "boundary_citations": 47,
+        "boundary_credit": 0.5
+      },
+      "https://openalex.org/S196911494:2016": {
+        "works": 104,
+        "boundary_citations": 12,
+        "boundary_credit": 0.20000000000000018
+      },
+      "https://openalex.org/S80702723:2016": {
+        "works": 87,
+        "boundary_citations": 15,
+        "boundary_credit": 0.6999999999999993
+      },
+      "https://openalex.org/S37480348:2015": {
+        "works": 124,
+        "boundary_citations": 21,
+        "boundary_credit": 0.40000000000000036
+      },
+      "https://openalex.org/S147022693:2017": {
+        "works": 164,
+        "boundary_citations": 57,
+        "boundary_credit": 0.3999999999999986
+      },
+      "https://openalex.org/S255146:2017": {
+        "works": 378,
+        "boundary_citations": 62,
+        "boundary_credit": 0.7999999999999972
+      },
+      "https://openalex.org/S204374153:2017": {
+        "works": 108,
+        "boundary_citations": 76,
+        "boundary_credit": 0.8000000000000007
+      },
+      "https://openalex.org/S41650241:2016": {
+        "works": 41,
+        "boundary_citations": 37,
+        "boundary_credit": 0.09999999999999964
+      },
+      "https://openalex.org/S15279844:2017": {
+        "works": 17,
+        "boundary_citations": 144,
+        "boundary_credit": 0.7
+      },
+      "https://openalex.org/S113020877:2017": {
+        "works": 39,
+        "boundary_citations": 122,
+        "boundary_credit": 0.8999999999999999
+      },
+      "https://openalex.org/S121299002:2017": {
+        "works": 144,
+        "boundary_citations": 35,
+        "boundary_credit": 0.7000000000000002
+      },
+      "https://openalex.org/S103146128:2017": {
+        "works": 70,
+        "boundary_citations": 38,
+        "boundary_credit": 0.5
+      },
+      "https://openalex.org/S156100525:2017": {
+        "works": 59,
+        "boundary_citations": 3,
+        "boundary_credit": 0.3000000000000001
+      },
+      "https://openalex.org/S170801797:2017": {
+        "works": 46,
+        "boundary_citations": 104,
+        "boundary_credit": 0.2999999999999998
+      },
+      "https://openalex.org/S35579339:2017": {
+        "works": 29,
+        "boundary_citations": 84,
+        "boundary_credit": 0.8999999999999999
+      },
+      "https://openalex.org/S147022693:2018": {
+        "works": 186,
+        "boundary_citations": 53,
+        "boundary_credit": 0.3000000000000007
+      },
+      "https://openalex.org/S255146:2018": {
+        "works": 412,
+        "boundary_citations": 43,
+        "boundary_credit": 0.40000000000000097
+      },
+      "https://openalex.org/S35579339:2018": {
+        "works": 48,
+        "boundary_citations": 51,
+        "boundary_credit": 0.7999999999999998
+      },
+      "https://openalex.org/S98189702:2018": {
+        "works": 71,
+        "boundary_citations": 26,
+        "boundary_credit": 0.04999999999999982
+      },
+      "https://openalex.org/S63151042:2018": {
+        "works": 121,
+        "boundary_citations": 27,
+        "boundary_credit": 0.02499999999999991
+      },
+      "https://openalex.org/S121299002:2018": {
+        "works": 95,
+        "boundary_citations": 26,
+        "boundary_credit": 0.5
+      },
+      "https://openalex.org/S41650241:2018": {
+        "works": 41,
+        "boundary_citations": 46,
+        "boundary_credit": 0.09999999999999964
+      },
+      "https://openalex.org/S204374153:2018": {
+        "works": 82,
+        "boundary_citations": 55,
+        "boundary_credit": 0.09999999999999964
+      },
+      "https://openalex.org/S116734912:2018": {
+        "works": 48,
+        "boundary_citations": 48,
+        "boundary_credit": 0.7999999999999998
+      },
+      "https://openalex.org/S107049385:2019": {
+        "works": 53,
+        "boundary_citations": 43,
+        "boundary_credit": 0.1499999999999999
+      },
+      "https://openalex.org/S80702723:2019": {
+        "works": 87,
+        "boundary_citations": 15,
+        "boundary_credit": 0.6999999999999993
+      },
+      "https://openalex.org/S37480348:2019": {
+        "works": 83,
+        "boundary_citations": 46,
+        "boundary_credit": 0.3000000000000007
+      },
+      "https://openalex.org/S170801797:2019": {
+        "works": 47,
+        "boundary_citations": 99,
+        "boundary_credit": 0.7000000000000002
+      },
+      "https://openalex.org/S255146:2019": {
+        "works": 450,
+        "boundary_citations": 34,
+        "boundary_credit": 0.25
+      },
+      "https://openalex.org/S204374153:2019": {
+        "works": 90,
+        "boundary_citations": 50,
+        "boundary_credit": 0.3333333333333333
+      },
+      "https://openalex.org/S121299002:2019": {
+        "works": 94,
+        "boundary_citations": 28,
+        "boundary_credit": 0.40000000000000036
+      },
+      "https://openalex.org/S13096939:2019": {
+        "works": 27,
+        "boundary_citations": 89,
+        "boundary_credit": 0.7000000000000002
+      },
+      "https://openalex.org/S35579339:2019": {
+        "works": 42,
+        "boundary_citations": 80,
+        "boundary_credit": 0.20000000000000018
+      },
+      "https://openalex.org/S160343789:2019": {
+        "works": 47,
+        "boundary_citations": 24,
+        "boundary_credit": 0.8500000000000001
+      },
+      "https://openalex.org/S14411630:2019": {
+        "works": 58,
+        "boundary_citations": 37,
+        "boundary_credit": 0.7999999999999998
+      },
+      "https://openalex.org/S98189702:2020": {
+        "works": 95,
+        "boundary_citations": 42,
+        "boundary_credit": 0.75
+      },
+      "https://openalex.org/S196911494:2020": {
+        "works": 97,
+        "boundary_citations": 5,
+        "boundary_credit": 0.2333333333333331
+      },
+      "https://openalex.org/S14411630:2020": {
+        "works": 88,
+        "boundary_citations": 38,
+        "boundary_credit": 0.8000000000000007
+      },
+      "https://openalex.org/S69970347:2020": {
+        "works": 48,
+        "boundary_citations": 24,
+        "boundary_credit": 0.8999999999999999
+      },
+      "https://openalex.org/S255146:2020": {
+        "works": 427,
+        "boundary_citations": 38,
+        "boundary_credit": 0.1750000000000007
+      },
+      "https://openalex.org/S80702723:2020": {
+        "works": 88,
+        "boundary_citations": 13,
+        "boundary_credit": 0.8000000000000007
+      },
+      "https://openalex.org/S147022693:2020": {
+        "works": 169,
+        "boundary_citations": 39,
+        "boundary_credit": 0.4499999999999993
+      },
+      "https://openalex.org/S20022381:2020": {
+        "works": 41,
+        "boundary_citations": 14,
+        "boundary_credit": 0.09999999999999964
+      },
+      "https://openalex.org/S37480348:2020": {
+        "works": 96,
+        "boundary_citations": 26,
+        "boundary_credit": 0.5999999999999996
+      },
+      "https://openalex.org/S121299002:2020": {
+        "works": 86,
+        "boundary_citations": 25,
+        "boundary_credit": 0.5999999999999996
+      },
+      "https://openalex.org/S255146:2021": {
+        "works": 480,
+        "boundary_citations": 29,
+        "boundary_credit": 1.0
+      },
+      "https://openalex.org/S204374153:2021": {
+        "works": 101,
+        "boundary_citations": 31,
+        "boundary_credit": 0.04999999999999982
+      },
+      "https://openalex.org/S37480348:2021": {
+        "works": 86,
+        "boundary_citations": 9,
+        "boundary_credit": 0.2999999999999998
+      },
+      "https://openalex.org/S23735784:2021": {
+        "works": 52,
+        "boundary_citations": 130,
+        "boundary_credit": 0.10000000000000009
+      },
+      "https://openalex.org/S147022693:2021": {
+        "works": 156,
+        "boundary_citations": 31,
+        "boundary_credit": 0.5999999999999996
+      },
+      "https://openalex.org/S121299002:2021": {
+        "works": 81,
+        "boundary_citations": 14,
+        "boundary_credit": 0.5499999999999998
+      },
+      "https://openalex.org/S196911494:2021": {
+        "works": 93,
+        "boundary_citations": 5,
+        "boundary_credit": 0.15000000000000036
+      },
+      "https://openalex.org/S69970347:2021": {
+        "works": 52,
+        "boundary_citations": 11,
+        "boundary_credit": 0.55
+      },
+      "https://openalex.org/S954855591:2020": {
+        "works": 21,
+        "boundary_citations": 3,
+        "boundary_credit": 0.03333333333333336
+      },
+      "https://openalex.org/S37480348:2022": {
+        "works": 47,
+        "boundary_citations": 16,
+        "boundary_credit": 0.7000000000000002
+      },
+      "https://openalex.org/S35579339:2016": {
+        "works": 37,
+        "boundary_citations": 98,
+        "boundary_credit": 0.7000000000000002
+      },
+      "https://openalex.org/S116734912:2019": {
+        "works": 50,
+        "boundary_citations": 43,
+        "boundary_credit": 1.0
+      },
+      "https://openalex.org/S196911494:2017": {
+        "works": 164,
+        "boundary_citations": 10,
+        "boundary_credit": 0.09999999999999964
+      },
+      "https://openalex.org/S69970347:2017": {
+        "works": 45,
+        "boundary_citations": 22,
+        "boundary_credit": 0.5
+      },
+      "https://openalex.org/S160343789:2017": {
+        "works": 19,
+        "boundary_citations": 39,
+        "boundary_credit": 0.8999999999999999
+      },
+      "https://openalex.org/S196911494:2022": {
+        "works": 121,
+        "boundary_citations": 2,
+        "boundary_credit": 0.3499999999999999
+      },
+      "https://openalex.org/S63151042:2022": {
+        "works": 140,
+        "boundary_citations": 16,
+        "boundary_credit": 0.5
+      },
+      "https://openalex.org/S103146128:2022": {
+        "works": 83,
+        "boundary_citations": 20,
+        "boundary_credit": 0.15000000000000036
+      },
+      "https://openalex.org/S156100525:2021": {
+        "works": 78,
+        "boundary_citations": 2,
+        "boundary_credit": 0.95
+      },
+      "https://openalex.org/S255146:2022": {
+        "works": 522,
+        "boundary_citations": 21,
+        "boundary_credit": 0.40000000000000036
+      },
+      "https://openalex.org/S121299002:2022": {
+        "works": 72,
+        "boundary_citations": 7,
+        "boundary_credit": 0.10000000000000009
+      },
+      "https://openalex.org/S20022381:2023": {
+        "works": 29,
+        "boundary_citations": 14,
+        "boundary_credit": 0.8999999999999999
+      },
+      "https://openalex.org/S255146:2023": {
+        "works": 416,
+        "boundary_citations": 16,
+        "boundary_credit": 0.9200000000000003
+      },
+      "https://openalex.org/S72705189:2023": {
+        "works": 35,
+        "boundary_citations": 12,
+        "boundary_credit": 0.5
+      },
+      "https://openalex.org/S184849641:2023": {
+        "works": 39,
+        "boundary_citations": 19,
+        "boundary_credit": 0.8999999999999999
+      },
+      "https://openalex.org/S204374153:2023": {
+        "works": 89,
+        "boundary_citations": 23,
+        "boundary_credit": 0.4500000000000002
+      },
+      "https://openalex.org/S113020877:2023": {
+        "works": 64,
+        "boundary_citations": 17,
+        "boundary_credit": 0.20000000000000018
+      },
+      "https://openalex.org/S147022693:2023": {
+        "works": 165,
+        "boundary_citations": 20,
+        "boundary_credit": 0.5
+      },
+      "https://openalex.org/S23735784:2023": {
+        "works": 80,
+        "boundary_citations": 45,
+        "boundary_credit": 1.0
+      },
+      "https://openalex.org/S147691735:2023": {
+        "works": 160,
+        "boundary_citations": 16,
+        "boundary_credit": 1.0
+      },
+      "https://openalex.org/S255146:2024": {
+        "works": 383,
+        "boundary_citations": 12,
+        "boundary_credit": 0.6499999999999986
+      },
+      "https://openalex.org/S69970347:2024": {
+        "works": 31,
+        "boundary_citations": 3,
+        "boundary_credit": 0.050000000000000044
+      },
+      "https://openalex.org/S121299002:2024": {
+        "works": 149,
+        "boundary_citations": 3,
+        "boundary_credit": 0.23750000000000004
+      },
+      "https://openalex.org/S170801797:2024": {
+        "works": 49,
+        "boundary_citations": 13,
+        "boundary_credit": 0.9500000000000002
+      },
+      "https://openalex.org/S147691735:2024": {
+        "works": 62,
+        "boundary_citations": 9,
+        "boundary_credit": 0.6000000000000001
+      },
+      "https://openalex.org/S196911494:2024": {
+        "works": 95,
+        "boundary_citations": 2,
+        "boundary_credit": 0.5
+      },
+      "https://openalex.org/S147022693:2024": {
+        "works": 174,
+        "boundary_citations": 12,
+        "boundary_credit": 0.1999999999999993
+      },
+      "https://openalex.org/S14411630:2015": {
+        "works": 4,
+        "boundary_citations": 39,
+        "boundary_credit": 0.4
+      },
+      "https://openalex.org/S103146128:2015": {
+        "works": 105,
+        "boundary_citations": 33,
+        "boundary_credit": 0.75
+      },
+      "https://openalex.org/S255146:2015": {
+        "works": 367,
+        "boundary_citations": 60,
+        "boundary_credit": 0.3500000000000014
+      },
+      "https://openalex.org/S160343789:2015": {
+        "works": 27,
+        "boundary_citations": 28,
+        "boundary_credit": 0.3500000000000001
+      },
+      "https://openalex.org/S72705189:2015": {
+        "works": 34,
+        "boundary_citations": 47,
+        "boundary_credit": 0.7
+      },
+      "https://openalex.org/S69970347:2015": {
+        "works": 76,
+        "boundary_citations": 6,
+        "boundary_credit": 0.5999999999999996
+      },
+      "https://openalex.org/S196911494:2015": {
+        "works": 105,
+        "boundary_citations": 10,
+        "boundary_credit": 0.5
+      },
+      "https://openalex.org/S156100525:2015": {
+        "works": 102,
+        "boundary_citations": 2,
+        "boundary_credit": 0.7999999999999998
+      },
+      "https://openalex.org/S204374153:2016": {
+        "works": 85,
+        "boundary_citations": 110,
+        "boundary_credit": 0.5
+      },
+      "https://openalex.org/S113020877:2016": {
+        "works": 30,
+        "boundary_citations": 63,
+        "boundary_credit": 1.0
+      },
+      "https://openalex.org/S147691735:2017": {
+        "works": 79,
+        "boundary_citations": 60,
+        "boundary_credit": 0.9000000000000004
+      },
+      "https://openalex.org/S116734912:2016": {
+        "works": 56,
+        "boundary_citations": 59,
+        "boundary_credit": 0.5999999999999996
+      },
+      "https://openalex.org/S72705189:2017": {
+        "works": 41,
+        "boundary_citations": 41,
+        "boundary_credit": 0.09999999999999964
+      },
+      "https://openalex.org/S14411630:2017": {
+        "works": 89,
+        "boundary_citations": 44,
+        "boundary_credit": 0.9000000000000004
+      },
+      "https://openalex.org/S41650241:2017": {
+        "works": 44,
+        "boundary_citations": 63,
+        "boundary_credit": 0.40000000000000036
+      },
+      "https://openalex.org/S98189702:2017": {
+        "works": 85,
+        "boundary_citations": 68,
+        "boundary_credit": 0.5
+      },
+      "https://openalex.org/S63151042:2017": {
+        "works": 100,
+        "boundary_citations": 31,
+        "boundary_credit": 0.3333333333333333
+      },
+      "https://openalex.org/S103146128:2018": {
+        "works": 105,
+        "boundary_citations": 43,
+        "boundary_credit": 0.75
+      },
+      "https://openalex.org/S69970347:2018": {
+        "works": 53,
+        "boundary_citations": 5,
+        "boundary_credit": 0.6499999999999999
+      },
+      "https://openalex.org/S80702723:2018": {
+        "works": 88,
+        "boundary_citations": 7,
+        "boundary_credit": 0.6000000000000002
+      },
+      "https://openalex.org/S107049385:2018": {
+        "works": 82,
+        "boundary_citations": 67,
+        "boundary_credit": 0.09999999999999964
+      },
+      "https://openalex.org/S14411630:2018": {
+        "works": 81,
+        "boundary_citations": 31,
+        "boundary_credit": 0.09999999999999964
+      },
+      "https://openalex.org/S147022693:2019": {
+        "works": 175,
+        "boundary_citations": 44,
+        "boundary_credit": 0.5
+      },
+      "https://openalex.org/S81959571:2019": {
+        "works": 88,
+        "boundary_citations": 50,
+        "boundary_credit": 0.8000000000000007
+      },
+      "https://openalex.org/S170801797:2020": {
+        "works": 33,
+        "boundary_citations": 95,
+        "boundary_credit": 0.2999999999999998
+      },
+      "https://openalex.org/S103146128:2020": {
+        "works": 85,
+        "boundary_citations": 27,
+        "boundary_credit": 0.75
+      },
+      "https://openalex.org/S160343789:2020": {
+        "works": 73,
+        "boundary_citations": 21,
+        "boundary_credit": 0.2999999999999998
+      },
+      "https://openalex.org/S80702723:2021": {
+        "works": 80,
+        "boundary_citations": 3,
+        "boundary_credit": 1.0
+      },
+      "https://openalex.org/S98189702:2021": {
+        "works": 86,
+        "boundary_citations": 36,
+        "boundary_credit": 0.5999999999999996
+      },
+      "https://openalex.org/S203071428:2017": {
+        "works": 26,
+        "boundary_citations": 8,
+        "boundary_credit": 0.6000000000000001
+      },
+      "https://openalex.org/S63151042:2021": {
+        "works": 154,
+        "boundary_citations": 19,
+        "boundary_credit": 0.20000000000000018
+      },
+      "https://openalex.org/S107049385:2021": {
+        "works": 108,
+        "boundary_citations": 30,
+        "boundary_credit": 0.8000000000000007
+      },
+      "https://openalex.org/S41650241:2021": {
+        "works": 35,
+        "boundary_citations": 31,
+        "boundary_credit": 0.5
+      },
+      "https://openalex.org/S160343789:2022": {
+        "works": 23,
+        "boundary_citations": 12,
+        "boundary_credit": 0.2999999999999998
+      },
+      "https://openalex.org/S14411630:2021": {
+        "works": 104,
+        "boundary_citations": 19,
+        "boundary_credit": 0.7000000000000002
+      },
+      "https://openalex.org/S184849641:2019": {
+        "works": 23,
+        "boundary_citations": 43,
+        "boundary_credit": 0.2999999999999998
+      },
+      "https://openalex.org/S184849641:2016": {
+        "works": 41,
+        "boundary_citations": 59,
+        "boundary_credit": 0.09999999999999964
+      },
+      "https://openalex.org/S954855591:2021": {
+        "works": 20,
+        "boundary_citations": 4,
+        "boundary_credit": 1.0
+      },
+      "https://openalex.org/S98189702:2022": {
+        "works": 54,
+        "boundary_citations": 26,
+        "boundary_credit": 0.40000000000000036
+      },
+      "https://openalex.org/S156100525:2019": {
+        "works": 144,
+        "boundary_citations": 1,
+        "boundary_credit": 0.49090909090909096
+      },
+      "https://openalex.org/S69970347:2022": {
+        "works": 39,
+        "boundary_citations": 5,
+        "boundary_credit": 0.8999999999999999
+      },
+      "https://openalex.org/S80702723:2022": {
+        "works": 70,
+        "boundary_citations": 4,
+        "boundary_credit": 0.5
+      },
+      "https://openalex.org/S203071428:2022": {
+        "works": 41,
+        "boundary_citations": 3,
+        "boundary_credit": 0.033333333333333215
+      },
+      "https://openalex.org/S15279844:2023": {
+        "works": 18,
+        "boundary_citations": 30,
+        "boundary_credit": 0.8
+      },
+      "https://openalex.org/S63151042:2023": {
+        "works": 110,
+        "boundary_citations": 8,
+        "boundary_credit": 0.5
+      },
+      "https://openalex.org/S98189702:2023": {
+        "works": 32,
+        "boundary_citations": 15,
+        "boundary_credit": 0.20000000000000018
+      },
+      "https://openalex.org/S13096939:2023": {
+        "works": 61,
+        "boundary_citations": 37,
+        "boundary_credit": 0.04999999999999982
+      },
+      "https://openalex.org/S156100525:2023": {
+        "works": 79,
+        "boundary_citations": 1,
+        "boundary_credit": 0.32222222222222224
+      },
+      "https://openalex.org/S107049385:2023": {
+        "works": 56,
+        "boundary_citations": 16,
+        "boundary_credit": 0.7999999999999998
+      },
+      "https://openalex.org/S116734912:2023": {
+        "works": 65,
+        "boundary_citations": 14,
+        "boundary_credit": 0.5
+      },
+      "https://openalex.org/S156100525:2024": {
+        "works": 75,
+        "boundary_citations": 0,
+        "boundary_credit": 0.021739130434782608
+      },
+      "https://openalex.org/S37480348:2024": {
+        "works": 75,
+        "boundary_citations": 11,
+        "boundary_credit": 0.5
+      },
+      "https://openalex.org/S14411630:2024": {
+        "works": 95,
+        "boundary_citations": 4,
+        "boundary_credit": 0.08333333333333333
+      },
+      "https://openalex.org/S113020877:2024": {
+        "works": 69,
+        "boundary_citations": 10,
+        "boundary_credit": 0.9000000000000004
+      },
+      "https://openalex.org/S13096939:2024": {
+        "works": 75,
+        "boundary_citations": 42,
+        "boundary_credit": 0.5
+      },
+      "https://openalex.org/S20022381:2015": {
+        "works": 39,
+        "boundary_citations": 43,
+        "boundary_credit": 0.8999999999999999
+      },
+      "https://openalex.org/S170801797:2016": {
+        "works": 50,
+        "boundary_citations": 106,
+        "boundary_credit": 1.0
+      },
+      "https://openalex.org/S20022381:2016": {
+        "works": 51,
+        "boundary_citations": 17,
+        "boundary_credit": 0.09999999999999964
+      },
+      "https://openalex.org/S37480348:2016": {
+        "works": 134,
+        "boundary_citations": 57,
+        "boundary_credit": 0.40000000000000036
+      },
+      "https://openalex.org/S23735784:2016": {
+        "works": 35,
+        "boundary_citations": 225,
+        "boundary_credit": 0.5
+      },
+      "https://openalex.org/S81959571:2016": {
+        "works": 95,
+        "boundary_citations": 61,
+        "boundary_credit": 0.5
+      },
+      "https://openalex.org/S156100525:2016": {
+        "works": 62,
+        "boundary_citations": 3,
+        "boundary_credit": 0.4000000000000001
+      },
+      "https://openalex.org/S203071428:2016": {
+        "works": 29,
+        "boundary_citations": 4,
+        "boundary_credit": 0.8999999999999999
+      },
+      "https://openalex.org/S20022381:2018": {
+        "works": 22,
+        "boundary_citations": 10,
+        "boundary_credit": 0.20000000000000018
+      },
+      "https://openalex.org/S72705189:2018": {
+        "works": 25,
+        "boundary_citations": 41,
+        "boundary_credit": 0.5
+      },
+      "https://openalex.org/S72705189:2019": {
+        "works": 31,
+        "boundary_citations": 46,
+        "boundary_credit": 0.10000000000000009
+      },
+      "https://openalex.org/S98189702:2019": {
+        "works": 78,
+        "boundary_citations": 42,
+        "boundary_credit": 0.3999999999999999
+      },
+      "https://openalex.org/S23735784:2020": {
+        "works": 51,
+        "boundary_citations": 195,
+        "boundary_credit": 0.09999999999999964
+      },
+      "https://openalex.org/S35579339:2020": {
+        "works": 38,
+        "boundary_citations": 86,
+        "boundary_credit": 0.7999999999999998
+      },
+      "https://openalex.org/S81959571:2020": {
+        "works": 89,
+        "boundary_citations": 40,
+        "boundary_credit": 0.9666666666666668
+      },
+      "https://openalex.org/S147691735:2020": {
+        "works": 93,
+        "boundary_citations": 44,
+        "boundary_credit": 0.3000000000000007
+      },
+      "https://openalex.org/S204374153:2020": {
+        "works": 84,
+        "boundary_citations": 49,
+        "boundary_credit": 0.40000000000000036
+      },
+      "https://openalex.org/S63151042:2020": {
+        "works": 140,
+        "boundary_citations": 25,
+        "boundary_credit": 1.0
+      },
+      "https://openalex.org/S124026647:2020": {
+        "works": 29,
+        "boundary_citations": 5,
+        "boundary_credit": 0.8999999999999999
+      },
+      "https://openalex.org/S103146128:2021": {
+        "works": 102,
+        "boundary_citations": 18,
+        "boundary_credit": 0.5999999999999996
+      },
+      "https://openalex.org/S72705189:2020": {
+        "works": 43,
+        "boundary_citations": 24,
+        "boundary_credit": 0.2999999999999998
+      },
+      "https://openalex.org/S160343789:2021": {
+        "works": 41,
+        "boundary_citations": 22,
+        "boundary_credit": 0.09999999999999964
+      },
+      "https://openalex.org/S124026647:2021": {
+        "works": 37,
+        "boundary_citations": 6,
+        "boundary_credit": 0.7000000000000002
+      },
+      "https://openalex.org/S170801797:2021": {
+        "works": 42,
+        "boundary_citations": 41,
+        "boundary_credit": 0.20000000000000018
+      },
+      "https://openalex.org/S156100525:2022": {
+        "works": 85,
+        "boundary_citations": 1,
+        "boundary_credit": 0.21428571428571427
+      },
+      "https://openalex.org/S69970347:2016": {
+        "works": 55,
+        "boundary_citations": 12,
+        "boundary_credit": 0.5
+      },
+      "https://openalex.org/S80702723:2015": {
+        "works": 83,
+        "boundary_citations": 43,
+        "boundary_credit": 0.3000000000000007
+      },
+      "https://openalex.org/S15279844:2022": {
+        "works": 18,
+        "boundary_citations": 45,
+        "boundary_credit": 0.8
+      },
+      "https://openalex.org/S41650241:2022": {
+        "works": 34,
+        "boundary_citations": 27,
+        "boundary_credit": 0.3999999999999999
+      },
+      "https://openalex.org/S156100525:2018": {
+        "works": 108,
+        "boundary_citations": 1,
+        "boundary_credit": 0.08888888888888896
+      },
+      "https://openalex.org/S116734912:2022": {
+        "works": 57,
+        "boundary_citations": 27,
+        "boundary_credit": 0.7000000000000002
+      },
+      "https://openalex.org/S14411630:2022": {
+        "works": 68,
+        "boundary_citations": 23,
+        "boundary_credit": 0.7999999999999998
+      },
+      "https://openalex.org/S81959571:2023": {
+        "works": 125,
+        "boundary_citations": 12,
+        "boundary_credit": 0.16666666666666666
+      },
+      "https://openalex.org/S80702723:2023": {
+        "works": 67,
+        "boundary_citations": 2,
+        "boundary_credit": 0.45
+      },
+      "https://openalex.org/S124026647:2023": {
+        "works": 19,
+        "boundary_citations": 4,
+        "boundary_credit": 0.8999999999999999
+      },
+      "https://openalex.org/S14411630:2023": {
+        "works": 54,
+        "boundary_citations": 7,
+        "boundary_credit": 0.20000000000000018
+      },
+      "https://openalex.org/S81959571:2024": {
+        "works": 149,
+        "boundary_citations": 9,
+        "boundary_credit": 0.9000000000000004
+      },
+      "https://openalex.org/S20022381:2024": {
+        "works": 34,
+        "boundary_citations": 5,
+        "boundary_credit": 0.7999999999999999
+      },
+      "https://openalex.org/S204374153:2024": {
+        "works": 87,
+        "boundary_citations": 13,
+        "boundary_credit": 0.34999999999999964
+      },
+      "https://openalex.org/S121299002:2023": {
+        "works": 88,
+        "boundary_citations": 10,
+        "boundary_credit": 0.20000000000000018
+      },
+      "https://openalex.org/S124026647:2024": {
+        "works": 28,
+        "boundary_citations": 2,
+        "boundary_credit": 0.3999999999999999
+      },
+      "https://openalex.org/S121299002:2015": {
+        "works": 102,
+        "boundary_citations": 21,
+        "boundary_credit": 0.09999999999999964
+      },
+      "https://openalex.org/S20022381:2017": {
+        "works": 29,
+        "boundary_citations": 30,
+        "boundary_credit": 0.8999999999999999
+      },
+      "https://openalex.org/S37480348:2017": {
+        "works": 78,
+        "boundary_citations": 82,
+        "boundary_credit": 0.7999999999999998
+      },
+      "https://openalex.org/S147691735:2018": {
+        "works": 85,
+        "boundary_citations": 49,
+        "boundary_credit": 0.5
+      },
+      "https://openalex.org/S13096939:2018": {
+        "works": 51,
+        "boundary_citations": 136,
+        "boundary_credit": 0.5499999999999998
+      },
+      "https://openalex.org/S107049385:2017": {
+        "works": 73,
+        "boundary_citations": 75,
+        "boundary_credit": 0.2999999999999998
+      },
+      "https://openalex.org/S37480348:2018": {
+        "works": 83,
+        "boundary_citations": 50,
+        "boundary_credit": 0.3000000000000007
+      },
+      "https://openalex.org/S63151042:2019": {
+        "works": 99,
+        "boundary_citations": 44,
+        "boundary_credit": 0.9000000000000004
+      },
+      "https://openalex.org/S103146128:2019": {
+        "works": 75,
+        "boundary_citations": 33,
+        "boundary_credit": 0.5
+      },
+      "https://openalex.org/S69970347:2019": {
+        "works": 59,
+        "boundary_citations": 29,
+        "boundary_credit": 0.9000000000000004
+      },
+      "https://openalex.org/S107049385:2020": {
+        "works": 10,
+        "boundary_citations": 33,
+        "boundary_credit": 1.0
+      },
+      "https://openalex.org/S13096939:2020": {
+        "works": 44,
+        "boundary_citations": 117,
+        "boundary_credit": 0.40000000000000036
+      },
+      "https://openalex.org/S113020877:2021": {
+        "works": 46,
+        "boundary_citations": 29,
+        "boundary_credit": 0.5999999999999996
+      },
+      "https://openalex.org/S184849641:2021": {
+        "works": 33,
+        "boundary_citations": 49,
+        "boundary_credit": 0.2999999999999998
+      },
+      "https://openalex.org/S116734912:2021": {
+        "works": 49,
+        "boundary_citations": 30,
+        "boundary_credit": 0.9000000000000004
+      },
+      "https://openalex.org/S147022693:2022": {
+        "works": 133,
+        "boundary_citations": 19,
+        "boundary_credit": 0.6500000000000004
+      },
+      "https://openalex.org/S116734912:2017": {
+        "works": 47,
+        "boundary_citations": 38,
+        "boundary_credit": 0.7000000000000002
+      },
+      "https://openalex.org/S196911494:2023": {
+        "works": 97,
+        "boundary_citations": 2,
+        "boundary_credit": 0.8142857142857142
+      },
+      "https://openalex.org/S37480348:2023": {
+        "works": 83,
+        "boundary_citations": 16,
+        "boundary_credit": 0.3000000000000007
+      },
+      "https://openalex.org/S170801797:2023": {
+        "works": 38,
+        "boundary_citations": 32,
+        "boundary_credit": 0.7999999999999998
+      },
+      "https://openalex.org/S23735784:2024": {
+        "works": 137,
+        "boundary_citations": 29,
+        "boundary_credit": 0.2333333333333331
+      },
+      "https://openalex.org/S170801797:2015": {
+        "works": 53,
+        "boundary_citations": 163,
+        "boundary_credit": 0.2999999999999998
+      },
+      "https://openalex.org/S98189702:2016": {
+        "works": 104,
+        "boundary_citations": 44,
+        "boundary_credit": 0.40000000000000036
+      },
+      "https://openalex.org/S72705189:2016": {
+        "works": 36,
+        "boundary_citations": 94,
+        "boundary_credit": 0.6000000000000001
+      },
+      "https://openalex.org/S23735784:2017": {
+        "works": 48,
+        "boundary_citations": 160,
+        "boundary_credit": 0.7999999999999998
+      },
+      "https://openalex.org/S203071428:2015": {
+        "works": 48,
+        "boundary_citations": 4,
+        "boundary_credit": 0.2666666666666666
+      },
+      "https://openalex.org/S35579339:2015": {
+        "works": 39,
+        "boundary_citations": 85,
+        "boundary_credit": 0.8999999999999999
+      },
+      "https://openalex.org/S113020877:2018": {
+        "works": 27,
+        "boundary_citations": 55,
+        "boundary_credit": 0.7000000000000002
+      },
+      "https://openalex.org/S124026647:2018": {
+        "works": 33,
+        "boundary_citations": 9,
+        "boundary_credit": 0.2999999999999998
+      },
+      "https://openalex.org/S203071428:2018": {
+        "works": 30,
+        "boundary_citations": 5,
+        "boundary_credit": 1.0
+      },
+      "https://openalex.org/S147691735:2019": {
+        "works": 87,
+        "boundary_citations": 45,
+        "boundary_credit": 0.2333333333333331
+      },
+      "https://openalex.org/S203071428:2021": {
+        "works": 41,
+        "boundary_citations": 3,
+        "boundary_credit": 0.04999999999999982
+      },
+      "https://openalex.org/S20022381:2021": {
+        "works": 33,
+        "boundary_citations": 32,
+        "boundary_credit": 0.2999999999999998
+      },
+      "https://openalex.org/S81959571:2021": {
+        "works": 75,
+        "boundary_citations": 32,
+        "boundary_credit": 0.16666666666666666
+      },
+      "https://openalex.org/S204374153:2022": {
+        "works": 74,
+        "boundary_citations": 21,
+        "boundary_credit": 0.20000000000000018
+      },
+      "https://openalex.org/S13096939:2022": {
+        "works": 52,
+        "boundary_citations": 54,
+        "boundary_credit": 0.20000000000000018
+      },
+      "https://openalex.org/S103146128:2023": {
+        "works": 61,
+        "boundary_citations": 15,
+        "boundary_credit": 0.09999999999999964
+      },
+      "https://openalex.org/S98189702:2024": {
+        "works": 79,
+        "boundary_citations": 11,
+        "boundary_credit": 0.4500000000000002
+      },
+      "https://openalex.org/S954855591:2024": {
+        "works": 19,
+        "boundary_citations": 2,
+        "boundary_credit": 0.8999999999999999
+      },
+      "https://openalex.org/S41650241:2024": {
+        "works": 40,
+        "boundary_citations": 12,
+        "boundary_credit": 0.5
+      },
+      "https://openalex.org/S103146128:2016": {
+        "works": 78,
+        "boundary_citations": 37,
+        "boundary_credit": 0.7999999999999998
+      },
+      "https://openalex.org/S196911494:2019": {
+        "works": 120,
+        "boundary_citations": 8,
+        "boundary_credit": 1.0
+      },
+      "https://openalex.org/S113020877:2019": {
+        "works": 56,
+        "boundary_citations": 27,
+        "boundary_credit": 0.5999999999999996
+      },
+      "https://openalex.org/S15279844:2020": {
+        "works": 22,
+        "boundary_citations": 77,
+        "boundary_credit": 0.20000000000000018
+      },
+      "https://openalex.org/S35579339:2021": {
+        "works": 49,
+        "boundary_citations": 36,
+        "boundary_credit": 0.9000000000000004
+      },
+      "https://openalex.org/S147691735:2022": {
+        "works": 127,
+        "boundary_citations": 20,
+        "boundary_credit": 0.34999999999999964
+      },
+      "https://openalex.org/S15279844:2018": {
+        "works": 20,
+        "boundary_citations": 114,
+        "boundary_credit": 1.0
+      },
+      "https://openalex.org/S23735784:2022": {
+        "works": 103,
+        "boundary_citations": 74,
+        "boundary_credit": 0.3000000000000007
+      },
+      "https://openalex.org/S156100525:2020": {
+        "works": 99,
+        "boundary_citations": 1,
+        "boundary_credit": 0.12857142857142861
+      },
+      "https://openalex.org/S954855591:2023": {
+        "works": 18,
+        "boundary_citations": 16,
+        "boundary_credit": 0.8
+      },
+      "https://openalex.org/S160343789:2024": {
+        "works": 36,
+        "boundary_citations": 14,
+        "boundary_credit": 0.30000000000000004
+      },
+      "https://openalex.org/S184849641:2024": {
+        "works": 38,
+        "boundary_citations": 16,
+        "boundary_credit": 0.8999999999999999
+      },
+      "https://openalex.org/S107049385:2024": {
+        "works": 47,
+        "boundary_citations": 9,
+        "boundary_credit": 0.3500000000000001
+      },
+      "https://openalex.org/S184849641:2015": {
+        "works": 99,
+        "boundary_citations": 93,
+        "boundary_credit": 0.9000000000000004
+      },
+      "https://openalex.org/S81959571:2017": {
+        "works": 69,
+        "boundary_citations": 103,
+        "boundary_credit": 0.9000000000000004
+      },
+      "https://openalex.org/S23735784:2018": {
+        "works": 38,
+        "boundary_citations": 183,
+        "boundary_credit": 0.7999999999999998
+      },
+      "https://openalex.org/S23735784:2019": {
+        "works": 45,
+        "boundary_citations": 220,
+        "boundary_credit": 0.5
+      },
+      "https://openalex.org/S184849641:2020": {
+        "works": 25,
+        "boundary_citations": 73,
+        "boundary_credit": 0.5
+      },
+      "https://openalex.org/S124026647:2022": {
+        "works": 40,
+        "boundary_citations": 8,
+        "boundary_credit": 1.0
+      },
+      "https://openalex.org/S41650241:2015": {
+        "works": 44,
+        "boundary_citations": 48,
+        "boundary_credit": 0.40000000000000036
+      },
+      "https://openalex.org/S160343789:2023": {
+        "works": 50,
+        "boundary_citations": 13,
+        "boundary_credit": 1.0
+      },
+      "https://openalex.org/S203071428:2023": {
+        "works": 27,
+        "boundary_citations": 2,
+        "boundary_credit": 0.2333333333333334
+      },
+      "https://openalex.org/S80702723:2024": {
+        "works": 67,
+        "boundary_citations": 3,
+        "boundary_credit": 0.8500000000000001
+      },
+      "https://openalex.org/S13096939:2016": {
+        "works": 30,
+        "boundary_citations": 196,
+        "boundary_credit": 1.0
+      },
+      "https://openalex.org/S80702723:2017": {
+        "works": 83,
+        "boundary_citations": 42,
+        "boundary_credit": 0.3000000000000007
+      },
+      "https://openalex.org/S81959571:2018": {
+        "works": 68,
+        "boundary_citations": 59,
+        "boundary_credit": 0.7999999999999998
+      },
+      "https://openalex.org/S124026647:2019": {
+        "works": 34,
+        "boundary_citations": 5,
+        "boundary_credit": 0.1333333333333333
+      },
+      "https://openalex.org/S113020877:2020": {
+        "works": 59,
+        "boundary_citations": 36,
+        "boundary_credit": 0.9000000000000004
+      },
+      "https://openalex.org/S13096939:2021": {
+        "works": 47,
+        "boundary_citations": 95,
+        "boundary_credit": 0.7000000000000002
+      },
+      "https://openalex.org/S954855591:2017": {
+        "works": 20,
+        "boundary_citations": 21,
+        "boundary_credit": 1.0
+      },
+      "https://openalex.org/S81959571:2022": {
+        "works": 83,
+        "boundary_citations": 25,
+        "boundary_credit": 0.6500000000000004
+      },
+      "https://openalex.org/S113020877:2022": {
+        "works": 69,
+        "boundary_citations": 25,
+        "boundary_credit": 0.9000000000000004
+      },
+      "https://openalex.org/S35579339:2022": {
+        "works": 42,
+        "boundary_citations": 20,
+        "boundary_credit": 0.20000000000000018
+      },
+      "https://openalex.org/S116734912:2024": {
+        "works": 29,
+        "boundary_citations": 6,
+        "boundary_credit": 0.44999999999999996
+      },
+      "https://openalex.org/S63151042:2024": {
+        "works": 136,
+        "boundary_citations": 5,
+        "boundary_credit": 0.2999999999999998
+      },
+      "https://openalex.org/S72705189:2024": {
+        "works": 29,
+        "boundary_citations": 15,
+        "boundary_credit": 0.8999999999999999
+      },
+      "https://openalex.org/S15279844:2015": {
+        "works": 14,
+        "boundary_citations": 153,
+        "boundary_credit": 0.3999999999999999
+      },
+      "https://openalex.org/S116734912:2015": {
+        "works": 55,
+        "boundary_citations": 46,
+        "boundary_credit": 0.25
+      },
+      "https://openalex.org/S196911494:2018": {
+        "works": 94,
+        "boundary_citations": 10,
+        "boundary_credit": 0.7000000000000002
+      },
+      "https://openalex.org/S203071428:2019": {
+        "works": 31,
+        "boundary_citations": 3,
+        "boundary_credit": 0.10000000000000009
+      },
+      "https://openalex.org/S954855591:2019": {
+        "works": 21,
+        "boundary_citations": 3,
+        "boundary_credit": 0.025000000000000022
+      },
+      "https://openalex.org/S103146128:2024": {
+        "works": 39,
+        "boundary_citations": 7,
+        "boundary_credit": 0.65
+      },
+      "https://openalex.org/S13096939:2017": {
+        "works": 27,
+        "boundary_citations": 156,
+        "boundary_credit": 0.7000000000000002
+      },
+      "https://openalex.org/S954855591:2022": {
+        "works": 23,
+        "boundary_citations": 3,
+        "boundary_credit": 0.09999999999999994
+      },
+      "https://openalex.org/S35579339:2023": {
+        "works": 42,
+        "boundary_citations": 4,
+        "boundary_credit": 0.20000000000000018
+      },
+      "https://openalex.org/S124026647:2015": {
+        "works": 45,
+        "boundary_citations": 10,
+        "boundary_credit": 0.5
+      },
+      "https://openalex.org/S170801797:2018": {
+        "works": 27,
+        "boundary_citations": 159,
+        "boundary_credit": 0.7000000000000002
+      },
+      "https://openalex.org/S170801797:2022": {
+        "works": 35,
+        "boundary_citations": 47,
+        "boundary_credit": 0.5
+      },
+      "https://openalex.org/S160343789:2016": {
+        "works": 28,
+        "boundary_citations": 101,
+        "boundary_credit": 0.7999999999999998
+      },
+      "https://openalex.org/S20022381:2019": {
+        "works": 23,
+        "boundary_citations": 31,
+        "boundary_credit": 0.2999999999999998
+      },
+      "https://openalex.org/S184849641:2022": {
+        "works": 26,
+        "boundary_citations": 39,
+        "boundary_credit": 0.6000000000000001
+      },
+      "https://openalex.org/S69970347:2023": {
+        "works": 31,
+        "boundary_citations": 13,
+        "boundary_credit": 0.7000000000000001
+      },
+      "https://openalex.org/S23735784:2015": {
+        "works": 29,
+        "boundary_citations": 115,
+        "boundary_credit": 0.8999999999999999
+      },
+      "https://openalex.org/S113020877:2015": {
+        "works": 24,
+        "boundary_citations": 40,
+        "boundary_credit": 0.3999999999999999
+      },
+      "https://openalex.org/S13096939:2015": {
+        "works": 24,
+        "boundary_citations": 138,
+        "boundary_credit": 0.3999999999999999
+      },
+      "https://openalex.org/S116734912:2020": {
+        "works": 57,
+        "boundary_citations": 25,
+        "boundary_credit": 0.3500000000000001
+      },
+      "https://openalex.org/S107049385:2022": {
+        "works": 28,
+        "boundary_citations": 21,
+        "boundary_credit": 0.7999999999999998
+      },
+      "https://openalex.org/S15279844:2024": {
+        "works": 18,
+        "boundary_citations": 16,
+        "boundary_credit": 0.8
+      },
+      "https://openalex.org/S41650241:2019": {
+        "works": 43,
+        "boundary_citations": 50,
+        "boundary_credit": 0.1499999999999999
+      },
+      "https://openalex.org/S15279844:2021": {
+        "works": 17,
+        "boundary_citations": 109,
+        "boundary_credit": 0.7
+      },
+      "https://openalex.org/S15279844:2016": {
+        "works": 13,
+        "boundary_citations": 135,
+        "boundary_credit": 0.30000000000000004
+      },
+      "https://openalex.org/S20022381:2022": {
+        "works": 21,
+        "boundary_citations": 9,
+        "boundary_credit": 0.10000000000000009
+      },
+      "https://openalex.org/S184849641:2018": {
+        "works": 25,
+        "boundary_citations": 166,
+        "boundary_credit": 0.5
+      },
+      "https://openalex.org/S147691735:2021": {
+        "works": 69,
+        "boundary_citations": 21,
+        "boundary_credit": 0.9750000000000001
+      },
+      "https://openalex.org/S203071428:2024": {
+        "works": 15,
+        "boundary_citations": 0,
+        "boundary_credit": 0.03571428571428571
+      },
+      "https://openalex.org/S160343789:2018": {
+        "works": 13,
+        "boundary_citations": 16,
+        "boundary_credit": 0.30000000000000004
+      },
+      "https://openalex.org/S41650241:2023": {
+        "works": 30,
+        "boundary_citations": 37,
+        "boundary_credit": 1.0
+      },
+      "https://openalex.org/S35579339:2024": {
+        "works": 34,
+        "boundary_citations": 12,
+        "boundary_credit": 0.3999999999999999
+      },
+      "https://openalex.org/S184849641:2017": {
+        "works": 40,
+        "boundary_citations": 115,
+        "boundary_credit": 1.0
+      },
+      "https://openalex.org/S72705189:2021": {
+        "works": 35,
+        "boundary_citations": 32,
+        "boundary_credit": 0.5
+      },
+      "https://openalex.org/S954855591:2018": {
+        "works": 21,
+        "boundary_citations": 16,
+        "boundary_credit": 0.10000000000000009
+      },
+      "https://openalex.org/S203071428:2020": {
+        "works": 28,
+        "boundary_citations": 5,
+        "boundary_credit": 0.3999999999999999
+      },
+      "https://openalex.org/S41650241:2020": {
+        "works": 35,
+        "boundary_citations": 39,
+        "boundary_credit": 0.5
+      },
+      "https://openalex.org/S954855591:2015": {
+        "works": 6,
+        "boundary_citations": 14,
+        "boundary_credit": 0.6
+      },
+      "https://openalex.org/S124026647:2016": {
+        "works": 26,
+        "boundary_citations": 6,
+        "boundary_credit": 0.8
+      },
+      "https://openalex.org/S72705189:2022": {
+        "works": 19,
+        "boundary_citations": 19,
+        "boundary_credit": 0.8999999999999999
+      },
+      "https://openalex.org/S15279844:2019": {
+        "works": 17,
+        "boundary_citations": 81,
+        "boundary_credit": 0.7
+      },
+      "https://openalex.org/S124026647:2017": {
+        "works": 18,
+        "boundary_citations": 10,
+        "boundary_credit": 0.8
+      }
+    },
+    "duplicate_dois": 0
+  },
+  "sources": [
+    {
+      "source": "philosophy_journals",
+      "collected_at": "2026-10-23 14:05:10.270417+00:00",
+      "source_record_count": 23488,
+      "content_sha256": "58968426b8d6eaf9222c74e380d853aeb388e64c7395cd6e5aff1d6abe423068",
+      "artifacts": [
+        {
+          "url": "https://api.openalex.org/sources?filter=issn%3A0022-362X",
+          "sha256": "0d9403204e39a6930d5ef9dd977aa55d9b35edc53e30f2dd965cbcca704e51b5",
+          "retrieved_at": "2026-10-23T13:59:56.990042+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/sources?filter=issn%3A0031-8108",
+          "sha256": "4af06199317fdb059bbd05feb2a031b860ddb24c706ac716efc9d804178a933b",
+          "retrieved_at": "2026-10-23T13:59:57.243255+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/sources?filter=issn%3A0026-4423",
+          "sha256": "f8e3886c3b4038f28d65e7f7561bd3654bcbab99a69ed0159db0283db3a1b9f9",
+          "retrieved_at": "2026-10-23T13:59:57.498991+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/sources?filter=issn%3A0029-4624",
+          "sha256": "cf03c0602efc592823cb5fcedc5c392ed098bb469c20891bfb2fb76a4e539c74",
+          "retrieved_at": "2026-10-23T13:59:57.753522+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/sources?filter=issn%3A0031-8205",
+          "sha256": "90e3642ff586b731c1c2438ffbf03881ad41ef0e9bb303a907720302c86432fc",
+          "retrieved_at": "2026-10-23T13:59:57.989080+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/sources?filter=issn%3A0014-1704",
+          "sha256": "f9f5768f5594a88df5b18bf04bf472bb5e1656fffa511a3836114e503571e78a",
+          "retrieved_at": "2026-10-23T13:59:58.226161+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/sources?filter=issn%3A0003-2638",
+          "sha256": "cfa4531cafb31eee3c4d31dd058999c3258998e56627734db3a9355f58378a37",
+          "retrieved_at": "2026-10-23T13:59:58.416393+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/sources?filter=issn%3A0031-8094",
+          "sha256": "fc1b436a7d28dd56651c2f74ec613b49e47070c02bd253257d0bbfc854c8d6f8",
+          "retrieved_at": "2026-10-23T13:59:58.682461+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/sources?filter=issn%3A0039-7857",
+          "sha256": "68933ba67c576a88b528c2377a32abfa7a54816d21f3fc48e2e974d759e938c0",
+          "retrieved_at": "2026-10-23T14:02:47.486541+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/sources?filter=issn%3A0165-0106",
+          "sha256": "1a360dc6c3e156e021c628c578c628b13358319f689e8ddcd47c1086eb8fbd15",
+          "retrieved_at": "2026-10-23T14:02:47.767047+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/sources?filter=issn%3A0031-8116",
+          "sha256": "4654f9b78e4e63c6ff838f3f70240e61fa63254bd88d847d415ca6932da1d592",
+          "retrieved_at": "2026-10-23T14:02:48.027455+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/sources?filter=issn%3A0004-8402",
+          "sha256": "bfd555a6215b894070f37d7b9ec92c7b1524b8e1cf19920d5d31856e15be4f26",
+          "retrieved_at": "2026-10-23T14:02:48.303980+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/sources?filter=issn%3A0007-0882",
+          "sha256": "2e22be63bcf3a33a1877c07a642ee2264959a65595113f65cfc4af4b1b00760a",
+          "retrieved_at": "2026-10-23T14:02:48.560992+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/sources?filter=issn%3A0031-8248",
+          "sha256": "80851285c79d9cdeff5792148b933d67ee3fced61f25a3a50f9c06e7cb62ba25",
+          "retrieved_at": "2026-10-23T14:02:48.717259+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/sources?filter=issn%3A0048-3915",
+          "sha256": "f52e8c6ee388c5be6effa2ff8e90a9b33a275d4481c5303c75fb82e9c210c074",
+          "retrieved_at": "2026-10-23T14:02:48.869347+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/sources?filter=issn%3A1386-2820",
+          "sha256": "28fcf96a061c5fdf0089e9b54e59d84d7a46a871c994eda81e6435ce209f7bce",
+          "retrieved_at": "2026-10-23T14:02:49.027048+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/sources?filter=issn%3A1382-4554",
+          "sha256": "e7de2bd75bd1f222a38d5c5ffabbfcd87a2694b465d2a46ee623cc84d7ebd539",
+          "retrieved_at": "2026-10-23T14:03:42.039902+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/sources?filter=issn%3A1388-1957",
+          "sha256": "1c841efcab1f85cadfb80c5e42b9dd2712fd317198a73e45d1d8fb6aa36e2959",
+          "retrieved_at": "2026-10-23T14:03:28.870727+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/sources?filter=issn%3A2210-5433",
+          "sha256": "e2cf9b55150546eca01373a6bfffe0e53369d3819f612a2dded2df3e8d2e7735",
+          "retrieved_at": "2026-10-23T14:03:29.130517+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/sources?filter=issn%3A0269-1728",
+          "sha256": "576cb85da83966f3ff080e526bf21a7a74e5b577d0ba98fb2360c1975823c48e",
+          "retrieved_at": "2026-10-23T14:03:29.371886+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/sources?filter=issn%3A1742-3600",
+          "sha256": "9a8cbbdf41061d3c48854d27c7bfcbb1985e90b6ec88701e7624c8c3e3caa0ef",
+          "retrieved_at": "2026-10-23T14:03:29.545592+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/sources?filter=issn%3A1387-2842",
+          "sha256": "81e2ee50fc1ab3903d20ca130306d1516aa6c0dc12fa203a04d575427100ab9a",
+          "retrieved_at": "2026-10-23T14:03:29.723566+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/sources?filter=issn%3A0966-8373",
+          "sha256": "71a3ea5262ef088c30da3eb2a59758b4c278c8c9c0617f57b5835549fd36e119",
+          "retrieved_at": "2026-10-23T14:03:29.985825+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/sources?filter=issn%3A0022-5053",
+          "sha256": "42311137a058c2ec4f0cd44b73fdbf30bdce3ff5a4b6c73612184aa7351c1273",
+          "retrieved_at": "2026-10-23T14:03:30.259461+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/sources?filter=issn%3A0740-0675",
+          "sha256": "1377e0a0ff63b3f7a9bc9211dbfb377336543acd31ec77e7db08bc584c46d0ea",
+          "retrieved_at": "2026-10-23T14:03:30.525750+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/sources?filter=issn%3A0034-6632",
+          "sha256": "c24a0e50fe66531b6ed7375720fecbeb0347501ef7914593ca0922e98df9eeb2",
+          "retrieved_at": "2026-10-23T14:03:30.685540+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/sources?filter=issn%3A0031-8191",
+          "sha256": "fad9b4b6d51dd7056630898236319184ee609254956795523818a882abcee224",
+          "retrieved_at": "2026-10-23T14:03:30.840759+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/sources?filter=issn%3A0026-9662",
+          "sha256": "37b61575779b5b327de393e1e79c18c3f4263998751f1b106f85d5bd4fcff172",
+          "retrieved_at": "2026-10-23T14:03:30.997431+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/sources?filter=issn%3A0190-0536",
+          "sha256": "fca859d4e7ba00b18c879bf0f1081ba73b7ac0163f4a846af93cfcad11b5f400",
+          "retrieved_at": "2026-10-23T14:03:31.174947+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/sources?filter=issn%3A0301-8121",
+          "sha256": "5780efd0b01bbd3562b9768524484932fc0a24ba0923dd0b6caebe5dd0382be0",
+          "retrieved_at": "2026-10-23T14:03:31.340509+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/sources?filter=issn%3A0031-8221",
+          "sha256": "06889e063c8e9fa152b014ae86f4a1a6335b5a0962e9da5f6fc42b9db49567ff",
+          "retrieved_at": "2026-10-23T14:03:31.524549+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=%2A&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "f264b2364987a36b0f17e0ec09bca957ec40084b9b7e752a6fb42e7d4267a120",
+          "retrieved_at": "2026-10-23T14:03:43.226598+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsxMDAuMCwgMTQ2LCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzI5NzY0MDU4NDcnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "f6da3782d72de98dc8184abb83c8de15bc68ff97b23fccc0831f2ee77bb874bc",
+          "retrieved_at": "2026-10-23T14:03:44.171629+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsxMDAuMCwgMTA4LCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzE5OTg1NzM3OTYnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "3e4953e595b43c829abc10b16c09073688d2378cffc44899518152bb64204e38",
+          "retrieved_at": "2026-10-23T14:03:45.069163+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsxMDAuMCwgODgsICdodHRwczovL29wZW5hbGV4Lm9yZy9XMTE5NjcxNTIyMiddIg%3D%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "27968048546688f621309dcff897d41ed5ea8efcb85cf255e1683e68bb5b84c6",
+          "retrieved_at": "2026-10-23T14:03:46.049482+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsxMDAuMCwgNzQsICdodHRwczovL29wZW5hbGV4Lm9yZy9XMjUyMTM2Mjg3MiddIg%3D%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "a4db83685da4d9b7e38e40e4cbe197efba0241fd96b19af5e692f1b77b09e87c",
+          "retrieved_at": "2026-10-23T14:03:46.947926+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsxMDAuMCwgNjQsICdodHRwczovL29wZW5hbGV4Lm9yZy9XMjkxMzEzMTMwNSddIg%3D%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "b1e3efd28d637a2760b94afd057db56b4edc6f6abe0c128b09a0fa9c63a13f3f",
+          "retrieved_at": "2026-10-23T14:03:47.666987+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsxMDAuMCwgNTYsICdodHRwczovL29wZW5hbGV4Lm9yZy9XMzAwNTI2OTcwNCddIg%3D%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "64b2467dbd516b2b034693e7ed3e0946155af5de385df3ee1ad4683d19aa69f3",
+          "retrieved_at": "2026-10-23T14:03:48.568722+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsxMDAuMCwgNTAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XMjc2NTY5ODkxNyddIg%3D%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "4cfd81336951cda61f72ad788467c957657928d8ce1b9266650bbf1d632f3648",
+          "retrieved_at": "2026-10-23T14:03:49.421309+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsxMDAuMCwgNDUsICdodHRwczovL29wZW5hbGV4Lm9yZy9XMzE4NTQzODIyNyddIg%3D%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "e9d3c9d74c29ce3e46daaeac6a1f7feef82e23c824e24a585e7312df6e390b58",
+          "retrieved_at": "2026-10-23T14:03:50.617069+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsxMDAuMCwgNDEsICdodHRwczovL29wZW5hbGV4Lm9yZy9XMjkwNjMwNTgyNyddIg%3D%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "656b6044ac3848b836e82f3e056467d40a2b779080d130dc0a688cf3c629f62d",
+          "retrieved_at": "2026-10-23T14:03:51.354070+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsxMDAuMCwgMzcsICdodHRwczovL29wZW5hbGV4Lm9yZy9XMjgwMTQyNDAwNyddIg%3D%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "419dcdeb097c6bc246f8f47803df94c78e4207ac7f8139911d4bab6f591ff1a2",
+          "retrieved_at": "2026-10-23T14:03:51.779413+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsxMDAuMCwgMzIsICdodHRwczovL29wZW5hbGV4Lm9yZy9XMTkyODA1MDYxMCddIg%3D%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "d60d0f566da278a071970804b675de102643958d33ffc966439b1c27558e45c8",
+          "retrieved_at": "2026-10-23T14:03:52.609603+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsxMDAuMCwgMjksICdodHRwczovL29wZW5hbGV4Lm9yZy9XMjU5ODcwODMwOCddIg%3D%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "37517c1ffaddf94819d3033163b0766ca3f366ed7f5ed8f834cb673d8037bf6b",
+          "retrieved_at": "2026-10-23T14:03:53.171581+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsxMDAuMCwgMjYsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDIzMjk1Mzk0OCddIg%3D%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "e585d4b87fcefe9dcefe3a88c959eaba60118d1e5dea0032a5276d33db513ad7",
+          "retrieved_at": "2026-10-23T14:03:53.625742+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsxMDAuMCwgMjMsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDM4ODQ3OTc3NyddIg%3D%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "990c068b51d81df7ff107fa3dbd83efa05cd61f431d322e1d270d82531f51401",
+          "retrieved_at": "2026-10-23T14:03:54.416069+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsxMDAuMCwgMjAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDM5MzMyNjUyMyddIg%3D%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "8d85b5f55a984d96a88ccf51c586cb34af93c0b2bfcd4843573b54bb576ede9d",
+          "retrieved_at": "2026-10-23T14:03:54.847869+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsxMDAuMCwgMTUsICdodHRwczovL29wZW5hbGV4Lm9yZy9XMzE3MTEzMTM3MSddIg%3D%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "f679d19519bb410e5351e5e2048a50efebd1bae67ad56645658462862c2b3a9f",
+          "retrieved_at": "2026-10-23T14:03:55.251849+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5OS4wLCA0NywgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1cxOTczNDc5MjE1J10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "0b3071c1f6339e5c309c5ad6faa9c844d426a767efed89d04779c86af93b7bd5",
+          "retrieved_at": "2026-10-23T14:03:55.850469+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5OS4wLCAzNywgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1cxNjI2MjczMDY0J10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "9c8efd9c0645c7594b18262b3b219ab92f26472f339028435bd1098625529445",
+          "retrieved_at": "2026-10-23T14:03:56.252689+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5OS4wLCAzMiwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1czMTM0ODM4NzUzJ10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "6c15b8b388487cd76b943f51aa3004fe52c36312ee86424540658bfc77e5a717",
+          "retrieved_at": "2026-10-23T14:03:56.853477+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5OS4wLCAyOCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1czMTA0ODQyNTgxJ10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "37b06997c8841927b3451014e126696cd28b35fd75c9f94846c352007c3d5cc0",
+          "retrieved_at": "2026-10-23T14:03:57.268828+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5OS4wLCAyNSwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1czMDM1NjMxMDU1J10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "b47422b45128af3050bae3ebcc2399e2a0348012237fb107d5791caefb798c21",
+          "retrieved_at": "2026-10-23T14:03:58.212949+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5OS4wLCAyMiwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1cyOTA3MjI2MTgxJ10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "7911e0b003fb2679eb53381e0f027930ff761cebdeb61931e67ee8fc583bc203",
+          "retrieved_at": "2026-10-23T14:03:59.049707+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5OS4wLCAyMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1czMTk2Njc0ODYxJ10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "23e0737b0670471d1af9f0c9c4a4f8436b42d7467a4c7924f13b589ede35dbd0",
+          "retrieved_at": "2026-10-23T14:03:59.903702+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5OS4wLCAxOCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1cyOTQ3NDg0NTYyJ10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "499eee9cf40d2506b13fa7ed553d758e4488c874e2b831462f0512bf0b3b09f9",
+          "retrieved_at": "2026-10-23T14:04:00.756635+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5OS4wLCAxNywgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0MzYxMjc2NzczJ10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "80eb2ab4ac24a63b13740888a3529c6082fa371b2a0ec882d76bad7987c8171d",
+          "retrieved_at": "2026-10-23T14:04:01.568228+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5OS4wLCAxNSwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1czMDIwMjAyMzgwJ10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "1b4ec5d868e94188527259d92c8d29b676515a089457b604642fd5a3380f2ffd",
+          "retrieved_at": "2026-10-23T14:04:02.471559+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5OS4wLCAxNCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0Mzg1MzIxNjc2J10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "e77e5cf665a3d9bb9c67706ad2e4ce9b321d74537dfeb15b68fee26b4a0bc282",
+          "retrieved_at": "2026-10-23T14:04:03.266015+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5OS4wLCAxMiwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0MzExNzE5Nzc1J10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "e4cde3a45af8bbd903b08c9f0e02de8e6352f53af76ff6e5b66b80459193904f",
+          "retrieved_at": "2026-10-23T14:04:04.043522+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5OS4wLCA5LCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzMwMjQ0NDYwMTMnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "87cf6870a4ed394cd52c9d9165f9150c6d4abd5903936579cfcf5477fb5e0794",
+          "retrieved_at": "2026-10-23T14:04:04.701160+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5OC4wLCAzMywgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1cyNjE1ODQzNjM5J10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "19005edcf4f1fc8b71800247ef4ee66ed8a5fc7f7a760d03646e2594ad6db110",
+          "retrieved_at": "2026-10-23T14:04:05.634670+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5OC4wLCAyMSwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1cyODA2MTA2MDM3J10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "0655e4140baa5fe49d3c2ab22abdf47b17712f677647885a42d1db58e94def38",
+          "retrieved_at": "2026-10-23T14:04:06.281978+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5OC4wLCAxNywgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1cyOTM4NjQ5MzkyJ10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "cb367175bba029ae70d645c177a2a115bac543fd942601410ee5c84f856eceed",
+          "retrieved_at": "2026-10-23T14:04:07.072481+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5OC4wLCAxNCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1cyOTY3NjMyODQ5J10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "0d776af45ece8e7f0e6e1322a38c4edfaccff698a668a4a562eb333d4674db9f",
+          "retrieved_at": "2026-10-23T14:04:07.546035+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5OC4wLCAxMiwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0MzUzMDg5OTc0J10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "8923d5f0f5cc1d838fe0e62a9bbdfb88550493dc3fcacb79ecf319049a1652c5",
+          "retrieved_at": "2026-10-23T14:04:08.251730+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5OC4wLCAxMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0Mzg1MzExMDMwJ10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "66acd0d22004794a6904d0ce1319ec4271bd27a78395a23d6df4ddb2554746b9",
+          "retrieved_at": "2026-10-23T14:04:08.696629+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5OC4wLCA4LCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQzODczMzcwMzcnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "985b23dca64c36184b06767850cbf60d78e8ba41ea2b9b0ffb46d5cba3aab76c",
+          "retrieved_at": "2026-10-23T14:04:09.330894+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5OC4wLCA1LCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQzODIxMzY5NjUnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "9ff8be560ddf7c59f5189cd85a6765c92086a66ba85d93210a8660e78f9d5b67",
+          "retrieved_at": "2026-10-23T14:04:10.140524+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5Ny4wLCAxNywgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1cyNDMzNjYwODcyJ10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "f5bf7f561511941fca94e01102916a087e8b70ca64469290e9716608208dbab6",
+          "retrieved_at": "2026-10-23T14:04:10.925332+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5Ny4wLCAxMywgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1cyNTI4MTM3NzAzJ10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "6aed14807ff682f8f9fbffc58745e6ef01878a82c5d9a4dbc509c72ce0d872f5",
+          "retrieved_at": "2026-10-23T14:04:11.891529+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5Ny4wLCAxMSwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1cyNTQ1MjQ3OTg0J10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "bfcfe869543a43c82c00bd24d738bdde98237751fedbf526963ed3c6e8d348af",
+          "retrieved_at": "2026-10-23T14:04:12.605729+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5Ny4wLCAxMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1cyOTgzNDgwNjQ0J10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "27bc57a7e1dccde5f87fc7341bd7ba19eb21689255f79c187c1ba49d96927763",
+          "retrieved_at": "2026-10-23T14:04:13.421149+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5Ny4wLCA5LCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQyMjQwNzY4MTQnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "f4104078b502f8d5e2cdbbd6705a458af88610b4305028afad88ba17ebea5097",
+          "retrieved_at": "2026-10-23T14:04:14.186421+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5Ny4wLCA4LCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQzMDgzMTg1MjcnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "625228efc2b2500b6129c0717cf73b974e12d02f64ec1d9fab90b5e5c06bf5b4",
+          "retrieved_at": "2026-10-23T14:04:14.611094+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5Ny4wLCA3LCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQyOTM1MzY1MDknXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "efa6a66a302a4b0c21471bbc49cba834f96b5fe987fd5c62ee5287466b3ebbd6",
+          "retrieved_at": "2026-10-23T14:04:15.376600+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5Ny4wLCA2LCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQyODMyMTUxMDQnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "ce7d2c14dd9ffed3234555b340f7ad4d7851acd4849bdd355bafc27b719d1c29",
+          "retrieved_at": "2026-10-23T14:04:16.325059+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5Ny4wLCA1LCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzMxOTU5NjkyMzEnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "57f003920a4442d8396558e8b0edae6cf5968dacb285acf27e8096c56eadf8cc",
+          "retrieved_at": "2026-10-23T14:04:17.172676+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5Ny4wLCA0LCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzMxMTA1MjY1MjQnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "8ee6e5031134b4e6756b1db4d63bb86f4da40e5555e12ddfb3f42fe837a9b86f",
+          "retrieved_at": "2026-10-23T14:04:17.943718+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5Ny4wLCA0LCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQ0MDQzNzM3ODInXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "e0db0cb9d53f4cf57d8b96519d7c99a72ffb4db75b9a5aa6aaf29bf04636facf",
+          "retrieved_at": "2026-10-23T14:04:18.734675+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5Ny4wLCAyLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQzODA3ODUyNTknXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "cab5aad3cd219c8f0a6c63e94604c5041847e3ce745b86a3708917d01deabe45",
+          "retrieved_at": "2026-10-23T14:04:19.704752+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5Ni4wLCAxMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1cyNzY3NDA4OTI4J10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "224561efff32bed33d8262fc1fe9aa08024db60648289458ec9e6277a14088e5",
+          "retrieved_at": "2026-10-23T14:04:20.514882+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5Ni4wLCA4LCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzI4MDg1MTYxNTEnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "cb23e92994c8ccbfa836f44983d6c47e44416879a21cdfb257d5e48a293bbed1",
+          "retrieved_at": "2026-10-23T14:04:21.251671+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5Ni4wLCA3LCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzMwODQwNjY0MzcnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "1e2c68b331bc364b751154bd9e7230c64290afd0fef80727be77cccbf106f258",
+          "retrieved_at": "2026-10-23T14:04:21.638840+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5Ni4wLCA2LCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzI5OTc5NTE5MTAnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "d30fa5b82577c4c25d9fe7477fd6fe5c3e2de7bcab1846fd62c92a3e7f634938",
+          "retrieved_at": "2026-10-23T14:04:22.467745+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5Ni4wLCA1LCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzI3OTE0MTg5MDQnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "c10b19a2e12b22192fb51e282474a27940e7ab3dffdafff0e310784fd3547bf4",
+          "retrieved_at": "2026-10-23T14:04:23.079431+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5Ni4wLCA1LCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQyOTY5ODU0OTMnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "b7369c546a50630335f9755c0352603fbfe4b17f6cb2c3a337c0ddf3b553d2f6",
+          "retrieved_at": "2026-10-23T14:04:23.899705+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5Ni4wLCA0LCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzI5NjQxNzU1NjcnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "5e1b5b7315953040b47ed3f7b31bd72745789f0f6dacf9ac5d7517e50af2e62c",
+          "retrieved_at": "2026-10-23T14:04:24.338640+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5Ni4wLCA0LCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQyOTI0NDg4OTknXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "d46e9a4c618be1f37f7fa954cd3e5ba4a91e3610eb6f94de501f67e20d4a3fb0",
+          "retrieved_at": "2026-10-23T14:04:25.101672+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5Ni4wLCAzLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzI4OTE5NDE1NDInXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "509acd56c491b023c95a0f2bcfc6c08dd4d3086de5d75a91aae48ec2ae5b8171",
+          "retrieved_at": "2026-10-23T14:04:25.953469+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5Ni4wLCAzLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQyMTQ5MjIzNzQnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "bd4ee4a93ed338b526a32585c66de228e1434f52fa0b422fb2a93c8d6560094a",
+          "retrieved_at": "2026-10-23T14:04:26.737068+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5Ni4wLCAzLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQzODczMzk4NjMnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "03137e78e6bd640f81e36f6f973fd47de559dbe2121ecb0b90981d72c178fca4",
+          "retrieved_at": "2026-10-23T14:04:27.230557+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5Ni4wLCAyLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzI5ODE0OTg0NjEnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "af6a29441d265647851784b7984d408e4e78e663a8d9e26fbf7275a83056d585",
+          "retrieved_at": "2026-10-23T14:04:28.028530+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5Ni4wLCAyLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQyOTMxODI3MTgnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "1efe1f400e87d525e86e9d857837e9ba9b659096a2a29fcef4a1154fa000e01d",
+          "retrieved_at": "2026-10-23T14:04:28.983933+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5Ni4wLCAyLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQzOTQ3MjU3NzUnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "0b1b179b2a1bde3ee8e89cf611ea0bad430f0fa5a9da425ee8c2d0c8a5092488",
+          "retrieved_at": "2026-10-23T14:04:29.836964+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5Ni4wLCAxLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzMwMzY0OTIwMjMnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "8a60e000f9e3ab1272b32a9606075e1a7a9bd540ac902067d0c59e9aa37f422b",
+          "retrieved_at": "2026-10-23T14:04:30.846396+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5Ni4wLCAxLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQzODkyMzI3OTQnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "0e10fd447c6c54c12e9e2298dd92061edd52c49c3fb578f5cf498c7f9d9c9cb8",
+          "retrieved_at": "2026-10-23T14:04:31.289480+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5Ni4wLCAxLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQ0MTQwODk2NTYnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "6dfaa8d49887b0440db9d12b91e1b00089cbedea23e0b5d542ea36d5887218ec",
+          "retrieved_at": "2026-10-23T14:04:32.113728+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5NS4wLCA1LCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzI4ODgwNDIxNjInXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "abb98efdaf803a6e880ecfe979f6493cf379001e517dde6d776268bae7d6528e",
+          "retrieved_at": "2026-10-23T14:04:32.557999+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5NS4wLCA0LCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzMxNTkzNTU4OTgnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "749ff6e9fc371322d488b8b92683aa31bd4e6574617cb839ec91338483986342",
+          "retrieved_at": "2026-10-23T14:04:33.311598+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5NS4wLCAyLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzI2MDc2OTY5MTAnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "1a6184d6c826d57d95a2477460ecf4379008e2d7074763ec0c9bc914d00d394b",
+          "retrieved_at": "2026-10-23T14:04:34.116113+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5NC4wLCA0LCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzI0Nzk4MjMzMzMnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "bbb45df47b7d8cdeba0d2cb0988a6526ffc7bb159c69febe2bfcdd738c664e1d",
+          "retrieved_at": "2026-10-23T14:04:34.635814+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5NC4wLCAzLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzI1OTAxMjkwMDcnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "8fe7960125fc565afe4b3ac73e674b4bb92a8b9f09799d87c4e1fd9de9342127",
+          "retrieved_at": "2026-10-23T14:04:35.154378+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5NC4wLCAzLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQyMDU3NjUwMzgnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "c86615f1be1d3a0f1f05312729de14b312eae002c55da2ac1ff64da8edc3352e",
+          "retrieved_at": "2026-10-23T14:04:35.954322+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5NC4wLCAyLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzI1NTYzNDI5NTMnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "78ea0d20074b08d7ccc9cae62a14ca9026228837cdb537abf340b3c3fdfdb3d3",
+          "retrieved_at": "2026-10-23T14:04:36.708100+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5NC4wLCAyLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzI5MTY2MDg5MzYnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "abe2536712d013e9de2b74fcd868428cd198c2b6b024e60ab4b63f41a65d8cd5",
+          "retrieved_at": "2026-10-23T14:04:37.124581+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5NC4wLCAyLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQyMDA1MzI0NDMnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "444f5a63487b69e371eb5f9d8a0d8f3014b035cbcbe820cf937f09bcab44ac78",
+          "retrieved_at": "2026-10-23T14:04:38.011716+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5NC4wLCAyLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQzOTY3OTE3MDUnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "baf0075f720c4a8d0d5e7d1ef92aba53f4c96d7af3d9dacab4dfbe5b330f8b08",
+          "retrieved_at": "2026-10-23T14:04:38.866400+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5NC4wLCAxLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzI1NjY1NjI3NTUnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "fd71678924726e3eafc7200ed305ac2a3e1c0ecc9f5f0b0a361857265d061dde",
+          "retrieved_at": "2026-10-23T14:04:39.252748+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5NC4wLCAxLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzI5ODIzNzkyMjUnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "1c02d1dee5456a9d36fbecf786bad0c98c9f6e8e2adc2c501de92081724c18b9",
+          "retrieved_at": "2026-10-23T14:04:40.013854+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5NC4wLCAxLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQyMDUwOTYyMTcnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "16c3d308b0de07910ac32141660e48d39414b409df796d08b651ede006e62284",
+          "retrieved_at": "2026-10-23T14:04:40.811550+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5NC4wLCAxLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQzMTM1OTUwNTcnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "aa3fd0d776d4a50131766e74a5d02ef629a33ef394df9d5326664dda645107d8",
+          "retrieved_at": "2026-10-23T14:04:41.491548+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5NC4wLCAxLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQzOTA2MTQ4MTknXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "5baa927e72f747b4adb8663c271b9f68974aeec863450ceb6c0032f3c8961007",
+          "retrieved_at": "2026-10-23T14:04:42.164903+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5NC4wLCAxLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQ0MDM0NDAxODMnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "be8b3b00c0a34fedd8c3aaa52acc9b76cae4793c3a7cae66111464c560ddf138",
+          "retrieved_at": "2026-10-23T14:04:43.008554+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5My4wLCAyLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzI5ODg2ODcyODgnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "b2ae2174c67a390cca925ce87c113ef332828f2a1b566a69a0639c6dd95e8f17",
+          "retrieved_at": "2026-10-23T14:04:43.690416+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5My4wLCAxLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzI1NzQyMjQ2MzYnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "b0f7b21c23941f79843926ea62d54d1343a2e18e7910d188832b3b5c64b1793c",
+          "retrieved_at": "2026-10-23T14:04:44.333013+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5My4wLCAxLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzI5NDYyMTE3NTMnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "825ad3f23f350586bd5083399bb655c417523dd3e60ecad7271b6b69c9a77858",
+          "retrieved_at": "2026-10-23T14:04:45.092817+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5My4wLCAxLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzMxMzA0Mzk2ODInXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "9ab8bc81418b7940d92cdccc555969d910e44f1ed579a82684ecdb6ff8e95d1b",
+          "retrieved_at": "2026-10-23T14:04:45.896961+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=Ils5My4wLCAxLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQyNTM2MjM1MzYnXSI%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "2e99fe8c656b9d16814b275f3762ae2f7d20167b2ebeb37448fa611ea35945be",
+          "retrieved_at": "2026-10-23T14:04:46.678556+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1cxNTUzNTE3NTk1J10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "f0e695d297e209038926bc37515ef6e9aa1734bbf1bc939216fed7d7adc99b36",
+          "retrieved_at": "2026-10-23T14:04:47.460628+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1cyMTg0MzI5NDA4J10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "434f03356c36815ba54a693e964dad0c1e451c625c3d1b264522f0f91cb20fae",
+          "retrieved_at": "2026-10-23T14:04:48.138938+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1cyMzI3MDEwOTkyJ10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "28f9dc1654c7f947cc7958851a870236d4b6959f5ccc884482ac72f21f005200",
+          "retrieved_at": "2026-10-23T14:04:48.868653+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1cyNTI3MzMzMTQ5J10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "8ca916ad161ca36bf61b9ea9c5055020bbe2a83c1c8588b2b926730aa02f546a",
+          "retrieved_at": "2026-10-23T14:04:49.462633+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1cyNTgyNjA0NzkwJ10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "4cd9a644f406f73da97fa77832e3531fde7bff32ace7ac1dd51c5a32200bfe50",
+          "retrieved_at": "2026-10-23T14:04:50.141981+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1cyNzM1ODY5MzgyJ10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "06d119fb987ffca54b4853817276fa8e2fe0167532a97ccd1943295f4aac3e31",
+          "retrieved_at": "2026-10-23T14:04:50.622352+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1cyNzgzODU0NjIzJ10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "3efa37f639cd966db1f057662122a932037a177de3e8a5258bd24e2280425be6",
+          "retrieved_at": "2026-10-23T14:04:51.305151+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1cyODg2NTUxNTIyJ10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "a926efb524ee6faa0cb6639ac0074bf3009061f01c56c87f4ed006ed95c0ab76",
+          "retrieved_at": "2026-10-23T14:04:52.109305+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1cyOTI5MTk0Nzg0J10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "b91cc0b7bbe58b4708c21f972c0747df2c948e14b7202c2930235947f5b7a0f5",
+          "retrieved_at": "2026-10-23T14:04:52.780542+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1cyOTc4NDE4NjcxJ10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "9b8c1980a13a25f4e9fba6a996bc328edaf6ecda693932d2debee8d653d86e22",
+          "retrieved_at": "2026-10-23T14:04:53.398881+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1czMDA5NDUxNTMyJ10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "4d87a09b48181ce044510b1aee0e88e594c250827be37f81e02b72a43f471e13",
+          "retrieved_at": "2026-10-23T14:04:54.037301+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1czMDQ5Mjc2MjI5J10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "b63673f47c143d50493746908efbea9652f22aa5cca71edb049f0eaa3b994c87",
+          "retrieved_at": "2026-10-23T14:04:54.727675+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1czMTIwMzM3MTMzJ10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "1de51385308990db42005365716cb886f14f39f1a911378e9096bb538445aedc",
+          "retrieved_at": "2026-10-23T14:04:55.400298+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1czMTU5MTQ1OTY1J10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "4e292185dd18df12f87f496d733c3e84b963a4f89dbdd9753e6790d94ae82051",
+          "retrieved_at": "2026-10-23T14:04:56.231280+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1czMjAzNDc5MjMzJ10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "0e6e2a1cecebc46e7248ce1593a53cb26b76c45d6acd597d49e28d1bbee9f84e",
+          "retrieved_at": "2026-10-23T14:04:56.806952+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0MjEwMjYwNTg2J10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "465a415e21f12e63c4fe1b51fbb91b1f1b7647d87249c9f0745d117d8e586520",
+          "retrieved_at": "2026-10-23T14:04:57.521819+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0MjI5NDQ0Nzg2J10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "42187cf63a4716af356245787ee65fbf03692218eef447dc0201a4804512a4f1",
+          "retrieved_at": "2026-10-23T14:04:58.012286+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0MjM5NjkwMzIwJ10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "997700f5b35711ed67107d17f08688c0c8c6317f7ebe5f9aaf39955d4c4bba21",
+          "retrieved_at": "2026-10-23T14:04:58.308745+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0MjUxNjA3MTM3J10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "4f2f22a21c68f4983242ab7ace23b18dab9a70d60c40f8e353347fafdb7f4bb8",
+          "retrieved_at": "2026-10-23T14:04:58.840108+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0Mjg1NjcyNjM4J10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "e835ba13161107e0e46038674ed620b4b50555109fdbdf8f8aa8d2df143b615f",
+          "retrieved_at": "2026-10-23T14:04:59.146613+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0MjkzMTYyOTk4J10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "4ff1eb5e41841f09426dad1c9502660e2ec714e091d3f8e2fb27cf31be0e5fa1",
+          "retrieved_at": "2026-10-23T14:04:59.924511+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0MzA5Mzc1NTE0J10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "28437f0b26de8c7c9e2e248ccdbcfb90d26a4d066b9cb571a68b04a14e44c708",
+          "retrieved_at": "2026-10-23T14:05:00.685399+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0MzIyNzY5MDcxJ10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "b89fbbef6156c00607e4e33ecc7013e965a262316da78087f4049947c142897d",
+          "retrieved_at": "2026-10-23T14:05:01.075793+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0MzgxOTQ5ODE4J10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "44d07add6337388a136905c3a40b548f8d656fa618f89f0f731b40df7c132705",
+          "retrieved_at": "2026-10-23T14:05:01.904729+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0Mzg3NTc5MjYzJ10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "89af2eec68ec1b0527420ed895ae35737d937ebbd2830a8fc295de4408083a5d",
+          "retrieved_at": "2026-10-23T14:05:02.755627+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0MzkxMjI1MDQyJ10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "3c01f0d2d958e04848650f341fb72f014f84093ef3c2d8fc27d73574d0434b52",
+          "retrieved_at": "2026-10-23T14:05:03.580222+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0Mzk2MjQyOTYwJ10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "d8aea2ef2ed0a931a4d2dfca30ddbbd8960f8d4df697eab0c5dc7b35b58b3e9f",
+          "retrieved_at": "2026-10-23T14:05:04.037726+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0NDAxMDczOTA3J10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "c3b3ad5e1d6c2a8760d2705b19be39c03ecb2e0cd1bae3f69924c2c12335187c",
+          "retrieved_at": "2026-10-23T14:05:04.698745+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0NDAzNDE2NTAzJ10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "cfcef75dbcc92988a68c1c42a7c6a98230cbe19e27c8e0d893f664196cba2dcd",
+          "retrieved_at": "2026-10-23T14:05:05.184929+00:00"
+        },
+        {
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3AS41650241%7CS35579339%7CS37480348%7CS170801797%7CS204374153%7CS184849641%7CS121299002%7CS81959571%7CS255146%7CS63151042%7CS147022693%7CS98189702%7CS107049385%7CS147691735%7CS15279844%7CS103146128%7CS160343789%7CS13096939%7CS23735784%7CS113020877%7CS116734912%7CS20022381%7CS14411630%7CS80702723%7CS954855591%7CS156100525%7CS69970347%7CS72705189%7CS124026647%7CS203071428%7CS196911494%2Cpublication_year%3A2015-2024%2Ctype%3Aarticle%2Cis_retracted%3Afalse&per-page=200&cursor=IlsnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0NDEyODM0NzEyJ10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Ccited_by_count%2Cauthorships%2Cprimary_location",
+          "sha256": "4d45fa9db86db52feaa19dfd31aafa2ec5b8f4bcba47a63bfe0f98947f002264",
+          "retrieved_at": "2026-10-23T14:05:05.416462+00:00"
+        }
+      ]
+    },
+    {
+      "source": "philosophy_programs",
+      "collected_at": "2026-10-23 14:31:33.459677+00:00",
+      "source_record_count": 13498,
+      "content_sha256": "230b82ddcdabb31972a0be4a389be2534ac5b664a96e59975b81ab29e4b8846e",
+      "artifacts": [
+        {
+          "url": "https://nces.ed.gov/ipeds/datacenter/data/HD2018.zip",
+          "sha256": "4e632bc76441c12e8e42b4e66dd6af99aa332342c4879920c09d7d8317cf9b29",
+          "retrieved_at": "2026-10-23T14:28:00.373891+00:00"
+        },
+        {
+          "url": "https://nces.ed.gov/ipeds/datacenter/data/C2018_A.zip",
+          "sha256": "24d100007bc3ff4a20aa43e447e8dac564db7118e81be264d803e694968cc9e3",
+          "retrieved_at": "2026-10-23T14:28:06.547555+00:00"
+        },
+        {
+          "url": "https://nces.ed.gov/ipeds/datacenter/data/HD2019.zip",
+          "sha256": "727cb3484666e5fea8669ce0fb2ad4606ed19531b47cf428d6748072d7e7ab26",
+          "retrieved_at": "2026-10-23T14:28:08.664021+00:00"
+        },
+        {
+          "url": "https://nces.ed.gov/ipeds/datacenter/data/C2019_A.zip",
+          "sha256": "ee267e2204f9bc8e356eee2bfe9496d8f764ae95ca9f14b850d4699c3e8df77e",
+          "retrieved_at": "2026-10-23T14:28:19.327450+00:00"
+        },
+        {
+          "url": "https://nces.ed.gov/ipeds/datacenter/data/HD2020.zip",
+          "sha256": "cfbdf04201f4be4ae6f98b3800424b6fffd498ec2932f34d287b3d9f17aa3475",
+          "retrieved_at": "2026-10-23T14:28:22.522368+00:00"
+        },
+        {
+          "url": "https://nces.ed.gov/ipeds/datacenter/data/C2020_A.zip",
+          "sha256": "f36abd6c3bc5b1bbd94bdc864d07fd60db3069522a58cfde4671b4280376ca05",
+          "retrieved_at": "2026-10-23T14:28:39.160645+00:00"
+        },
+        {
+          "url": "https://nces.ed.gov/ipeds/datacenter/data/HD2021.zip",
+          "sha256": "6ea1a974e2994cfcf066b4910bcdad7b0df6f927e6871f3d55532af94b965389",
+          "retrieved_at": "2026-10-23T14:31:03.488054+00:00"
+        },
+        {
+          "url": "https://nces.ed.gov/ipeds/datacenter/data/C2021_A.zip",
+          "sha256": "69317e2afe7ad52f46bbf651f2408b8f5ae2ead5c74206b63554d6f0f1373244",
+          "retrieved_at": "2026-10-23T14:31:13.024930+00:00"
+        },
+        {
+          "url": "https://nces.ed.gov/ipeds/datacenter/data/HD2022.zip",
+          "sha256": "e36389b793741bf6886b8d85fa9b42614644162b0d0b1d024a663a9c1865c782",
+          "retrieved_at": "2026-10-23T14:28:41.376316+00:00"
+        },
+        {
+          "url": "https://nces.ed.gov/ipeds/datacenter/data/C2022_A.zip",
+          "sha256": "f81b8390d1758ac710b85a1d5a7af51372770335a02c0d06802a46d3a068126c",
+          "retrieved_at": "2026-10-23T14:28:58.564799+00:00"
+        },
+        {
+          "url": "https://nces.ed.gov/ipeds/datacenter/data/HD2023.zip",
+          "sha256": "e11d35af6f50fbe2f51d8ddd5a9d4f49860abbab7d73beae1f8524f13ad8945b",
+          "retrieved_at": "2026-10-23T14:29:00.514402+00:00"
+        },
+        {
+          "url": "https://nces.ed.gov/ipeds/datacenter/data/C2023_A.zip",
+          "sha256": "651d95b6405bb86c6c14884ed54225a27492199d21d8acd63cda2581aa60838a",
+          "retrieved_at": "2026-10-23T14:29:09.142513+00:00"
+        },
+        {
+          "url": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+          "sha256": "d98425c123d7c0e872aec6e83960dfb501884818bf17385c340790f3d1f28345",
+          "retrieved_at": "2026-10-23T14:31:20.649762+00:00"
+        },
+        {
+          "url": "https://nces.ed.gov/ipeds/datacenter/data/C2024_A.zip",
+          "sha256": "03234cc27fe4e7eb835a66d4f37aaec11bdac8dfa278f971584e1b20d03e1159",
+          "retrieved_at": "2026-10-23T14:31:27.654811+00:00"
+        }
+      ]
+    }
+  ],
+  "files": {
+    "schools.csv": "84d0569a62f08f2252c1f373deaaccaf3aa156240f8871b51709dcd0cf262403",
+    "program-years.csv": "b22f0a1d22788f7d348bc8811ac57c9ca0d57c7d05fb155eb5fdb32879372a1b",
+    "program-details.csv": "4fe21fb38037d538ca3985207c6043dd4f048d1cda063d8a2e5c1bec590b2544",
+    "sensitivity.json": "775241c5335bac1c02f8b50ede60ad8432f0e3e80fb1765a0141cf4671bba1da",
+    "affiliation-audit.json": "bd7faa262141d03c4fb346beaf3bab34c4c0c49778e4253c45faab5d4b9dd841",
+    "affiliation-rules.json": "0e5792daa46ade443f0527c1af95a50a675e28d558f174fb2e4698100ac964a6",
+    "crosswalk.json": "4616453c89cb1554b1d38abc8b7aa9948dfc95359f999741ad7a4fbeaddeec92",
+    "journals.json": "cc328ee9037fa45745c2c2cb24b99cfddb2d11c3b059a7e96f61c494e9828770",
+    "works.jsonl": "a98373d8166b6748a37df3c2c4b279517072e00aa3cc81296e27da1d989afc37",
+    "calculate.py": "6374150cf8d0de76c5f2b7334880aa02ecc738a8724bc1c113529255e1088434",
+    "README.txt": "189d5fcecc6ba43c8212de72de4e623f1b3df5777915ed5d477efaf7b7da5589"
+  }
+}
