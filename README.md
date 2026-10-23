@@ -31,11 +31,14 @@ python -m pip install -r requirements.txt
 python scripts/graphs.py
 ```
 
-The verifier checks every file listed in the source manifest, independently recalculates all 112 school rows, compares numeric values with tolerance 1e-8 and checks the sensitivity results. The graph script writes three figures as both PNG and SVG to `figures/2026-10-23/`. Matplotlib is pinned to 3.10.8; fonts use its bundled DejaVu Sans family.
+The verifier checks every file listed in the source manifest, independently recalculates all 112 school rows, compares numeric values with tolerance 1e-8 and checks the sensitivity results. The graph script writes four figures as both PNG and SVG to `figures/2026-10-23/`. Matplotlib is pinned to 3.10.8; fonts use the bundled, OFL-licensed Manrope family with PrepSavvy’s canonical royal blue.
 
-1. **Research influence:** top 20 institutions by fractional contributions to the most-cited tenth within each journal/year.
-2. **Publication growth:** selected U.S. institutions in the top 20, comparing 2015–2019 and 2020–2024 article counts.
-3. **Degree trends:** bachelor's and research doctorate awards at UC Irvine, Princeton and USC, 2018–2024.
+1. **Research influence:** the top ten by highly cited research contribution.
+2. **Research momentum:** all top-twenty institutions, with publication counts in both five-year periods.
+3. **Citation concentration:** highly cited share among institutions with at least 100 articles, with Oxford as a comparison.
+4. **Influence and growth:** all 112 institutions on a single scatter plot.
+
+Style tokens and their references are in `assets/chart-style.json`. The bundled font license is in `assets/fonts/OFL.txt`. The original release is preserved at tag `philosophy-2026-10-23`; this editorial revision changes presentation and interpretation, not the frozen ranking data.
 
 ## Method and sources
 

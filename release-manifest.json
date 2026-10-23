@@ -1,5 +1,6 @@
 {
   "edition": "2026-10-23",
+  "editorial_revision": 2,
   "article": "https://prepsavvy.ai/blog/top-philosophy-schools",
   "article_status": "editorial draft",
   "files": {
@@ -16,14 +17,20 @@
     "data/2026-10-23/schools.csv": "84d0569a62f08f2252c1f373deaaccaf3aa156240f8871b51709dcd0cf262403",
     "data/2026-10-23/sensitivity.json": "775241c5335bac1c02f8b50ede60ad8432f0e3e80fb1765a0141cf4671bba1da",
     "data/2026-10-23/works.jsonl": "a98373d8166b6748a37df3c2c4b279517072e00aa3cc81296e27da1d989afc37",
-    "figures/2026-10-23/degree-trends.png": "83d5e1ec99089fb19bc369e897915b6f60fa0f4bc6c76d337a2a1c8025c06766",
-    "figures/2026-10-23/degree-trends.svg": "afed01842a1bdfed69138153a9fe6746e3aac7f509c89a97c32b4cdabcb9a156",
-    "figures/2026-10-23/publication-growth.png": "287b8c8b2ebd25d552ce0b5ec86b0b33bada498e314811f9ea0ae3ae02873d4b",
-    "figures/2026-10-23/publication-growth.svg": "cb696aa2bac97cf050768969d39b686a154b0c84c5bc0d942de436bccb7de8f9",
-    "figures/2026-10-23/research-influence.png": "e06a71268ea89104649362a8cf2b771685500ee700bf9ee7094a8edd3695b72b",
-    "figures/2026-10-23/research-influence.svg": "b0ef22033656ea489130a5da5c80be363915e278a70aab5ecb310ca2e97f4170",
-    "scripts/graphs.py": "feac13cb3e4e848fb4a15bea33248ebbca895f478e0254e1ad7f5e2f374945c9",
+    "figures/2026-10-23/influence-and-growth.png": "6b26470c37db26a53cfef22c32ff20fbd953248fd2388034100933e21b23624e",
+    "figures/2026-10-23/influence-and-growth.svg": "78e87f7e1d4d5f6ea82ca31d59a4bc2872c85d113be625cf18a32424eeffa9e3",
+    "figures/2026-10-23/research-concentration.png": "20bcec71d6f43cb31787f50340863d613d02c6df85ae1caf0822eb4fe230ec37",
+    "figures/2026-10-23/research-concentration.svg": "d24f5631e978c12ea9ae204b0bd0c5434766d53973271e2c6b3e920a607e104c",
+    "figures/2026-10-23/research-influence-v2.png": "6499628d704c1460ad907735ce74af76d18bee944117b1c39b10c4d10e913be9",
+    "figures/2026-10-23/research-influence-v2.svg": "17bcd5403bfd67d7e401000a2b01bbf76fcf69e454596b44dec2050bb583f5a3",
+    "figures/2026-10-23/research-momentum.png": "7309852e3cde2caeff8387972b1a48eb39bc93986eafda1dae878add922e590c",
+    "figures/2026-10-23/research-momentum.svg": "fea608b1ffb7658c6c9a4a70cb3baef54605efb9198b9b1664a3837907376983",
+    "scripts/graphs.py": "390063d71d822584cea0e996505f72c0c830c76332fdc15a066ef9194e746bd5",
     "scripts/verify.py": "39ca5b592a82f853d38c79a455ed2d2d06d812608a9c967b50436d0fb74d6c90",
-    "articles/top-philosophy-schools.md": "7a9f80a8ad4b78fafdf47ba4162dadbf76f07101bf81c3b18900b3423970bcc8"
+    "articles/top-philosophy-schools.md": "f049f0ce332a83da1203807717aa48b9301c67e3d22bba002861b5f6162615c1",
+    "assets/chart-style.json": "9c8357f4f5411016bd929d80c5e3e22145de09e1480a854a2af8a666be88d056",
+    "assets/fonts/Manrope-500.ttf": "f433e5d333be1128d8ec8a28b8aadd0314d10e14e4105406076666bc830fc15d",
+    "assets/fonts/Manrope-700.ttf": "b9584e099e0e7f1e1e914c3037aabb9010c50346a3ce8df5eeeeecc0563044d8",
+    "assets/fonts/OFL.txt": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b"
   }
 }
