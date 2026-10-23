@@ -1,0 +1,2 @@
+# Preserve exact research release bytes so SHA-256 checks work on every OS.
+* -text
