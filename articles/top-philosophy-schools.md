@@ -26,7 +26,7 @@ PrepSavvy compared 23,457 indexed articles published between 2015 and 2024 in 31
 
 Influence measures each university's contribution to papers in the most-cited 10% of their journal and publication year. Citations share credit across the institutions behind a paper. Research growth compares article output in 2015–2019 with 2020–2024.
 
-<!-- table-widths: 55,205,95,95,85,105 -->
+<!-- table-widths: 70,205,95,95,85,105 -->
 
 | Rank | University | Influence | Citations | Articles | Research growth |
 |---:|---|---:|---:|---:|---:|
