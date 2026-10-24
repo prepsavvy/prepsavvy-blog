@@ -90,7 +90,7 @@
     "name": "University of Glasgow",
     "shortName": "Glasgow",
     "country": "GB",
-    "departmentUrl": "https://www.gla.ac.uk/schools/humanities/subjects/philosophy/",
+    "departmentUrl": "https://www.gla.ac.uk/undergraduate/2026/philosophy/",
     "rank": 6,
     "articles": 149,
     "influence": 23.383333333333333,
@@ -204,7 +204,7 @@
     "name": "Ruhr University Bochum",
     "shortName": "Ruhr University Bochum",
     "country": "DE",
-    "departmentUrl": "https://www.philosophie.ruhr-uni-bochum.de/",
+    "departmentUrl": "https://www.pe.ruhr-uni-bochum.de/philosophie/ii/institut/arbeitsbereiche.html.en",
     "rank": 13,
     "articles": 125,
     "influence": 17.402083333333334,
@@ -213,7 +213,9 @@
     "earlierArticles": 40,
     "laterArticles": 85,
     "growth": 112.5,
-    "updatedAt": "2026-10-24"
+    "updatedAt": "2026-10-24",
+    "researchContext": "Bochum’s Institute for Philosophy II lists research groups in logic and artificial intelligence, philosophy of information and communication, social epistemology, and philosophy of mind and cognition. These groups give students concrete routes from formal philosophical methods into questions about reasoning, knowledge and intelligent systems.",
+    "researchSource": "https://www.pe.ruhr-uni-bochum.de/philosophie/ii/institut/arbeitsbereiche.html.en"
   },
   {
     "slug": "kings-college-london",
@@ -236,7 +238,7 @@
     "name": "University of Southampton",
     "shortName": "Southampton",
     "country": "GB",
-    "departmentUrl": "https://www.southampton.ac.uk/about/faculties-schools-departments/philosophy",
+    "departmentUrl": "https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-humanities/department-of-philosophy",
     "rank": 15,
     "articles": 103,
     "influence": 17.03333333333333,
@@ -245,7 +247,9 @@
     "earlierArticles": 58,
     "laterArticles": 45,
     "growth": -22.413793103448278,
-    "updatedAt": "2026-10-24"
+    "updatedAt": "2026-10-24",
+    "researchContext": "Southampton’s research spans ethics, epistemology, aesthetics, the history of philosophy, and language, mind and metaphysics. Its Ethics of Doubt project investigates knowledge, scepticism and intellectual courage, including challenges posed by misinformation, conspiracy theories, AI and deepfakes.",
+    "researchSource": "https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-humanities/department-of-philosophy"
   },
   {
     "slug": "mit",
