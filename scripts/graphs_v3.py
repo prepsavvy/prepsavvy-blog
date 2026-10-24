@@ -7,6 +7,7 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 from matplotlib import font_manager
 from matplotlib.ticker import PercentFormatter
+from matplotlib.offsetbox import AnnotationBbox, OffsetImage
 from editorial_analysis import nyu_journals
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -36,7 +37,16 @@ def name(r):
     return SHORT.get(r['institution'], r['institution'].replace('University of ', ''))
 
 def label(r):
-    return f"{name(r)} ({'UK' if r['country']=='GB' else r['country']})"
+    return name(r)
+
+def flags(ax, institutions):
+    # Put each flag after its institution name, directly beside the plotting area.
+    ax.tick_params(axis='y', pad=25)
+    for y, row in enumerate(institutions):
+        flag = plt.imread(ROOT / 'assets/flags' / (row['country'].lower()+'.png'))
+        artist = AnnotationBbox(OffsetImage(flag, zoom=.19), (-.027, y),
+            xycoords=('axes fraction', 'data'), frameon=False, annotation_clip=False)
+        ax.add_artist(artist)
 
 def canvas(title, subtitle, height=6.0, left=.23):
     fig, ax = plt.subplots(figsize=(10, height), facecolor='white')
@@ -64,7 +74,8 @@ ax.bar_label(bars, labels=[f"{r['top_decile_equivalent']:.1f}" for r in top], pa
 ax.set_xlim(0, 84)
 ax.xaxis.grid(True, color=GRID)
 ax.set_xlabel('Research influence score', labelpad=8)
-save(fig, 'research-influence-v3')
+flags(ax, top)
+save(fig, 'research-influence-v5')
 
 eligible = sorted([r for r in rows if r['articles'] >= 100], key=lambda r: -r['top_decile_share_pct'])
 top = (eligible[:10] + [r for r in eligible[10:] if name(r) == 'Oxford'])[::-1]
@@ -77,7 +88,8 @@ ax.xaxis.set_major_formatter(PercentFormatter(100, decimals=0))
 ax.xaxis.grid(True, color=GRID)
 ax.set_xlabel('Highly cited share', labelpad=8)
 fig.text(.025, .035, 'Dashed line: 10% journal-year benchmark. Institutional credit is shared.', fontsize=8)
-save(fig, 'research-concentration-v3')
+flags(ax, top)
+save(fig, 'research-concentration-v5')
 
 top = sorted(rows[:20], key=lambda r: r['output_change_pct'])
 fig, ax = canvas('Fourteen of the top twenty increased publication output', 'Articles in 2015–2019 → 2020–2024; ordered by percentage growth', 8.4, .24)
@@ -94,7 +106,8 @@ ax.set_xticks([0, 100, 200, 300])
 ax.xaxis.grid(True, color=GRID)
 ax.set_xlabel('Articles per five-year period', labelpad=8)
 fig.text(.025, .035, 'Green: growth. Blue: decline. Open circle: earlier period; filled: later.', fontsize=8)
-save(fig, 'research-momentum-v3')
+flags(ax, top)
+save(fig, 'research-momentum-v5')
 
 venues = nyu_journals()
 selected = [next(r for r in venues if r['journal'] == j) for j in
