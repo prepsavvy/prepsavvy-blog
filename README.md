@@ -21,6 +21,8 @@ The release contains 23,457 indexed articles in 31 selected philosophy journals,
 
 Download the [data and calculator ZIP](data/2026-10-23/philosophy-evidence.zip), or clone the repository to reproduce the figures too.
 
+The [image shortlist](articles/philosophy-image-shortlist.md) provides reviewed hero and supporting-image options with creators, source pages, captions and reuse terms.
+
 ## Reproduce
 
 Python 3.11 or newer is recommended. The calculation and integrity verification use the standard library. No credentials, API key or warehouse account are required.
