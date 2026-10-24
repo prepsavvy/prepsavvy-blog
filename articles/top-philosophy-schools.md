@@ -28,7 +28,7 @@ Oxford finishes a clear first, with more than twice the influence score of its n
 
 Research growth compares articles published in **2015–2019 with 2020–2024**. It measures publication activity across the same journals throughout both periods.
 
-<!-- table-widths: 50,210,80,85,75,105; spacing: compact -->
+<!-- table-widths: 60,200,100,95,85,110; spacing: compact -->
 
 | Rank | University | Influence | Citations | Articles | Research growth |
 |---:|---|---:|---:|---:|---:|
