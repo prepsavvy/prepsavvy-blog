@@ -73,16 +73,6 @@ Geneva and Amsterdam follow at 19.2% and 19.0%. For applicants, these results ma
 
 Irvine's strengths include both its Philosophy Department and its Department of Logic and Philosophy of Science. The latter illustrates why philosophical research matters beyond academic debate. James Owen Weatherall and Cailin O'Connor investigate how false beliefs spread through communities, including environments rich in evidence. Their work connects philosophy of science with mathematical models of social learning and trust, questions with clear relevance to an information environment increasingly mediated by AI. Their book *The Misinformation Age* develops that research for a wider audience. [Weatherall's research and publications](https://www.faculty.uci.edu/profile/?facultyId=5909)
 
-## NYU's decline is concentrated in one journal
-
-NYU presents an especially useful test of what the numbers mean. It ranks first among U.S. departments in the **2024 Philosophical Gourmet Report**, which surveys faculty reputation, and fourth in our research influence table. Yet its article output in our journal set fell from 104 to 86. [Philosophical Gourmet rankings](https://philosophicalgourmet.com/overall-rankings-2024/)
-
-Looking inside that decline reveals a more specific story. NYU-affiliated articles in *Philosophical Studies* fell from **26 to nine**. That single journal accounts for 17 of the net 18 fewer articles. Across the other thirty journals combined, output fell by just one.
-
-The movement was not uniform. NYU's articles in *Analysis* rose from three to twelve; those in *The Philosophical Review* increased from four to six. A broad claim that NYU's philosophy department is shrinking would miss this change in publication venues. Its influence remains high while its output in one major journal has fallen sharply.
-
-![NYU's publication decline is concentrated in Philosophical Studies, while Analysis expanded.](https://raw.githubusercontent.com/prepsavvy/prepsavvy-blog/main/figures/2026-10-23/nyu-journal-change.png)
-
 ## Where influential research is growing fastest
 
 Fourteen of the top twenty increased their output. **Princeton more than doubled its articles, from 50 to 105; Ruhr University Bochum rose from 40 to 85; and UC Irvine grew from 60 to 116.** These universities combine a top-twenty influence position with rapid expansion in publication activity. Groningen's output increased from 55 to 87, and Glasgow's from 59 to 90.
@@ -93,10 +83,10 @@ Oxford also expanded, from 259 to 317 articles. Its larger starting point makes 
 
 ## Choosing a department with a future
 
-The most useful shortlist depends on the work a student wants to pursue. Oxford combines the largest influence score with an established institution connecting philosophy to AI ethics. Irvine pairs unusually concentrated research influence with expanding publication activity and work on how knowledge and misinformation travel through society. Princeton and Bochum show that influential research communities can still grow quickly. NYU demonstrates why a strong department deserves closer inspection than a single growth percentage.
+The most useful shortlist depends on the work a student wants to pursue. Oxford combines the largest influence score with an established institution connecting philosophy to AI ethics. Irvine pairs unusually concentrated research influence with expanding publication activity and work on how knowledge and misinformation travel through society. Princeton and Bochum show that influential research communities can still grow quickly.
 
 Use those differences to investigate potential supervisors, current projects and opportunities to work across philosophy, science and technology. A department's value lies in the questions its faculty help students ask, the research they can contribute to, and the connections they can build between rigorous philosophical thinking and consequential decisions. The university's name is the starting point; the department determines much of the opportunity.
 
 ## How we measured research influence
 
-The ranking uses OpenAlex data collected on 23 October 2026 for 31 selected English-language journals. Institutions share credit on jointly affiliated papers; citation ties share the top-decile boundary. Affiliations reflect the published records, including earlier faculty appointments. The index measures journal research rather than books, teaching or admissions outcomes. The [public research repository](https://github.com/prepsavvy/prepsavvy-blog) contains all 112 institutions, the journal list, article records, affiliation audit, NYU journal breakdown and code to reproduce the rankings and charts.
+The ranking uses OpenAlex data collected on 23 October 2026 for 31 selected English-language journals. Institutions share credit on jointly affiliated papers; citation ties share the top-decile boundary. Affiliations reflect the published records, including earlier faculty appointments. The index measures journal research rather than books, teaching or admissions outcomes. The [public research repository](https://github.com/prepsavvy/prepsavvy-blog) contains all 112 institutions, the journal list, article records, affiliation audit and code to reproduce the rankings and charts.

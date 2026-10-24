@@ -1,6 +1,6 @@
 {
   "edition": "2026-10-23",
-  "editorial_revision": 3,
+  "editorial_revision": 4,
   "article": "https://prepsavvy.ai/blog/top-philosophy-schools",
   "article_status": "editorial draft",
   "files": {
@@ -40,17 +40,17 @@
     "assets/philosophy-image-shortlist.json": "f52af065bcd5ac41f64fec537a2b7e35ffad96d6176945b35fe05901f97a0346",
     "assets/prepsavvy-logo.png": "8f208dd0445f35d26a506cf6aab847a73b410499a056a65de07a2e231bf6895b",
     "articles/philosophy-image-shortlist.md": "79fbec2f64abb059aa6f1bfcdc2eb403ee16baa7d6e3b1e9e6e5854f27bbfa47",
-    "articles/top-philosophy-schools.md": "a141d9c038c2057eaa63f86d21960eaa71457141c509167f4f35b22e10ec803b",
+    "articles/top-philosophy-schools.md": "333bd19aacbeaa627266b47af23e210cbcc0becb1885ccd209d77944829c799f",
     "analysis/2026-10-23/nyu-journals.csv": "69122d4ff1af980e3f12f93920c5a77e058b66fad3fd43063431f777d450924d",
     "profiles/philosophy-universities.json": "15a0a0a0f82d76d66c00c1d2856df7e48771c9f2992fd3b29a1d4aa91b0ad4b9",
     "scripts/editorial_analysis.py": "40b7d72a37f09d0c70c5691f845875249dce8f7a7401e2e1a3cd947079e6ce5a",
     "scripts/graphs.py": "390063d71d822584cea0e996505f72c0c830c76332fdc15a066ef9194e746bd5",
     "scripts/graphs_v3.py": "7d3fa2a224793f0ee334a53543d326f7843a173c6330d2378f78a101fd1c95f0",
     "scripts/profiles.py": "cda2f5c7de03f5a8bb850256a8fb29d487a3deb9bf2c20e509c07c3bea4337bb",
-    "scripts/release_manifest.py": "924d25b4cf0e50f70780aac04fed7d11c5c182a40a5fff15d8af71a3082389a0",
+    "scripts/release_manifest.py": "141836caa0fed17fc06101161c1d648d2384baa78ed6775c3b87ea879f402983",
     "scripts/verify.py": "de33237aacc388b8117ac83d36f67cfb27ba2b7ae5c50bc206b466fa673aaf65",
     ".github/workflows/reproduce.yml": "d8f9d195dd1189cd52e59c2b256b9d78bbc374e1a14ec2475c134a12a1e5336f",
-    "README.md": "adbfe0cd727ac3169bed31c04e4cf05e06633c4507da1dcfaa6f0f2b10bf7472",
+    "README.md": "d0688ff7ef84ffd4409a918ca28bbf9547bd63b0b020da3ee063c9eed3707773",
     "requirements.txt": "12a0a7bc6e1b1254c2f593a250e6ccff4dbd3cf0b27d6819696a9db86f4e530d",
     "LICENSE": "17b63435514925472d006a5952a15b10a5901a0f086c70ac9db7c6e05525470f"
   }
