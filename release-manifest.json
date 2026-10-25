@@ -1,8 +1,8 @@
 {
   "edition": "2026-10-23",
-  "editorial_revision": 5,
+  "editorial_revision": 6,
   "article": "https://prepsavvy.ai/blog/top-philosophy-schools",
-  "article_status": "editorial draft",
+  "article_status": "published",
   "files": {
     "data/2026-10-23/affiliation-audit.json": "bd7faa262141d03c4fb346beaf3bab34c4c0c49778e4253c45faab5d4b9dd841",
     "data/2026-10-23/affiliation-rules.json": "0e5792daa46ade443f0527c1af95a50a675e28d558f174fb2e4698100ac964a6",
@@ -56,7 +56,7 @@
     "assets/philosophy-image-shortlist.json": "f52af065bcd5ac41f64fec537a2b7e35ffad96d6176945b35fe05901f97a0346",
     "assets/prepsavvy-logo.png": "8f208dd0445f35d26a506cf6aab847a73b410499a056a65de07a2e231bf6895b",
     "articles/philosophy-image-shortlist.md": "79fbec2f64abb059aa6f1bfcdc2eb403ee16baa7d6e3b1e9e6e5854f27bbfa47",
-    "articles/top-philosophy-schools.md": "246456f83fe4b7ea28e0067ac8834e5dd992b5f0ef275cf00525d6f866406ee3",
+    "articles/top-philosophy-schools.md": "0bebf800daa6162fe8ce2679bcad8c354935112ea9963aa31e25bac59ca2ddca",
     "articles/top-philosophy-schools.sources.json": "839fc4d99b7a786299ddc65e8d7864d8d14c8d146932fde45146f6c6f989a08b",
     "analysis/2026-10-23/nyu-journals.csv": "69122d4ff1af980e3f12f93920c5a77e058b66fad3fd43063431f777d450924d",
     "profiles/philosophy-universities.json": "15a0a0a0f82d76d66c00c1d2856df7e48771c9f2992fd3b29a1d4aa91b0ad4b9",
@@ -65,10 +65,10 @@
     "scripts/graphs.py": "390063d71d822584cea0e996505f72c0c830c76332fdc15a066ef9194e746bd5",
     "scripts/graphs_v3.py": "61aebf75ecb0648d03f624fd117974bf2754088cb6cb49a91df236f446ab489e",
     "scripts/profiles.py": "cda2f5c7de03f5a8bb850256a8fb29d487a3deb9bf2c20e509c07c3bea4337bb",
-    "scripts/release_manifest.py": "467cc01420ec7b678cc8e1b46bdb3f2621fa8c6a7a4a00a55bfeff33d7c7735e",
+    "scripts/release_manifest.py": "ac9eb81b04d667a8f7b3056412c7d9f005a0cf99a6b67081390e5ab05659af59",
     "scripts/verify.py": "de33237aacc388b8117ac83d36f67cfb27ba2b7ae5c50bc206b466fa673aaf65",
     ".github/workflows/reproduce.yml": "d8f9d195dd1189cd52e59c2b256b9d78bbc374e1a14ec2475c134a12a1e5336f",
-    "README.md": "3f2685e929d31ef7ab42e45567178197f68b38b6bda97448557d968977be85de",
+    "README.md": "70b021ac6d8a86f58074151fec76cbce91f3770cddada4c77c68f06db7672b1f",
     "requirements.txt": "12a0a7bc6e1b1254c2f593a250e6ccff4dbd3cf0b27d6819696a9db86f4e530d",
     "LICENSE": "17b63435514925472d006a5952a15b10a5901a0f086c70ac9db7c6e05525470f"
   }

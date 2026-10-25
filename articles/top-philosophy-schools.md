@@ -5,7 +5,7 @@ description: "Compare top philosophy schools by research influence and publicati
 primary_keyword: "top philosophy schools"
 slug: "top-philosophy-schools"
 date: "2026-10-23"
-status: "draft"
+status: "published"
 ---
 
 # Top Philosophy Schools Worldwide for Research and Influence
@@ -14,7 +14,7 @@ Philosophy majors have spent years answering the same question: “What are you 
 
 Aspiring degree holders now have a compelling answer from the companies building artificial intelligence. Anthropic advertises a four-month Conceptual Reasoning Fellowship paying **$100,000–$167,000**, equivalent to $300,000–$500,000 annualized. The fixed-term program recruits philosophy PhDs, doctoral candidates and researchers with equivalent experience to help evaluate and improve Claude's reasoning. One proposed assignment asks a philosopher to design difficult problems in ethics or formal epistemology.[¹](#source-1)
 
-Handshake's AI program also advertises Philosophy Expert work for PhDs and postdoctoral researchers at up to **$120 an hour**. Expertise once treated as detached from the workplace is being recruited to shape how increasingly capable systems reason.[²](#source-2)
+Similarly, Handshake's AI program also advertises Philosophy Expert work for PhDs and postdoctoral researchers at up to **$120 an hour**. Expertise once treated as detached from the workplace is being recruited to shape how increasingly capable systems reason.[²](#source-2)
 
 The connection extends beyond hiring. What counts as knowledge when a model produces a plausible but false answer? Who is responsible when an automated decision harms someone? How should a system resolve a conflict between a user's request and another person's rights? These are philosophical questions inside products used by millions of people. Ethics, epistemology, logic and decision theory supply tools for examining them.
 
@@ -30,28 +30,28 @@ Research growth compares articles published in **2015–2019 with 2020–2024**.
 
 <!-- table-widths: 60,200,100,95,85,110; spacing: compact -->
 
-| Rank | University | Influence | Citations | Articles | Research growth |
-|---:|---|---:|---:|---:|---:|
-| 1 | [Oxford](/schools/oxford) 🇬🇧 | 76.5 | 13,586 | 576 | +22% |
-| 2 | [UC Irvine](/schools/uc-irvine) 🇺🇸 | 32.5 | 3,160 | 176 | +93% |
-| 3 | [Cambridge](/schools/cambridge) 🇬🇧 | 28.8 | 4,803 | 280 | +15% |
-| 4 | [NYU](/schools/nyu) 🇺🇸 | 27.6 | 4,836 | 190 | -17% |
-| 5 | [Edinburgh](/schools/edinburgh) 🇬🇧 | 24.7 | 4,371 | 217 | -33% |
-| 6 | [Glasgow](/schools/glasgow) 🇬🇧 | 23.4 | 2,685 | 149 | +53% |
-| 7 | [Rutgers](/schools/rutgers) 🇺🇸 | 21.8 | 4,033 | 186 | -21% |
-| 8 | [Princeton](/schools/princeton) 🇺🇸 | 19.2 | 2,258 | 155 | +110% |
-| 9 | [Geneva](/schools/geneva) 🇨🇭 | 18.8 | 1,810 | 128 | +10% |
-| 10 | [Macquarie](/schools/macquarie) 🇦🇺 | 18.8 | 2,080 | 90 | +43% |
-| 11 | [Groningen](/schools/groningen) 🇳🇱 | 18.1 | 2,436 | 142 | +58% |
-| 12 | [Australian National University](/schools/australian-national-university) 🇦🇺 | 17.6 | 2,655 | 184 | +7% |
-| 13 | [Ruhr University Bochum](/schools/ruhr-bochum) 🇩🇪 | 17.4 | 1,644 | 125 | +112% |
-| 14 | [King’s College London](/schools/kings-college-london) 🇬🇧 | 17.4 | 2,386 | 162 | +28% |
-| 15 | [Southampton](/schools/southampton) 🇬🇧 | 17.0 | 2,594 | 103 | -22% |
-| 16 | [MIT](/schools/mit) 🇺🇸 | 17.0 | 3,633 | 121 | -17% |
-| 17 | [Amsterdam](/schools/amsterdam) 🇳🇱 | 16.3 | 2,253 | 132 | +3% |
-| 18 | [Helsinki](/schools/helsinki) 🇫🇮 | 16.3 | 1,801 | 113 | +35% |
-| 19 | [St Andrews](/schools/st-andrews) 🇬🇧 | 16.1 | 2,367 | 145 | -7% |
-| 20 | [USC](/schools/usc) 🇺🇸 | 14.6 | 2,305 | 152 | +8% |
+| Rank | University                                                                     | Influence | Citations | Articles | Research growth |
+| ----: | ------------------------------------------------------------------------------ | ---------: | ---------: | --------: | ---------------: |
+| 1    | [Oxford](/schools/oxford) 🇬🇧                                                 | 76.5      | 13,586    | 576      | +22%            |
+| 2    | [UC Irvine](/schools/uc-irvine) 🇺🇸                                           | 32.5      | 3,160     | 176      | +93%            |
+| 3    | [Cambridge](/schools/cambridge) 🇬🇧                                           | 28.8      | 4,803     | 280      | +15%            |
+| 4    | [NYU](/schools/nyu) 🇺🇸                                                       | 27.6      | 4,836     | 190      | -17%            |
+| 5    | [Edinburgh](/schools/edinburgh) 🇬🇧                                           | 24.7      | 4,371     | 217      | -33%            |
+| 6    | [Glasgow](/schools/glasgow) 🇬🇧                                               | 23.4      | 2,685     | 149      | +53%            |
+| 7    | [Rutgers](/schools/rutgers) 🇺🇸                                               | 21.8      | 4,033     | 186      | -21%            |
+| 8    | [Princeton](/schools/princeton) 🇺🇸                                           | 19.2      | 2,258     | 155      | +110%           |
+| 9    | [Geneva](/schools/geneva) 🇨🇭                                                 | 18.8      | 1,810     | 128      | +10%            |
+| 10   | [Macquarie](/schools/macquarie) 🇦🇺                                           | 18.8      | 2,080     | 90       | +43%            |
+| 11   | [Groningen](/schools/groningen) 🇳🇱                                           | 18.1      | 2,436     | 142      | +58%            |
+| 12   | [Australian National University](/schools/australian-national-university) 🇦🇺 | 17.6      | 2,655     | 184      | +7%             |
+| 13   | [Ruhr University Bochum](/schools/ruhr-bochum) 🇩🇪                            | 17.4      | 1,644     | 125      | +112%           |
+| 14   | [King’s College London](/schools/kings-college-london) 🇬🇧                    | 17.4      | 2,386     | 162      | +28%            |
+| 15   | [Southampton](/schools/southampton) 🇬🇧                                       | 17.0      | 2,594     | 103      | -22%            |
+| 16   | [MIT](/schools/mit) 🇺🇸                                                       | 17.0      | 3,633     | 121      | -17%            |
+| 17   | [Amsterdam](/schools/amsterdam) 🇳🇱                                           | 16.3      | 2,253     | 132      | +3%             |
+| 18   | [Helsinki](/schools/helsinki) 🇫🇮                                             | 16.3      | 1,801     | 113      | +35%            |
+| 19   | [St Andrews](/schools/st-andrews) 🇬🇧                                         | 16.1      | 2,367     | 145      | -7%             |
+| 20   | [USC](/schools/usc) 🇺🇸                                                       | 14.6      | 2,305     | 152      | +8%             |
 
 ## Weighing influence
 
@@ -65,9 +65,7 @@ For students interested in AI, Oxford also offers a concrete institutional bridg
 
 ## Schools with disproportionate influence
 
-UC Irvine ranks second overall despite publishing fewer than a third as many articles as Oxford. Its **21.6% highly cited share** is the highest among institutions with at least 100 articles, compared with Oxford's 15.5%. On the same fractionally attributed basis, more than one-fifth of Irvine's output belongs to the highly cited group.
-
-Geneva and Amsterdam follow at 19.2% and 19.0%. For applicants, these results make a useful distinction: a university can have a smaller publication footprint while housing a research community whose work receives unusually concentrated attention.
+UC Irvine ranks second overall despite publishing fewer than a third as many articles as Oxford. Its **21.6% highly cited share** is the highest among institutions with at least 100 articles, compared with Oxford's 15.5%. Geneva and Amsterdam follow at 19.2% and 19.0%. For applicants, these results make a useful distinction: a university can have a smaller publication footprint while housing a research community whose work receives unusually concentrated attention.
 
 ![UC Irvine leads highly cited research concentration, ahead of Geneva and Amsterdam.](https://raw.githubusercontent.com/prepsavvy/prepsavvy-blog/main/figures/2026-10-23/research-concentration-v5.png)
 
@@ -86,3 +84,5 @@ Oxford also expanded, from 259 to 317 articles. Its larger starting point makes 
 The most useful shortlist depends on the work a student wants to pursue. Oxford combines the largest influence score with an established institution connecting philosophy to AI ethics. Irvine pairs unusually concentrated research influence with expanding publication activity and work on how knowledge and misinformation travel through society. Princeton and Bochum show that influential research communities can still grow quickly.
 
 Use those differences to investigate potential supervisors, current projects and opportunities to work across philosophy, science and technology. A department's value lies in the questions its faculty help students ask, the research they can contribute to, and the connections they can build between rigorous philosophical thinking and consequential decisions. The university's name is the starting point; the department determines much of the opportunity.
+
+**Data and reproducibility:** Explore the [full philosophy research dataset, methodology and reproducible chart code on GitHub](https://github.com/prepsavvy/prepsavvy-blog). The repository includes the frozen article records, rankings for all 112 institutions, and instructions to reproduce the analysis.

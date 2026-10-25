@@ -12,8 +12,8 @@ for directory in ['data', 'figures', 'assets', 'articles', 'analysis', 'profiles
 for name in ['README.md', 'requirements.txt', 'LICENSE']:
     files[name] = hashlib.sha256((ROOT / name).read_bytes()).hexdigest()
 (ROOT / 'release-manifest.json').write_text(json.dumps({
-    'edition': '2026-10-23', 'editorial_revision': 5,
+    'edition': '2026-10-23', 'editorial_revision': 6,
     'article': 'https://prepsavvy.ai/blog/top-philosophy-schools',
-    'article_status': 'editorial draft', 'files': files,
+    'article_status': 'published', 'files': files,
 }, indent=2) + '\n', encoding='utf-8')
 print(f'Recorded {len(files)} release artifact hashes')

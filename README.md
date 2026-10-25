@@ -4,7 +4,7 @@ Research data and reproducible figures supporting the [PrepSavvy blog](https://p
 
 ## Philosophy research index, 23 October 2026
 
-**Article:** [Top Philosophy Schools Worldwide for Research and Influence](https://prepsavvy.ai/blog/top-philosophy-schools). The article is an editorial draft in PrepSavvy's CMS; the public article URL will become available when it is published. Read the [article source](articles/top-philosophy-schools.md) while it is under review.
+**Published article:** [Top Philosophy Schools Worldwide for Research and Influence](https://prepsavvy.ai/blog/top-philosophy-schools). This repository contains the source data, calculation methods and code needed to reproduce the research in full. The [article source](articles/top-philosophy-schools.md) includes a direct link back to this reproduction repository.
 
 The release contains 23,457 indexed articles in 31 selected philosophy journals, a research index of 112 institutions with at least 50 articles, and U.S. philosophy-family degree awards for 2018–2024. Research measures institutional affiliations at publication. It does not measure the complete output of current department faculty or all books and languages.
 
@@ -61,6 +61,6 @@ Primary sources: [OpenAlex](https://openalex.org/), [NCES IPEDS](https://nces.ed
 
 ## Citation and reuse
 
-Suggested citation: PrepSavvy (2026). *Top Philosophy Schools Worldwide for Research and Influence*. Editorial draft, data edition 2026-10-23. https://prepsavvy.ai/blog/top-philosophy-schools. Supporting data and code: https://github.com/prepsavvy/prepsavvy-blog.
+Suggested citation: PrepSavvy (2026). *Top Philosophy Schools Worldwide for Research and Influence*. Data edition 2026-10-23. https://prepsavvy.ai/blog/top-philosophy-schools. Supporting data and code: https://github.com/prepsavvy/prepsavvy-blog.
 
 OpenAlex metadata are CC0. NCES federal data retain their source attribution. PrepSavvy's original compilation, prose and figures are offered under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); original reproduction code is offered under the [MIT license](LICENSE). These terms do not relicense third-party material. No academic peer review is claimed by this draft release.
