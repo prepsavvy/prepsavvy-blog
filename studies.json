@@ -39,5 +39,13 @@
     "article_source": "articles/philosophy-phd-decision.md",
     "data": "data/philosophy-doctorates/2026-10-27",
     "reproduce": "python scripts/doctorate_decision.py"
+  },
+  {
+    "id": "test-optional-scholarships",
+    "edition": "2026-10-27",
+    "status": "article_draft",
+    "article_source": "articles/test-optional-scholarships.md",
+    "data": "data/test-optional-scholarships/2026-10-27",
+    "reproduce": "python -S scripts/test_optional_scholarships.py"
   }
 ]

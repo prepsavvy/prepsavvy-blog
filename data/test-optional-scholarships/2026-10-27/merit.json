@@ -1,0 +1,1107 @@
+{
+  "offers": [
+    {
+      "additional_eligibility": [
+        "Admission required; annual funds limited."
+      ],
+      "annual_amount_max": 6500,
+      "annual_amount_min": 6500,
+      "award_kind": "cash",
+      "award_name": "Bluegrass",
+      "award_status": "automatic_consideration_limited_funds_not_guaranteed",
+      "citizenship_rule": null,
+      "citizenship_status": "not_specified",
+      "currency": "USD",
+      "cycle_label": "Fall 2027 Freshmen",
+      "deadline": {
+        "date": "2026-12-01",
+        "month_day": "12-01",
+        "rule": "Completed admission application and all supporting documents by December 1, 2026; apply earlier because funding may be exhausted before deadline. Encouraged acceptance by May 1, 2027. Ordinary weekday cutoff time not printed.",
+        "timezone": null
+      },
+      "duration_years": 4,
+      "enrollment_min_hours_per_term": 12,
+      "entry_term": "fall",
+      "entry_year": 2027,
+      "exam": "NONE",
+      "fafsa_required": null,
+      "gpa_basis": "Unweighted high-school GPA; published figures are minimum thresholds.",
+      "gpa_max": null,
+      "gpa_min": 3.0,
+      "grid_evidence": "Bluegrass | Academic |  | 3.00 | $6,500",
+      "housing": null,
+      "institution": "University of Kentucky",
+      "institution_id": "uky",
+      "policy_cycle_basis": "Explicit fall-2027 page, including renewal section.",
+      "record_id": "uky:2027:fall:01:NONE",
+      "renewal": {
+        "credit_completion_pct_min": null,
+        "gpa_min": 3.0,
+        "max_semesters": null,
+        "rule": "Source explicitly calls Bluegrass four-year renewable. Minimum 12 undergraduate hours each semester and 3.0 cumulative GPA; credit checks each semester and GPA checks at end of spring. Individual award terms may add requirements."
+      },
+      "renewal_earned_hours": null,
+      "renewal_hours_period": null,
+      "residency_rule": "Nonresident incoming first-time freshman, admitted to University of Kentucky.",
+      "route_semantics": "alternative_minimum_eligibility_not_additive",
+      "score_max": null,
+      "score_min": null,
+      "source_ids": [
+        "uky-2027"
+      ],
+      "stacking": {
+        "rule": "At most one award from listed scholarships; selective or competitive offer replaces academic offer. Other outside awards not resolved here."
+      },
+      "superscore": {
+        "ACT": false,
+        "SAT": false
+      },
+      "test_score_policy": "ACT/SAT combined test scores (superscores) are not considered. No-test GPA route is an alternative.",
+      "tier_id": "uky:1",
+      "unknowns": [
+        "Current-cycle citizenship/immigration eligibility is not specified on accepted source; stale 2026 FAQ is not used.",
+        "Ordinary weekday cutoff time/timezone",
+        "Award-specific terms beyond published renewal summary",
+        "Outside-award stacking"
+      ]
+    },
+    {
+      "additional_eligibility": [
+        "Admission required; annual funds limited."
+      ],
+      "annual_amount_max": 10000,
+      "annual_amount_min": 10000,
+      "award_kind": "cash",
+      "award_name": "Bluegrass",
+      "award_status": "automatic_consideration_limited_funds_not_guaranteed",
+      "citizenship_rule": null,
+      "citizenship_status": "not_specified",
+      "currency": "USD",
+      "cycle_label": "Fall 2027 Freshmen",
+      "deadline": {
+        "date": "2026-12-01",
+        "month_day": "12-01",
+        "rule": "Completed admission application and all supporting documents by December 1, 2026; apply earlier because funding may be exhausted before deadline. Encouraged acceptance by May 1, 2027. Ordinary weekday cutoff time not printed.",
+        "timezone": null
+      },
+      "duration_years": 4,
+      "enrollment_min_hours_per_term": 12,
+      "entry_term": "fall",
+      "entry_year": 2027,
+      "exam": "NONE",
+      "fafsa_required": null,
+      "gpa_basis": "Unweighted high-school GPA; published figures are minimum thresholds.",
+      "gpa_max": null,
+      "gpa_min": 3.5,
+      "grid_evidence": "Bluegrass | Academic | 3.00 & 25 ACT/1200 SAT | 3.50 | $10,000",
+      "housing": null,
+      "institution": "University of Kentucky",
+      "institution_id": "uky",
+      "policy_cycle_basis": "Explicit fall-2027 page, including renewal section.",
+      "record_id": "uky:2027:fall:02:NONE",
+      "renewal": {
+        "credit_completion_pct_min": null,
+        "gpa_min": 3.0,
+        "max_semesters": null,
+        "rule": "Source explicitly calls Bluegrass four-year renewable. Minimum 12 undergraduate hours each semester and 3.0 cumulative GPA; credit checks each semester and GPA checks at end of spring. Individual award terms may add requirements."
+      },
+      "renewal_earned_hours": null,
+      "renewal_hours_period": null,
+      "residency_rule": "Nonresident incoming first-time freshman, admitted to University of Kentucky.",
+      "route_semantics": "alternative_minimum_eligibility_not_additive",
+      "score_max": null,
+      "score_min": null,
+      "source_ids": [
+        "uky-2027"
+      ],
+      "stacking": {
+        "rule": "At most one award from listed scholarships; selective or competitive offer replaces academic offer. Other outside awards not resolved here."
+      },
+      "superscore": {
+        "ACT": false,
+        "SAT": false
+      },
+      "test_score_policy": "ACT/SAT combined test scores (superscores) are not considered. No-test GPA route is an alternative.",
+      "tier_id": "uky:2",
+      "unknowns": [
+        "Current-cycle citizenship/immigration eligibility is not specified on accepted source; stale 2026 FAQ is not used.",
+        "Ordinary weekday cutoff time/timezone",
+        "Award-specific terms beyond published renewal summary",
+        "Outside-award stacking"
+      ]
+    },
+    {
+      "additional_eligibility": [
+        "Admission required; annual funds limited."
+      ],
+      "annual_amount_max": 10000,
+      "annual_amount_min": 10000,
+      "award_kind": "cash",
+      "award_name": "Bluegrass",
+      "award_status": "automatic_consideration_limited_funds_not_guaranteed",
+      "citizenship_rule": null,
+      "citizenship_status": "not_specified",
+      "currency": "USD",
+      "cycle_label": "Fall 2027 Freshmen",
+      "deadline": {
+        "date": "2026-12-01",
+        "month_day": "12-01",
+        "rule": "Completed admission application and all supporting documents by December 1, 2026; apply earlier because funding may be exhausted before deadline. Encouraged acceptance by May 1, 2027. Ordinary weekday cutoff time not printed.",
+        "timezone": null
+      },
+      "duration_years": 4,
+      "enrollment_min_hours_per_term": 12,
+      "entry_term": "fall",
+      "entry_year": 2027,
+      "exam": "ACT",
+      "fafsa_required": null,
+      "gpa_basis": "Unweighted high-school GPA; published figures are minimum thresholds.",
+      "gpa_max": null,
+      "gpa_min": 3.0,
+      "grid_evidence": "Bluegrass | Academic | 3.00 & 25 ACT/1200 SAT | 3.50 | $10,000",
+      "housing": null,
+      "institution": "University of Kentucky",
+      "institution_id": "uky",
+      "policy_cycle_basis": "Explicit fall-2027 page, including renewal section.",
+      "record_id": "uky:2027:fall:02:ACT",
+      "renewal": {
+        "credit_completion_pct_min": null,
+        "gpa_min": 3.0,
+        "max_semesters": null,
+        "rule": "Source explicitly calls Bluegrass four-year renewable. Minimum 12 undergraduate hours each semester and 3.0 cumulative GPA; credit checks each semester and GPA checks at end of spring. Individual award terms may add requirements."
+      },
+      "renewal_earned_hours": null,
+      "renewal_hours_period": null,
+      "residency_rule": "Nonresident incoming first-time freshman, admitted to University of Kentucky.",
+      "route_semantics": "alternative_minimum_eligibility_not_additive",
+      "score_max": 36,
+      "score_min": 25,
+      "source_ids": [
+        "uky-2027"
+      ],
+      "stacking": {
+        "rule": "At most one award from listed scholarships; selective or competitive offer replaces academic offer. Other outside awards not resolved here."
+      },
+      "superscore": {
+        "ACT": false,
+        "SAT": false
+      },
+      "test_score_policy": "ACT/SAT combined test scores (superscores) are not considered. No-test GPA route is an alternative.",
+      "tier_id": "uky:2",
+      "unknowns": [
+        "Current-cycle citizenship/immigration eligibility is not specified on accepted source; stale 2026 FAQ is not used.",
+        "Ordinary weekday cutoff time/timezone",
+        "Award-specific terms beyond published renewal summary",
+        "Outside-award stacking"
+      ]
+    },
+    {
+      "additional_eligibility": [
+        "Admission required; annual funds limited."
+      ],
+      "annual_amount_max": 10000,
+      "annual_amount_min": 10000,
+      "award_kind": "cash",
+      "award_name": "Bluegrass",
+      "award_status": "automatic_consideration_limited_funds_not_guaranteed",
+      "citizenship_rule": null,
+      "citizenship_status": "not_specified",
+      "currency": "USD",
+      "cycle_label": "Fall 2027 Freshmen",
+      "deadline": {
+        "date": "2026-12-01",
+        "month_day": "12-01",
+        "rule": "Completed admission application and all supporting documents by December 1, 2026; apply earlier because funding may be exhausted before deadline. Encouraged acceptance by May 1, 2027. Ordinary weekday cutoff time not printed.",
+        "timezone": null
+      },
+      "duration_years": 4,
+      "enrollment_min_hours_per_term": 12,
+      "entry_term": "fall",
+      "entry_year": 2027,
+      "exam": "SAT",
+      "fafsa_required": null,
+      "gpa_basis": "Unweighted high-school GPA; published figures are minimum thresholds.",
+      "gpa_max": null,
+      "gpa_min": 3.0,
+      "grid_evidence": "Bluegrass | Academic | 3.00 & 25 ACT/1200 SAT | 3.50 | $10,000",
+      "housing": null,
+      "institution": "University of Kentucky",
+      "institution_id": "uky",
+      "policy_cycle_basis": "Explicit fall-2027 page, including renewal section.",
+      "record_id": "uky:2027:fall:02:SAT",
+      "renewal": {
+        "credit_completion_pct_min": null,
+        "gpa_min": 3.0,
+        "max_semesters": null,
+        "rule": "Source explicitly calls Bluegrass four-year renewable. Minimum 12 undergraduate hours each semester and 3.0 cumulative GPA; credit checks each semester and GPA checks at end of spring. Individual award terms may add requirements."
+      },
+      "renewal_earned_hours": null,
+      "renewal_hours_period": null,
+      "residency_rule": "Nonresident incoming first-time freshman, admitted to University of Kentucky.",
+      "route_semantics": "alternative_minimum_eligibility_not_additive",
+      "score_max": 1600,
+      "score_min": 1200,
+      "source_ids": [
+        "uky-2027"
+      ],
+      "stacking": {
+        "rule": "At most one award from listed scholarships; selective or competitive offer replaces academic offer. Other outside awards not resolved here."
+      },
+      "superscore": {
+        "ACT": false,
+        "SAT": false
+      },
+      "test_score_policy": "ACT/SAT combined test scores (superscores) are not considered. No-test GPA route is an alternative.",
+      "tier_id": "uky:2",
+      "unknowns": [
+        "Current-cycle citizenship/immigration eligibility is not specified on accepted source; stale 2026 FAQ is not used.",
+        "Ordinary weekday cutoff time/timezone",
+        "Award-specific terms beyond published renewal summary",
+        "Outside-award stacking"
+      ]
+    },
+    {
+      "additional_eligibility": [
+        "Admission required; annual funds limited."
+      ],
+      "annual_amount_max": 13000,
+      "annual_amount_min": 13000,
+      "award_kind": "cash",
+      "award_name": "Bluegrass",
+      "award_status": "automatic_consideration_limited_funds_not_guaranteed",
+      "citizenship_rule": null,
+      "citizenship_status": "not_specified",
+      "currency": "USD",
+      "cycle_label": "Fall 2027 Freshmen",
+      "deadline": {
+        "date": "2026-12-01",
+        "month_day": "12-01",
+        "rule": "Completed admission application and all supporting documents by December 1, 2026; apply earlier because funding may be exhausted before deadline. Encouraged acceptance by May 1, 2027. Ordinary weekday cutoff time not printed.",
+        "timezone": null
+      },
+      "duration_years": 4,
+      "enrollment_min_hours_per_term": 12,
+      "entry_term": "fall",
+      "entry_year": 2027,
+      "exam": "NONE",
+      "fafsa_required": null,
+      "gpa_basis": "Unweighted high-school GPA; published figures are minimum thresholds.",
+      "gpa_max": null,
+      "gpa_min": 3.6,
+      "grid_evidence": "Bluegrass | Academic | 3.50 & 25 ACT/1200 SAT | 3.60 | $13,000",
+      "housing": null,
+      "institution": "University of Kentucky",
+      "institution_id": "uky",
+      "policy_cycle_basis": "Explicit fall-2027 page, including renewal section.",
+      "record_id": "uky:2027:fall:03:NONE",
+      "renewal": {
+        "credit_completion_pct_min": null,
+        "gpa_min": 3.0,
+        "max_semesters": null,
+        "rule": "Source explicitly calls Bluegrass four-year renewable. Minimum 12 undergraduate hours each semester and 3.0 cumulative GPA; credit checks each semester and GPA checks at end of spring. Individual award terms may add requirements."
+      },
+      "renewal_earned_hours": null,
+      "renewal_hours_period": null,
+      "residency_rule": "Nonresident incoming first-time freshman, admitted to University of Kentucky.",
+      "route_semantics": "alternative_minimum_eligibility_not_additive",
+      "score_max": null,
+      "score_min": null,
+      "source_ids": [
+        "uky-2027"
+      ],
+      "stacking": {
+        "rule": "At most one award from listed scholarships; selective or competitive offer replaces academic offer. Other outside awards not resolved here."
+      },
+      "superscore": {
+        "ACT": false,
+        "SAT": false
+      },
+      "test_score_policy": "ACT/SAT combined test scores (superscores) are not considered. No-test GPA route is an alternative.",
+      "tier_id": "uky:3",
+      "unknowns": [
+        "Current-cycle citizenship/immigration eligibility is not specified on accepted source; stale 2026 FAQ is not used.",
+        "Ordinary weekday cutoff time/timezone",
+        "Award-specific terms beyond published renewal summary",
+        "Outside-award stacking"
+      ]
+    },
+    {
+      "additional_eligibility": [
+        "Admission required; annual funds limited."
+      ],
+      "annual_amount_max": 13000,
+      "annual_amount_min": 13000,
+      "award_kind": "cash",
+      "award_name": "Bluegrass",
+      "award_status": "automatic_consideration_limited_funds_not_guaranteed",
+      "citizenship_rule": null,
+      "citizenship_status": "not_specified",
+      "currency": "USD",
+      "cycle_label": "Fall 2027 Freshmen",
+      "deadline": {
+        "date": "2026-12-01",
+        "month_day": "12-01",
+        "rule": "Completed admission application and all supporting documents by December 1, 2026; apply earlier because funding may be exhausted before deadline. Encouraged acceptance by May 1, 2027. Ordinary weekday cutoff time not printed.",
+        "timezone": null
+      },
+      "duration_years": 4,
+      "enrollment_min_hours_per_term": 12,
+      "entry_term": "fall",
+      "entry_year": 2027,
+      "exam": "ACT",
+      "fafsa_required": null,
+      "gpa_basis": "Unweighted high-school GPA; published figures are minimum thresholds.",
+      "gpa_max": null,
+      "gpa_min": 3.5,
+      "grid_evidence": "Bluegrass | Academic | 3.50 & 25 ACT/1200 SAT | 3.60 | $13,000",
+      "housing": null,
+      "institution": "University of Kentucky",
+      "institution_id": "uky",
+      "policy_cycle_basis": "Explicit fall-2027 page, including renewal section.",
+      "record_id": "uky:2027:fall:03:ACT",
+      "renewal": {
+        "credit_completion_pct_min": null,
+        "gpa_min": 3.0,
+        "max_semesters": null,
+        "rule": "Source explicitly calls Bluegrass four-year renewable. Minimum 12 undergraduate hours each semester and 3.0 cumulative GPA; credit checks each semester and GPA checks at end of spring. Individual award terms may add requirements."
+      },
+      "renewal_earned_hours": null,
+      "renewal_hours_period": null,
+      "residency_rule": "Nonresident incoming first-time freshman, admitted to University of Kentucky.",
+      "route_semantics": "alternative_minimum_eligibility_not_additive",
+      "score_max": 36,
+      "score_min": 25,
+      "source_ids": [
+        "uky-2027"
+      ],
+      "stacking": {
+        "rule": "At most one award from listed scholarships; selective or competitive offer replaces academic offer. Other outside awards not resolved here."
+      },
+      "superscore": {
+        "ACT": false,
+        "SAT": false
+      },
+      "test_score_policy": "ACT/SAT combined test scores (superscores) are not considered. No-test GPA route is an alternative.",
+      "tier_id": "uky:3",
+      "unknowns": [
+        "Current-cycle citizenship/immigration eligibility is not specified on accepted source; stale 2026 FAQ is not used.",
+        "Ordinary weekday cutoff time/timezone",
+        "Award-specific terms beyond published renewal summary",
+        "Outside-award stacking"
+      ]
+    },
+    {
+      "additional_eligibility": [
+        "Admission required; annual funds limited."
+      ],
+      "annual_amount_max": 13000,
+      "annual_amount_min": 13000,
+      "award_kind": "cash",
+      "award_name": "Bluegrass",
+      "award_status": "automatic_consideration_limited_funds_not_guaranteed",
+      "citizenship_rule": null,
+      "citizenship_status": "not_specified",
+      "currency": "USD",
+      "cycle_label": "Fall 2027 Freshmen",
+      "deadline": {
+        "date": "2026-12-01",
+        "month_day": "12-01",
+        "rule": "Completed admission application and all supporting documents by December 1, 2026; apply earlier because funding may be exhausted before deadline. Encouraged acceptance by May 1, 2027. Ordinary weekday cutoff time not printed.",
+        "timezone": null
+      },
+      "duration_years": 4,
+      "enrollment_min_hours_per_term": 12,
+      "entry_term": "fall",
+      "entry_year": 2027,
+      "exam": "SAT",
+      "fafsa_required": null,
+      "gpa_basis": "Unweighted high-school GPA; published figures are minimum thresholds.",
+      "gpa_max": null,
+      "gpa_min": 3.5,
+      "grid_evidence": "Bluegrass | Academic | 3.50 & 25 ACT/1200 SAT | 3.60 | $13,000",
+      "housing": null,
+      "institution": "University of Kentucky",
+      "institution_id": "uky",
+      "policy_cycle_basis": "Explicit fall-2027 page, including renewal section.",
+      "record_id": "uky:2027:fall:03:SAT",
+      "renewal": {
+        "credit_completion_pct_min": null,
+        "gpa_min": 3.0,
+        "max_semesters": null,
+        "rule": "Source explicitly calls Bluegrass four-year renewable. Minimum 12 undergraduate hours each semester and 3.0 cumulative GPA; credit checks each semester and GPA checks at end of spring. Individual award terms may add requirements."
+      },
+      "renewal_earned_hours": null,
+      "renewal_hours_period": null,
+      "residency_rule": "Nonresident incoming first-time freshman, admitted to University of Kentucky.",
+      "route_semantics": "alternative_minimum_eligibility_not_additive",
+      "score_max": 1600,
+      "score_min": 1200,
+      "source_ids": [
+        "uky-2027"
+      ],
+      "stacking": {
+        "rule": "At most one award from listed scholarships; selective or competitive offer replaces academic offer. Other outside awards not resolved here."
+      },
+      "superscore": {
+        "ACT": false,
+        "SAT": false
+      },
+      "test_score_policy": "ACT/SAT combined test scores (superscores) are not considered. No-test GPA route is an alternative.",
+      "tier_id": "uky:3",
+      "unknowns": [
+        "Current-cycle citizenship/immigration eligibility is not specified on accepted source; stale 2026 FAQ is not used.",
+        "Ordinary weekday cutoff time/timezone",
+        "Award-specific terms beyond published renewal summary",
+        "Outside-award stacking"
+      ]
+    },
+    {
+      "additional_eligibility": [
+        "Admission required; annual funds limited."
+      ],
+      "annual_amount_max": 16000,
+      "annual_amount_min": 16000,
+      "award_kind": "cash",
+      "award_name": "Bluegrass",
+      "award_status": "automatic_consideration_limited_funds_not_guaranteed",
+      "citizenship_rule": null,
+      "citizenship_status": "not_specified",
+      "currency": "USD",
+      "cycle_label": "Fall 2027 Freshmen",
+      "deadline": {
+        "date": "2026-12-01",
+        "month_day": "12-01",
+        "rule": "Completed admission application and all supporting documents by December 1, 2026; apply earlier because funding may be exhausted before deadline. Encouraged acceptance by May 1, 2027. Ordinary weekday cutoff time not printed.",
+        "timezone": null
+      },
+      "duration_years": 4,
+      "enrollment_min_hours_per_term": 12,
+      "entry_term": "fall",
+      "entry_year": 2027,
+      "exam": "NONE",
+      "fafsa_required": null,
+      "gpa_basis": "Unweighted high-school GPA; published figures are minimum thresholds.",
+      "gpa_max": null,
+      "gpa_min": 3.8,
+      "grid_evidence": "Bluegrass | Academic | 3.50 & 30 ACT/1360 SAT | 3.80 | $16,000",
+      "housing": null,
+      "institution": "University of Kentucky",
+      "institution_id": "uky",
+      "policy_cycle_basis": "Explicit fall-2027 page, including renewal section.",
+      "record_id": "uky:2027:fall:04:NONE",
+      "renewal": {
+        "credit_completion_pct_min": null,
+        "gpa_min": 3.0,
+        "max_semesters": null,
+        "rule": "Source explicitly calls Bluegrass four-year renewable. Minimum 12 undergraduate hours each semester and 3.0 cumulative GPA; credit checks each semester and GPA checks at end of spring. Individual award terms may add requirements."
+      },
+      "renewal_earned_hours": null,
+      "renewal_hours_period": null,
+      "residency_rule": "Nonresident incoming first-time freshman, admitted to University of Kentucky.",
+      "route_semantics": "alternative_minimum_eligibility_not_additive",
+      "score_max": null,
+      "score_min": null,
+      "source_ids": [
+        "uky-2027"
+      ],
+      "stacking": {
+        "rule": "At most one award from listed scholarships; selective or competitive offer replaces academic offer. Other outside awards not resolved here."
+      },
+      "superscore": {
+        "ACT": false,
+        "SAT": false
+      },
+      "test_score_policy": "ACT/SAT combined test scores (superscores) are not considered. No-test GPA route is an alternative.",
+      "tier_id": "uky:4",
+      "unknowns": [
+        "Current-cycle citizenship/immigration eligibility is not specified on accepted source; stale 2026 FAQ is not used.",
+        "Ordinary weekday cutoff time/timezone",
+        "Award-specific terms beyond published renewal summary",
+        "Outside-award stacking"
+      ]
+    },
+    {
+      "additional_eligibility": [
+        "Admission required; annual funds limited."
+      ],
+      "annual_amount_max": 16000,
+      "annual_amount_min": 16000,
+      "award_kind": "cash",
+      "award_name": "Bluegrass",
+      "award_status": "automatic_consideration_limited_funds_not_guaranteed",
+      "citizenship_rule": null,
+      "citizenship_status": "not_specified",
+      "currency": "USD",
+      "cycle_label": "Fall 2027 Freshmen",
+      "deadline": {
+        "date": "2026-12-01",
+        "month_day": "12-01",
+        "rule": "Completed admission application and all supporting documents by December 1, 2026; apply earlier because funding may be exhausted before deadline. Encouraged acceptance by May 1, 2027. Ordinary weekday cutoff time not printed.",
+        "timezone": null
+      },
+      "duration_years": 4,
+      "enrollment_min_hours_per_term": 12,
+      "entry_term": "fall",
+      "entry_year": 2027,
+      "exam": "ACT",
+      "fafsa_required": null,
+      "gpa_basis": "Unweighted high-school GPA; published figures are minimum thresholds.",
+      "gpa_max": null,
+      "gpa_min": 3.5,
+      "grid_evidence": "Bluegrass | Academic | 3.50 & 30 ACT/1360 SAT | 3.80 | $16,000",
+      "housing": null,
+      "institution": "University of Kentucky",
+      "institution_id": "uky",
+      "policy_cycle_basis": "Explicit fall-2027 page, including renewal section.",
+      "record_id": "uky:2027:fall:04:ACT",
+      "renewal": {
+        "credit_completion_pct_min": null,
+        "gpa_min": 3.0,
+        "max_semesters": null,
+        "rule": "Source explicitly calls Bluegrass four-year renewable. Minimum 12 undergraduate hours each semester and 3.0 cumulative GPA; credit checks each semester and GPA checks at end of spring. Individual award terms may add requirements."
+      },
+      "renewal_earned_hours": null,
+      "renewal_hours_period": null,
+      "residency_rule": "Nonresident incoming first-time freshman, admitted to University of Kentucky.",
+      "route_semantics": "alternative_minimum_eligibility_not_additive",
+      "score_max": 36,
+      "score_min": 30,
+      "source_ids": [
+        "uky-2027"
+      ],
+      "stacking": {
+        "rule": "At most one award from listed scholarships; selective or competitive offer replaces academic offer. Other outside awards not resolved here."
+      },
+      "superscore": {
+        "ACT": false,
+        "SAT": false
+      },
+      "test_score_policy": "ACT/SAT combined test scores (superscores) are not considered. No-test GPA route is an alternative.",
+      "tier_id": "uky:4",
+      "unknowns": [
+        "Current-cycle citizenship/immigration eligibility is not specified on accepted source; stale 2026 FAQ is not used.",
+        "Ordinary weekday cutoff time/timezone",
+        "Award-specific terms beyond published renewal summary",
+        "Outside-award stacking"
+      ]
+    },
+    {
+      "additional_eligibility": [
+        "Admission required; annual funds limited."
+      ],
+      "annual_amount_max": 16000,
+      "annual_amount_min": 16000,
+      "award_kind": "cash",
+      "award_name": "Bluegrass",
+      "award_status": "automatic_consideration_limited_funds_not_guaranteed",
+      "citizenship_rule": null,
+      "citizenship_status": "not_specified",
+      "currency": "USD",
+      "cycle_label": "Fall 2027 Freshmen",
+      "deadline": {
+        "date": "2026-12-01",
+        "month_day": "12-01",
+        "rule": "Completed admission application and all supporting documents by December 1, 2026; apply earlier because funding may be exhausted before deadline. Encouraged acceptance by May 1, 2027. Ordinary weekday cutoff time not printed.",
+        "timezone": null
+      },
+      "duration_years": 4,
+      "enrollment_min_hours_per_term": 12,
+      "entry_term": "fall",
+      "entry_year": 2027,
+      "exam": "SAT",
+      "fafsa_required": null,
+      "gpa_basis": "Unweighted high-school GPA; published figures are minimum thresholds.",
+      "gpa_max": null,
+      "gpa_min": 3.5,
+      "grid_evidence": "Bluegrass | Academic | 3.50 & 30 ACT/1360 SAT | 3.80 | $16,000",
+      "housing": null,
+      "institution": "University of Kentucky",
+      "institution_id": "uky",
+      "policy_cycle_basis": "Explicit fall-2027 page, including renewal section.",
+      "record_id": "uky:2027:fall:04:SAT",
+      "renewal": {
+        "credit_completion_pct_min": null,
+        "gpa_min": 3.0,
+        "max_semesters": null,
+        "rule": "Source explicitly calls Bluegrass four-year renewable. Minimum 12 undergraduate hours each semester and 3.0 cumulative GPA; credit checks each semester and GPA checks at end of spring. Individual award terms may add requirements."
+      },
+      "renewal_earned_hours": null,
+      "renewal_hours_period": null,
+      "residency_rule": "Nonresident incoming first-time freshman, admitted to University of Kentucky.",
+      "route_semantics": "alternative_minimum_eligibility_not_additive",
+      "score_max": 1600,
+      "score_min": 1360,
+      "source_ids": [
+        "uky-2027"
+      ],
+      "stacking": {
+        "rule": "At most one award from listed scholarships; selective or competitive offer replaces academic offer. Other outside awards not resolved here."
+      },
+      "superscore": {
+        "ACT": false,
+        "SAT": false
+      },
+      "test_score_policy": "ACT/SAT combined test scores (superscores) are not considered. No-test GPA route is an alternative.",
+      "tier_id": "uky:4",
+      "unknowns": [
+        "Current-cycle citizenship/immigration eligibility is not specified on accepted source; stale 2026 FAQ is not used.",
+        "Ordinary weekday cutoff time/timezone",
+        "Award-specific terms beyond published renewal summary",
+        "Outside-award stacking"
+      ]
+    },
+    {
+      "additional_eligibility": [
+        "FAFSA required.",
+        "No previous bachelor degree.",
+        "100% online program cancels eligibility.",
+        "More than 24 credits at another school cancels new-freshman award under linked policy.",
+        "Special-program GPA exceptions excluded from this route."
+      ],
+      "annual_amount_max": 9000,
+      "annual_amount_min": 9000,
+      "award_kind": "cash",
+      "award_name": "Regent’s Award",
+      "award_status": "automatic_application_for_eligible_students_until_funds_exhausted",
+      "citizenship_rule": null,
+      "citizenship_status": "not_specified",
+      "currency": "USD",
+      "cycle_label": "2026-2027 & 2027-2028 Academic Year Merit Scholarships",
+      "deadline": {
+        "date": null,
+        "month_day": "03-01",
+        "rule": "Admission by March 1, acceptance by June 1; linked general schedule gives June 30 transcript/ACT/SAT upgrade deadline. Calendar years and cutoff timezone not explicitly printed in these deadline sentences.",
+        "timezone": null
+      },
+      "duration_years": null,
+      "enrollment_min_hours_per_term": 12,
+      "entry_term": "fall",
+      "entry_year": 2027,
+      "exam": "ACT",
+      "fafsa_required": true,
+      "gpa_basis": "Unweighted high-school GPA; printed range retained without extrapolating GPA rounding.",
+      "gpa_max": null,
+      "gpa_min": 3.8,
+      "grid_evidence": "Regent’s Award | 3.8+ | 28+ ACT or 1310+ SAT | $9,000",
+      "housing": null,
+      "institution": "Eastern Kentucky University",
+      "institution_id": "eku",
+      "policy_cycle_basis": "Explicit 2027-28 grid with current renewal rows; undated general policy directly linked from current grid. Historical policy tables excluded.",
+      "record_id": "eku:2027:fall:01:ACT",
+      "renewal": {
+        "credit_completion_pct_min": null,
+        "gpa_min": 3.2,
+        "max_semesters": 8,
+        "rule": "Eight continuous semesters; full-time minimum 12 hours each term, published EKU GPA and 24 earned EKU hours, satisfactory academic progress. Grid does not define the assessment period for 24 earned hours."
+      },
+      "renewal_earned_hours": 24,
+      "renewal_hours_period": null,
+      "residency_rule": "Eligible on-campus Kentucky resident first-time freshman.",
+      "route_semantics": "alternative_minimum_eligibility_not_additive",
+      "score_max": 36,
+      "score_min": 28,
+      "source_ids": [
+        "eku-2027",
+        "eku-policy"
+      ],
+      "stacking": {
+        "rule": "No multiple institutional awards; higher-value category replaces lower. Institutional scholarships may not stack with other scholarships or tuition waivers under source wording; waiver cancels merit. Outside aid must be reported, with cost-of-attendance cap."
+      },
+      "superscore": {
+        "ACT": false,
+        "SAT": null
+      },
+      "test_score_policy": "ACT composite, no ACT superscore. SAT threshold explicitly published; SAT superscore treatment not specified in accepted sources. Four lower awards require no test.",
+      "tier_id": "eku:1",
+      "unknowns": [
+        "Citizenship/immigration criterion not explicitly stated; required FAFSA is not converted into a citizenship rule.",
+        "SAT superscore treatment",
+        "Deadline calendar years/cutoff timezone",
+        "Assessment period for 24 earned EKU hours",
+        "GPA rounding between printed hundredth-point bands"
+      ]
+    },
+    {
+      "additional_eligibility": [
+        "FAFSA required.",
+        "No previous bachelor degree.",
+        "100% online program cancels eligibility.",
+        "More than 24 credits at another school cancels new-freshman award under linked policy.",
+        "Special-program GPA exceptions excluded from this route."
+      ],
+      "annual_amount_max": 9000,
+      "annual_amount_min": 9000,
+      "award_kind": "cash",
+      "award_name": "Regent’s Award",
+      "award_status": "automatic_application_for_eligible_students_until_funds_exhausted",
+      "citizenship_rule": null,
+      "citizenship_status": "not_specified",
+      "currency": "USD",
+      "cycle_label": "2026-2027 & 2027-2028 Academic Year Merit Scholarships",
+      "deadline": {
+        "date": null,
+        "month_day": "03-01",
+        "rule": "Admission by March 1, acceptance by June 1; linked general schedule gives June 30 transcript/ACT/SAT upgrade deadline. Calendar years and cutoff timezone not explicitly printed in these deadline sentences.",
+        "timezone": null
+      },
+      "duration_years": null,
+      "enrollment_min_hours_per_term": 12,
+      "entry_term": "fall",
+      "entry_year": 2027,
+      "exam": "SAT",
+      "fafsa_required": true,
+      "gpa_basis": "Unweighted high-school GPA; printed range retained without extrapolating GPA rounding.",
+      "gpa_max": null,
+      "gpa_min": 3.8,
+      "grid_evidence": "Regent’s Award | 3.8+ | 28+ ACT or 1310+ SAT | $9,000",
+      "housing": null,
+      "institution": "Eastern Kentucky University",
+      "institution_id": "eku",
+      "policy_cycle_basis": "Explicit 2027-28 grid with current renewal rows; undated general policy directly linked from current grid. Historical policy tables excluded.",
+      "record_id": "eku:2027:fall:01:SAT",
+      "renewal": {
+        "credit_completion_pct_min": null,
+        "gpa_min": 3.2,
+        "max_semesters": 8,
+        "rule": "Eight continuous semesters; full-time minimum 12 hours each term, published EKU GPA and 24 earned EKU hours, satisfactory academic progress. Grid does not define the assessment period for 24 earned hours."
+      },
+      "renewal_earned_hours": 24,
+      "renewal_hours_period": null,
+      "residency_rule": "Eligible on-campus Kentucky resident first-time freshman.",
+      "route_semantics": "alternative_minimum_eligibility_not_additive",
+      "score_max": 1600,
+      "score_min": 1310,
+      "source_ids": [
+        "eku-2027",
+        "eku-policy"
+      ],
+      "stacking": {
+        "rule": "No multiple institutional awards; higher-value category replaces lower. Institutional scholarships may not stack with other scholarships or tuition waivers under source wording; waiver cancels merit. Outside aid must be reported, with cost-of-attendance cap."
+      },
+      "superscore": {
+        "ACT": false,
+        "SAT": null
+      },
+      "test_score_policy": "ACT composite, no ACT superscore. SAT threshold explicitly published; SAT superscore treatment not specified in accepted sources. Four lower awards require no test.",
+      "tier_id": "eku:1",
+      "unknowns": [
+        "Citizenship/immigration criterion not explicitly stated; required FAFSA is not converted into a citizenship rule.",
+        "SAT superscore treatment",
+        "Deadline calendar years/cutoff timezone",
+        "Assessment period for 24 earned EKU hours",
+        "GPA rounding between printed hundredth-point bands"
+      ]
+    },
+    {
+      "additional_eligibility": [
+        "FAFSA required.",
+        "No previous bachelor degree.",
+        "100% online program cancels eligibility.",
+        "More than 24 credits at another school cancels new-freshman award under linked policy.",
+        "Special-program GPA exceptions excluded from this route."
+      ],
+      "annual_amount_max": 7000,
+      "annual_amount_min": 7000,
+      "award_kind": "cash",
+      "award_name": "President’s Award",
+      "award_status": "automatic_application_for_eligible_students_until_funds_exhausted",
+      "citizenship_rule": null,
+      "citizenship_status": "not_specified",
+      "currency": "USD",
+      "cycle_label": "2026-2027 & 2027-2028 Academic Year Merit Scholarships",
+      "deadline": {
+        "date": null,
+        "month_day": "03-01",
+        "rule": "Admission by March 1, acceptance by June 1; linked general schedule gives June 30 transcript/ACT/SAT upgrade deadline. Calendar years and cutoff timezone not explicitly printed in these deadline sentences.",
+        "timezone": null
+      },
+      "duration_years": null,
+      "enrollment_min_hours_per_term": 12,
+      "entry_term": "fall",
+      "entry_year": 2027,
+      "exam": "NONE",
+      "fafsa_required": true,
+      "gpa_basis": "Unweighted high-school GPA; printed range retained without extrapolating GPA rounding.",
+      "gpa_max": 4.0,
+      "gpa_min": 3.8,
+      "grid_evidence": "President’s Award | 3.8-4.0 | None Required | $7,000",
+      "housing": null,
+      "institution": "Eastern Kentucky University",
+      "institution_id": "eku",
+      "policy_cycle_basis": "Explicit 2027-28 grid with current renewal rows; undated general policy directly linked from current grid. Historical policy tables excluded.",
+      "record_id": "eku:2027:fall:02:NONE",
+      "renewal": {
+        "credit_completion_pct_min": null,
+        "gpa_min": 3.2,
+        "max_semesters": 8,
+        "rule": "Eight continuous semesters; full-time minimum 12 hours each term, published EKU GPA and 24 earned EKU hours, satisfactory academic progress. Grid does not define the assessment period for 24 earned hours."
+      },
+      "renewal_earned_hours": 24,
+      "renewal_hours_period": null,
+      "residency_rule": "Eligible on-campus Kentucky resident first-time freshman.",
+      "route_semantics": "alternative_minimum_eligibility_not_additive",
+      "score_max": null,
+      "score_min": null,
+      "source_ids": [
+        "eku-2027",
+        "eku-policy"
+      ],
+      "stacking": {
+        "rule": "No multiple institutional awards; higher-value category replaces lower. Institutional scholarships may not stack with other scholarships or tuition waivers under source wording; waiver cancels merit. Outside aid must be reported, with cost-of-attendance cap."
+      },
+      "superscore": {
+        "ACT": false,
+        "SAT": null
+      },
+      "test_score_policy": "ACT composite, no ACT superscore. SAT threshold explicitly published; SAT superscore treatment not specified in accepted sources. Four lower awards require no test.",
+      "tier_id": "eku:2",
+      "unknowns": [
+        "Citizenship/immigration criterion not explicitly stated; required FAFSA is not converted into a citizenship rule.",
+        "SAT superscore treatment",
+        "Deadline calendar years/cutoff timezone",
+        "Assessment period for 24 earned EKU hours",
+        "GPA rounding between printed hundredth-point bands"
+      ]
+    },
+    {
+      "additional_eligibility": [
+        "FAFSA required.",
+        "No previous bachelor degree.",
+        "100% online program cancels eligibility.",
+        "More than 24 credits at another school cancels new-freshman award under linked policy.",
+        "Special-program GPA exceptions excluded from this route."
+      ],
+      "annual_amount_max": 5000,
+      "annual_amount_min": 5000,
+      "award_kind": "cash",
+      "award_name": "One Eastern Award",
+      "award_status": "automatic_application_for_eligible_students_until_funds_exhausted",
+      "citizenship_rule": null,
+      "citizenship_status": "not_specified",
+      "currency": "USD",
+      "cycle_label": "2026-2027 & 2027-2028 Academic Year Merit Scholarships",
+      "deadline": {
+        "date": null,
+        "month_day": "03-01",
+        "rule": "Admission by March 1, acceptance by June 1; linked general schedule gives June 30 transcript/ACT/SAT upgrade deadline. Calendar years and cutoff timezone not explicitly printed in these deadline sentences.",
+        "timezone": null
+      },
+      "duration_years": null,
+      "enrollment_min_hours_per_term": 12,
+      "entry_term": "fall",
+      "entry_year": 2027,
+      "exam": "NONE",
+      "fafsa_required": true,
+      "gpa_basis": "Unweighted high-school GPA; printed range retained without extrapolating GPA rounding.",
+      "gpa_max": 3.79,
+      "gpa_min": 3.4,
+      "grid_evidence": "One Eastern Award | 3.4 – 3.79 | None Required | $5,000",
+      "housing": null,
+      "institution": "Eastern Kentucky University",
+      "institution_id": "eku",
+      "policy_cycle_basis": "Explicit 2027-28 grid with current renewal rows; undated general policy directly linked from current grid. Historical policy tables excluded.",
+      "record_id": "eku:2027:fall:03:NONE",
+      "renewal": {
+        "credit_completion_pct_min": null,
+        "gpa_min": 3.0,
+        "max_semesters": 8,
+        "rule": "Eight continuous semesters; full-time minimum 12 hours each term, published EKU GPA and 24 earned EKU hours, satisfactory academic progress. Grid does not define the assessment period for 24 earned hours."
+      },
+      "renewal_earned_hours": 24,
+      "renewal_hours_period": null,
+      "residency_rule": "Eligible on-campus Kentucky resident first-time freshman.",
+      "route_semantics": "alternative_minimum_eligibility_not_additive",
+      "score_max": null,
+      "score_min": null,
+      "source_ids": [
+        "eku-2027",
+        "eku-policy"
+      ],
+      "stacking": {
+        "rule": "No multiple institutional awards; higher-value category replaces lower. Institutional scholarships may not stack with other scholarships or tuition waivers under source wording; waiver cancels merit. Outside aid must be reported, with cost-of-attendance cap."
+      },
+      "superscore": {
+        "ACT": false,
+        "SAT": null
+      },
+      "test_score_policy": "ACT composite, no ACT superscore. SAT threshold explicitly published; SAT superscore treatment not specified in accepted sources. Four lower awards require no test.",
+      "tier_id": "eku:3",
+      "unknowns": [
+        "Citizenship/immigration criterion not explicitly stated; required FAFSA is not converted into a citizenship rule.",
+        "SAT superscore treatment",
+        "Deadline calendar years/cutoff timezone",
+        "Assessment period for 24 earned EKU hours",
+        "GPA rounding between printed hundredth-point bands"
+      ]
+    },
+    {
+      "additional_eligibility": [
+        "FAFSA required.",
+        "No previous bachelor degree.",
+        "100% online program cancels eligibility.",
+        "More than 24 credits at another school cancels new-freshman award under linked policy.",
+        "Special-program GPA exceptions excluded from this route."
+      ],
+      "annual_amount_max": 3000,
+      "annual_amount_min": 3000,
+      "award_kind": "cash",
+      "award_name": "Excellence Award",
+      "award_status": "automatic_application_for_eligible_students_until_funds_exhausted",
+      "citizenship_rule": null,
+      "citizenship_status": "not_specified",
+      "currency": "USD",
+      "cycle_label": "2026-2027 & 2027-2028 Academic Year Merit Scholarships",
+      "deadline": {
+        "date": null,
+        "month_day": "03-01",
+        "rule": "Admission by March 1, acceptance by June 1; linked general schedule gives June 30 transcript/ACT/SAT upgrade deadline. Calendar years and cutoff timezone not explicitly printed in these deadline sentences.",
+        "timezone": null
+      },
+      "duration_years": null,
+      "enrollment_min_hours_per_term": 12,
+      "entry_term": "fall",
+      "entry_year": 2027,
+      "exam": "NONE",
+      "fafsa_required": true,
+      "gpa_basis": "Unweighted high-school GPA; printed range retained without extrapolating GPA rounding.",
+      "gpa_max": 3.39,
+      "gpa_min": 3.0,
+      "grid_evidence": "Excellence Award | 3.0-3.39 | None Required | $3,000",
+      "housing": null,
+      "institution": "Eastern Kentucky University",
+      "institution_id": "eku",
+      "policy_cycle_basis": "Explicit 2027-28 grid with current renewal rows; undated general policy directly linked from current grid. Historical policy tables excluded.",
+      "record_id": "eku:2027:fall:04:NONE",
+      "renewal": {
+        "credit_completion_pct_min": null,
+        "gpa_min": 3.0,
+        "max_semesters": 8,
+        "rule": "Eight continuous semesters; full-time minimum 12 hours each term, published EKU GPA and 24 earned EKU hours, satisfactory academic progress. Grid does not define the assessment period for 24 earned hours."
+      },
+      "renewal_earned_hours": 24,
+      "renewal_hours_period": null,
+      "residency_rule": "Eligible on-campus Kentucky resident first-time freshman.",
+      "route_semantics": "alternative_minimum_eligibility_not_additive",
+      "score_max": null,
+      "score_min": null,
+      "source_ids": [
+        "eku-2027",
+        "eku-policy"
+      ],
+      "stacking": {
+        "rule": "No multiple institutional awards; higher-value category replaces lower. Institutional scholarships may not stack with other scholarships or tuition waivers under source wording; waiver cancels merit. Outside aid must be reported, with cost-of-attendance cap."
+      },
+      "superscore": {
+        "ACT": false,
+        "SAT": null
+      },
+      "test_score_policy": "ACT composite, no ACT superscore. SAT threshold explicitly published; SAT superscore treatment not specified in accepted sources. Four lower awards require no test.",
+      "tier_id": "eku:4",
+      "unknowns": [
+        "Citizenship/immigration criterion not explicitly stated; required FAFSA is not converted into a citizenship rule.",
+        "SAT superscore treatment",
+        "Deadline calendar years/cutoff timezone",
+        "Assessment period for 24 earned EKU hours",
+        "GPA rounding between printed hundredth-point bands"
+      ]
+    },
+    {
+      "additional_eligibility": [
+        "FAFSA required.",
+        "No previous bachelor degree.",
+        "100% online program cancels eligibility.",
+        "More than 24 credits at another school cancels new-freshman award under linked policy.",
+        "Promise award requires learning contract."
+      ],
+      "annual_amount_max": 1000,
+      "annual_amount_min": 1000,
+      "award_kind": "cash",
+      "award_name": "Promise Award",
+      "award_status": "automatic_application_for_eligible_students_until_funds_exhausted",
+      "citizenship_rule": null,
+      "citizenship_status": "not_specified",
+      "currency": "USD",
+      "cycle_label": "2026-2027 & 2027-2028 Academic Year Merit Scholarships",
+      "deadline": {
+        "date": null,
+        "month_day": "03-01",
+        "rule": "Admission by March 1, acceptance by June 1; linked general schedule gives June 30 transcript/ACT/SAT upgrade deadline. Calendar years and cutoff timezone not explicitly printed in these deadline sentences.",
+        "timezone": null
+      },
+      "duration_years": null,
+      "enrollment_min_hours_per_term": 12,
+      "entry_term": "fall",
+      "entry_year": 2027,
+      "exam": "NONE",
+      "fafsa_required": true,
+      "gpa_basis": "Unweighted high-school GPA; printed range retained without extrapolating GPA rounding.",
+      "gpa_max": 2.99,
+      "gpa_min": 2.0,
+      "grid_evidence": "Promise Award | 2.0 – 2.99 | None Required | $1,000",
+      "housing": null,
+      "institution": "Eastern Kentucky University",
+      "institution_id": "eku",
+      "policy_cycle_basis": "Explicit 2027-28 grid with current renewal rows; undated general policy directly linked from current grid. Historical policy tables excluded.",
+      "record_id": "eku:2027:fall:05:NONE",
+      "renewal": {
+        "credit_completion_pct_min": null,
+        "gpa_min": 3.0,
+        "max_semesters": 8,
+        "rule": "Eight continuous semesters; full-time minimum 12 hours each term, published EKU GPA and 24 earned EKU hours, satisfactory academic progress. Grid does not define the assessment period for 24 earned hours. Promise also requires learning contract."
+      },
+      "renewal_earned_hours": 24,
+      "renewal_hours_period": null,
+      "residency_rule": "Eligible on-campus Kentucky resident first-time freshman.",
+      "route_semantics": "alternative_minimum_eligibility_not_additive",
+      "score_max": null,
+      "score_min": null,
+      "source_ids": [
+        "eku-2027",
+        "eku-policy"
+      ],
+      "stacking": {
+        "rule": "No multiple institutional awards; higher-value category replaces lower. Institutional scholarships may not stack with other scholarships or tuition waivers under source wording; waiver cancels merit. Outside aid must be reported, with cost-of-attendance cap."
+      },
+      "superscore": {
+        "ACT": false,
+        "SAT": null
+      },
+      "test_score_policy": "ACT composite, no ACT superscore. SAT threshold explicitly published; SAT superscore treatment not specified in accepted sources. Four lower awards require no test.",
+      "tier_id": "eku:5",
+      "unknowns": [
+        "Citizenship/immigration criterion not explicitly stated; required FAFSA is not converted into a citizenship rule.",
+        "SAT superscore treatment",
+        "Deadline calendar years/cutoff timezone",
+        "Assessment period for 24 earned EKU hours",
+        "GPA rounding between printed hundredth-point bands"
+      ]
+    }
+  ],
+  "schema_version": 1,
+  "scope": "Private expansion, fall 2027: UKY nonresident Bluegrass only and EKU ordinary on-campus Kentucky-resident freshman merit only. Sixteen alternative eligibility paths across nine published tiers; neither sixteen distinct scholarships nor a comprehensive directory.",
+  "source_id": "scholarship_merit_expansion_2027",
+  "sources": [
+    {
+      "bytes": 104291,
+      "id": "uky-2027",
+      "retrieved_at": "2026-10-26T22:21:28.687276+00:00",
+      "sha256": "b4640fe8fe0d75877a3e241c69f21043733b29eb50dd01e2ec70ccec9720ac4c",
+      "url": "https://studentsuccess.uky.edu/financial-aid-and-scholarships/academic-scholarships/incoming-freshmen-scholarships"
+    },
+    {
+      "bytes": 350540,
+      "id": "eku-2027",
+      "retrieved_at": "2026-10-26T22:21:32.480440+00:00",
+      "sha256": "0209ee4ca2b97d70ae7b5eee89830ef40b2602ddc086a7ab770c1b93298e9840",
+      "url": "https://www.eku.edu/scholarship-Opportunities/"
+    },
+    {
+      "bytes": 211139,
+      "id": "eku-policy",
+      "retrieved_at": "2026-10-26T22:21:35.195209+00:00",
+      "sha256": "70cc740f634ed67c56e5065d95e966d0313ac9e4b4ab6d960f13f1875c8b68db",
+      "url": "https://www.eku.edu/in/guides/scholarships-merit-scholarship-policies-guidelines/"
+    }
+  ],
+  "status": "frozen_evidence_pending_editorial_review"
+}

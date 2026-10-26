@@ -1,0 +1,40 @@
+{
+  "edition_label": "2026-10-27",
+  "edition_note": "Planned editorial edition; official sources acquired 2026-10-26.",
+  "eligibility_routes": 16,
+  "entry_term": "fall",
+  "entry_year": 2027,
+  "files": {
+    "merit.csv": "2bb35bcc85b22d8a554cdfc28461f1c179275b7efa4f4376d66f87e1098f08c3",
+    "merit.json": "b83b2c74c657904b6a746c2eba275f05c0a2f82dccd6247e628e515cdcefabd1"
+  },
+  "institutions": 2,
+  "published_tiers": 9,
+  "release_state": "evidence_ready_article_draft",
+  "scope": "UKY nonresident Bluegrass and EKU Kentucky-resident ordinary freshman merit only. Alternative eligibility routes, not additive awards.",
+  "source_acquisition_date": "2026-10-26",
+  "sources": [
+    {
+      "bytes": 104291,
+      "id": "uky-2027",
+      "retrieved_at": "2026-10-26T22:21:28.687276+00:00",
+      "sha256": "b4640fe8fe0d75877a3e241c69f21043733b29eb50dd01e2ec70ccec9720ac4c",
+      "url": "https://studentsuccess.uky.edu/financial-aid-and-scholarships/academic-scholarships/incoming-freshmen-scholarships"
+    },
+    {
+      "bytes": 350540,
+      "id": "eku-2027",
+      "retrieved_at": "2026-10-26T22:21:32.480440+00:00",
+      "sha256": "0209ee4ca2b97d70ae7b5eee89830ef40b2602ddc086a7ab770c1b93298e9840",
+      "url": "https://www.eku.edu/scholarship-Opportunities/"
+    },
+    {
+      "bytes": 211139,
+      "id": "eku-policy",
+      "retrieved_at": "2026-10-26T22:21:35.195209+00:00",
+      "sha256": "70cc740f634ed67c56e5065d95e966d0313ac9e4b4ab6d960f13f1875c8b68db",
+      "url": "https://www.eku.edu/in/guides/scholarships-merit-scholarship-policies-guidelines/"
+    }
+  ],
+  "study": "test-optional-scholarships"
+}

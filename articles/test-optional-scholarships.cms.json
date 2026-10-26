@@ -1,0 +1,56 @@
+{
+  "stage": "research-edition",
+  "post": {
+    "title": "Test-Optional Scholarships: When ACT Scores Still Matter",
+    "slug": "test-optional-scholarships",
+    "dek": "At UKY, ACT 29 to 30 changes a published annual scholarship tier by $3,000 at GPA 3.50. At GPA 3.80, the same $16,000 tier is available without a test. Compare UKY and EKU’s fall-2027 criteria.",
+    "bodyMd": "A college can offer scholarships without test scores and still reward a particular ACT result. For a student deciding whether to retake the exam, the useful question is whether the next score threshold changes the funding available under their GPA and residency conditions.\n\nTwo Kentucky public universities show why the answer depends on the application. Their fall-2027 scholarship grids include test-optional awards alongside score-based routes. At particular thresholds, one additional ACT point changes the published annual tier by **$3,000 at the University of Kentucky** and **$2,000 at Eastern Kentucky**.[¹](#source-1)[²](#source-2)\n\n## Two thresholds, with different eligibility\n\n| University and award | Residency and unweighted GPA | ACT change | Published annual tier | Annual difference |\n|---|---|---|---|---|\n| Kentucky, Bluegrass | Nonresident; 3.50 | 29 to 30 | $13,000 to $16,000 | **$3,000** |\n| Eastern Kentucky, President's to Regent's | On-campus Kentucky resident; 3.80 | 27 to 28 | $7,000 to $9,000 | **$2,000** |\n\nAt UKY, GPA 3.50 and ACT 25 already meet the $13,000 Bluegrass criteria. Reaching ACT 30 meets the $16,000 criteria. The university automatically considers eligible admitted students, but awards depend on early application and available funds. Meeting a published threshold does not guarantee the scholarship.[¹](#source-1)\n\nAt EKU, the $7,000 President's award requires no test. A student with the same 3.80 GPA and ACT 28 meets the $9,000 Regent's criteria; SAT 1310 is an alternative. The awards replace each other. They do not stack, and the lower amount in our comparison comes from the no-test route.[²](#source-2)[³](#source-3)\n\n![Separate panels show UKY's annual Bluegrass tier rising from $13,000 to $16,000 at ACT 30 for a nonresident with unweighted GPA 3.50, and EKU's $7,000 no-test President's tier changing to the $9,000 Regent's tier at ACT 28 for an on-campus Kentucky resident with unweighted GPA 3.80.](https://raw.githubusercontent.com/prepsavvy/prepsavvy-blog/main/figures/test-optional-scholarships/2026-10-27/act-tier-changes.png)\n\n## The same score improvement can add nothing to the tier\n\nChange the UKY applicant's GPA to **3.80**, and the calculation changes. The published test-optional route already reaches **$16,000 annually**. ACT 30 reaches that same Bluegrass tier. A student pursuing this award should check the GPA route before treating another ACT point as a funding opportunity.[¹](#source-1)\n\nUKY's no-test Bluegrass criteria step from $6,500 at GPA 3.00 to $10,000 at 3.50, $13,000 at 3.60 and $16,000 at 3.80. That makes the transcript central to the decision, even when a score-based route is available.\n\n![UKY's nonresident Bluegrass test-optional tiers rise with unweighted GPA, reaching $16,000 at 3.80. A separate ACT 30 route reaches that same annual tier with minimum GPA 3.50.](https://raw.githubusercontent.com/prepsavvy/prepsavvy-blog/main/figures/test-optional-scholarships/2026-10-27/uky-no-test-gpa-tiers.png)\n\n## Check the conditions before booking another test\n\nBoth universities exclude ACT superscores. EKU also requires FAFSA and on-campus eligibility. Its published renewal GPA is 3.2 for President's and Regent's, with full-time enrollment and 24 earned EKU hours. The linked terms allow eight continuous semesters. UKY describes Bluegrass as four-year renewable, requiring at least 12 undergraduate hours each semester and a 3.0 cumulative GPA.[¹](#source-1)[²](#source-2)[³](#source-3)\n\nUKY requires the completed admission application and supporting documents by **December 1, 2026**, and warns that funds can run out earlier. EKU lists March 1 for admission consideration, June 1 for acceptance and June 30 for updated transcripts or scores.[¹](#source-1)[²](#source-2)[³](#source-3)\n\nStart with your residency, unweighted GPA and the university's accepted score rules. Identify a threshold that changes a relevant award, then use an [ACT diagnostic and preparation plan](/exams/act) to assess the work needed. If your existing GPA already reaches the same tier without a score, account for that before investing in another sitting.\n\nThe [open evidence and reproduction files](https://github.com/prepsavvy/prepsavvy-blog/tree/main/data/test-optional-scholarships/2026-10-27) contain the official source hashes and all 16 alternative eligibility routes across nine published tiers.[⁴](#source-4)\n",
+    "contentType": "research",
+    "tags": [
+      "act",
+      "scholarships"
+    ],
+    "clusterId": "act-scholarships",
+    "primaryKeyword": "test optional scholarships",
+    "secondaryKeywords": [
+      "ACT scholarship requirements",
+      "2027 merit scholarships",
+      "University of Kentucky scholarships",
+      "EKU merit scholarships"
+    ],
+    "market": "US",
+    "exam": "act",
+    "authorId": "041cfe25-3c0c-4cd4-ba35-5317bbd610f5",
+    "seoTitle": "Test-Optional Scholarships: When ACT Scores Still Matter",
+    "metaDescription": "Compare fall-2027 UKY and EKU scholarship tiers. See when an ACT threshold changes annual aid, and when the no-test GPA route reaches the same tier.",
+    "sources": [
+      {
+        "title": "Fall-2027 incoming freshman academic awards, nonresident Bluegrass grid and current terms",
+        "url": "https://studentsuccess.uky.edu/financial-aid-and-scholarships/academic-scholarships/incoming-freshmen-scholarships",
+        "publisher": "University of Kentucky",
+        "accessed": "2026-10-26"
+      },
+      {
+        "title": "2026-27 and 2027-28 in-state freshman merit awards and renewal criteria",
+        "url": "https://www.eku.edu/scholarship-Opportunities/",
+        "publisher": "Eastern Kentucky University",
+        "accessed": "2026-10-26"
+      },
+      {
+        "title": "Linked general merit scholarship terms, additional policies and dates; historical award tables excluded",
+        "url": "https://www.eku.edu/in/guides/scholarships-merit-scholarship-policies-guidelines/",
+        "publisher": "Eastern Kentucky University",
+        "accessed": "2026-10-26"
+      },
+      {
+        "title": "Frozen test-optional scholarship eligibility routes, source hashes and offline reproduction",
+        "url": "https://github.com/prepsavvy/prepsavvy-blog/tree/main/data/test-optional-scholarships/2026-10-27",
+        "publisher": "PrepSavvy",
+        "accessed": "2026-10-26"
+      }
+    ],
+    "pipelineRunId": "test-optional-scholarships-2026-10-27",
+    "canonVersion": "merit-expansion-fall-2027-v1",
+    "heroAssetId": "d580d341-9bd0-4993-8c36-2d3c63f21548"
+  }
+}

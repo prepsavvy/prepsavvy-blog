@@ -1,0 +1,174 @@
+{
+  "edition": "2026-10-27",
+  "entry": "fall 2027",
+  "interpretation": "Highest published qualifying tier among academic routes, including no-test alternatives. Awards are not summed; eligibility and limited funds remain separate. Not a personalized aid offer.",
+  "panels": [
+    {
+      "after_act": 30,
+      "after_annual_usd": 16000,
+      "before_act": 29,
+      "before_annual_usd": 13000,
+      "increase_annual_usd": 3000,
+      "institution_id": "uky",
+      "label": "UKY Bluegrass | Nonresident | Unweighted GPA 3.50",
+      "steps": [
+        {
+          "act": 26,
+          "annual_usd": 13000,
+          "record_ids": [
+            "uky:2027:fall:03:ACT"
+          ],
+          "tier_id": "uky:3"
+        },
+        {
+          "act": 27,
+          "annual_usd": 13000,
+          "record_ids": [
+            "uky:2027:fall:03:ACT"
+          ],
+          "tier_id": "uky:3"
+        },
+        {
+          "act": 28,
+          "annual_usd": 13000,
+          "record_ids": [
+            "uky:2027:fall:03:ACT"
+          ],
+          "tier_id": "uky:3"
+        },
+        {
+          "act": 29,
+          "annual_usd": 13000,
+          "record_ids": [
+            "uky:2027:fall:03:ACT"
+          ],
+          "tier_id": "uky:3"
+        },
+        {
+          "act": 30,
+          "annual_usd": 16000,
+          "record_ids": [
+            "uky:2027:fall:04:ACT"
+          ],
+          "tier_id": "uky:4"
+        },
+        {
+          "act": 31,
+          "annual_usd": 16000,
+          "record_ids": [
+            "uky:2027:fall:04:ACT"
+          ],
+          "tier_id": "uky:4"
+        },
+        {
+          "act": 32,
+          "annual_usd": 16000,
+          "record_ids": [
+            "uky:2027:fall:04:ACT"
+          ],
+          "tier_id": "uky:4"
+        }
+      ],
+      "unweighted_gpa": 3.5
+    },
+    {
+      "after_act": 28,
+      "after_annual_usd": 9000,
+      "before_act": 27,
+      "before_annual_usd": 7000,
+      "increase_annual_usd": 2000,
+      "institution_id": "eku",
+      "label": "Eastern Kentucky | Kentucky resident, on campus | Unweighted GPA 3.80",
+      "steps": [
+        {
+          "act": 26,
+          "annual_usd": 7000,
+          "record_ids": [
+            "eku:2027:fall:02:NONE"
+          ],
+          "tier_id": "eku:2"
+        },
+        {
+          "act": 27,
+          "annual_usd": 7000,
+          "record_ids": [
+            "eku:2027:fall:02:NONE"
+          ],
+          "tier_id": "eku:2"
+        },
+        {
+          "act": 28,
+          "annual_usd": 9000,
+          "record_ids": [
+            "eku:2027:fall:01:ACT"
+          ],
+          "tier_id": "eku:1"
+        },
+        {
+          "act": 29,
+          "annual_usd": 9000,
+          "record_ids": [
+            "eku:2027:fall:01:ACT"
+          ],
+          "tier_id": "eku:1"
+        },
+        {
+          "act": 30,
+          "annual_usd": 9000,
+          "record_ids": [
+            "eku:2027:fall:01:ACT"
+          ],
+          "tier_id": "eku:1"
+        },
+        {
+          "act": 31,
+          "annual_usd": 9000,
+          "record_ids": [
+            "eku:2027:fall:01:ACT"
+          ],
+          "tier_id": "eku:1"
+        },
+        {
+          "act": 32,
+          "annual_usd": 9000,
+          "record_ids": [
+            "eku:2027:fall:01:ACT"
+          ],
+          "tier_id": "eku:1"
+        }
+      ],
+      "unweighted_gpa": 3.8
+    }
+  ],
+  "route_count": 16,
+  "source_acquisition_date": "2026-10-26",
+  "tier_count": 9,
+  "uky_16000_traditional": {
+    "act_min": 30,
+    "annual_usd": 16000,
+    "gpa_min": 3.5,
+    "sat_min": 1360
+  },
+  "uky_no_test": [
+    {
+      "annual_usd": 6500,
+      "gpa_min": 3.0,
+      "record_id": "uky:2027:fall:01:NONE"
+    },
+    {
+      "annual_usd": 10000,
+      "gpa_min": 3.5,
+      "record_id": "uky:2027:fall:02:NONE"
+    },
+    {
+      "annual_usd": 13000,
+      "gpa_min": 3.6,
+      "record_id": "uky:2027:fall:03:NONE"
+    },
+    {
+      "annual_usd": 16000,
+      "gpa_min": 3.8,
+      "record_id": "uky:2027:fall:04:NONE"
+    }
+  ]
+}
