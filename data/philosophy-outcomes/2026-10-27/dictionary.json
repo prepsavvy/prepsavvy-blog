@@ -1,0 +1,106 @@
+{
+  "EARN_MDN_1YR": {
+    "description": "Median earnings of graduates working and not enrolled 1 year after completing",
+    "cohort": "Treasury AY2020-21, AY2021-22 pooled earnings cohort measured in CY2022, CY2023, inflation adjusted to 2024 dollars"
+  },
+  "EARN_COUNT_WNE_1YR": {
+    "description": "Number of graduates working and not enrolled 1 year after completing",
+    "cohort": "Treasury AY2020-21, AY2021-22 pooled earnings cohort measured in CY2022, CY2023"
+  },
+  "EARN_MDN_4YR": {
+    "description": "Median earnings of graduates working and not enrolled 4 years after completing",
+    "cohort": "Treasury AY2017-2018, AY2018-2019 pooled earnings cohort measured in CY2022, CY2023, inflation adjusted to 2024 dollars"
+  },
+  "EARN_COUNT_WNE_4YR": {
+    "description": "Number of graduates working and not enrolled 4 years after completing",
+    "cohort": "Treasury AY2017-2018, AY2018-2019 pooled earnings cohort measured in CY2022, CY2023"
+  },
+  "EARN_MDN_5YR": {
+    "description": "Median earnings of graduates working and not enrolled 5 years after completing",
+    "cohort": "Treasury AY2016-2017, AY2017-2018 pooled earnings cohort measured in CY2022, CY2023, inflation adjusted to 2024 dollars"
+  },
+  "EARN_COUNT_WNE_5YR": {
+    "description": "Number of graduates working and not enrolled 5 years after completing",
+    "cohort": "Treasury AY2016-2017, AY2017-2018 pooled earnings cohort measured in CY2022, CY2023"
+  },
+  "EARN_MDN_7YR": {
+    "description": "Median earnings of graduates working and not enrolled 7 years after completing",
+    "cohort": "Treasury AY2014-2015, AY2015-2016 pooled earnings cohort measured in CY2022, CY2023, inflation adjusted to 2024 dollars"
+  },
+  "EARN_COUNT_WNE_7YR": {
+    "description": "Number of graduates working and not enrolled 7 years after completing",
+    "cohort": "Treasury AY2014-2015, AY2015-2016 pooled earnings cohort measured in CY2022, CY2023"
+  },
+  "DEBT_ALL_STGP_ANY_MDN": {
+    "description": "Median Stafford and Grad PLUS loan debt disbursed at all institutions",
+    "cohort": "NSLDS pooled AY2022-23, AY2023-24 cohort"
+  },
+  "DEBT_ALL_STGP_ANY_N": {
+    "description": "Borrower count for average/median Stafford and Grad PLUS loan debt disbursed at all institutions",
+    "cohort": "NSLDS pooled AY2022-23, AY2023-24 cohort"
+  },
+  "EARN_MDN_1YR_NAT": {
+    "description": "Median earnings of graduates in the nation working and not enrolled 1 year after completing",
+    "cohort": "Treasury AY2020-21, AY2021-22 pooled earnings cohort measured in CY2022, CY2023, inflation adjusted to 2024 dollars"
+  },
+  "EARN_COUNT_WNE_1YR_NAT": {
+    "description": "Number of graduates in the nation working and not enrolled 1 year after completing",
+    "cohort": "Treasury AY2020-21, AY2021-22 pooled earnings cohort measured in CY2022, CY2023"
+  },
+  "EARN_P25_1YR_NAT": {
+    "description": "25th percentile earnings of graduates in the nation working and not enrolled 1 year after completing",
+    "cohort": "Treasury AY2020-21, AY2021-22 pooled earnings cohort measured in CY2022, CY2023"
+  },
+  "EARN_P75_1YR_NAT": {
+    "description": "75th percentile earnings of graduates in the nation working and not enrolled 1 year after completing",
+    "cohort": "Treasury AY2020-21, AY2021-22 pooled earnings cohort measured in CY2022, CY2023"
+  },
+  "EARN_MDN_4YR_NAT": {
+    "description": "Median earnings of graduates in the nation working and not enrolled 4 years after completing",
+    "cohort": "Treasury AY2017-2018, AY2018-2019 pooled earnings cohort measured in CY2022, CY2023, inflation adjusted to 2024 dollars"
+  },
+  "EARN_COUNT_WNE_4YR_NAT": {
+    "description": "Number of graduates in the nation working and not enrolled 4 years after completing",
+    "cohort": "Treasury AY2017-2018, AY2018-2019 pooled earnings cohort measured in CY2022, CY2023"
+  },
+  "EARN_P25_4YR_NAT": {
+    "description": "25th percentile earnings of graduates in the nation working and not enrolled 4 years after completing",
+    "cohort": "Treasury AY2017-2018, AY2018-2019 pooled earnings cohort measured in CY2022, CY2023, inflation adjusted to 2024 dollars"
+  },
+  "EARN_P75_4YR_NAT": {
+    "description": "75th percentile earnings of graduates in the nation working and not enrolled 4 years after completing",
+    "cohort": "Treasury AY2017-2018, AY2018-2019 pooled earnings cohort measured in CY2022, CY2023, inflation adjusted to 2024 dollars"
+  },
+  "EARN_MDN_5YR_NAT": {
+    "description": "Median earnings of graduates in the nation working and not enrolled 5 years after completing",
+    "cohort": "Treasury AY2016-2017, AY2017-2018 pooled earnings cohort measured in CY2022, CY2023, inflation adjusted to 2024 dollars"
+  },
+  "EARN_COUNT_WNE_5YR_NAT": {
+    "description": "Number of graduates in the nation working and not enrolled 5 years after completing",
+    "cohort": "Treasury AY2016-2017, AY2017-2018 pooled earnings cohort measured in CY2022, CY2023"
+  },
+  "EARN_P25_5YR_NAT": {
+    "description": "25th percentile earnings of graduates in the nation working and not enrolled 5 years after completing",
+    "cohort": "Treasury AY2016-2017, AY2017-2018 pooled earnings cohort measured in CY2022, CY2023"
+  },
+  "EARN_P75_5YR_NAT": {
+    "description": "75th percentile earnings of graduates in the nation working and not enrolled 5 years after completing",
+    "cohort": "Treasury AY2016-2017, AY2017-2018 pooled earnings cohort measured in CY2022, CY2023"
+  },
+  "EARN_MDN_7YR_NAT": {
+    "description": "Median earnings of graduates in the nation working and not enrolled 7 years after completing",
+    "cohort": "Treasury AY2014-2015, AY2015-2016 pooled earnings cohort measured in CY2022, CY2023, inflation adjusted to 2024 dollars"
+  },
+  "EARN_COUNT_WNE_7YR_NAT": {
+    "description": "Number of graduates in the nation working and not enrolled 7 years after completing",
+    "cohort": "Treasury AY2014-2015, AY2015-2016 pooled earnings cohort measured in CY2022, CY2023"
+  },
+  "EARN_P25_7YR_NAT": {
+    "description": "25th percentile earnings of graduates in the nation working and not enrolled 7 years after completing",
+    "cohort": "Treasury AY2014-2015, AY2015-2016 pooled earnings cohort measured in CY2022, CY2023"
+  },
+  "EARN_P75_7YR_NAT": {
+    "description": "75th percentile earnings of graduates in the nation working and not enrolled 7 years after completing",
+    "cohort": "Treasury AY2014-2015, AY2015-2016 pooled earnings cohort measured in CY2022, CY2023"
+  }
+}

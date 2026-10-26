@@ -1,0 +1,813 @@
+{
+  "source_groups": 802,
+  "source_unitid_rows": 819,
+  "domestic_groups": 776,
+  "domestic_unitid_rows": 793,
+  "foreign_audit_groups": 26,
+  "coverage": {
+    "EARN_MDN_1YR": {
+      "privacy_suppressed": 688,
+      "reported": 85,
+      "not_available": 3
+    },
+    "EARN_COUNT_WNE_1YR": {
+      "privacy_suppressed": 688,
+      "reported": 85,
+      "not_available": 3
+    },
+    "EARN_MDN_4YR": {
+      "privacy_suppressed": 692,
+      "reported": 81,
+      "not_available": 3
+    },
+    "EARN_COUNT_WNE_4YR": {
+      "privacy_suppressed": 692,
+      "reported": 81,
+      "not_available": 3
+    },
+    "EARN_MDN_5YR": {
+      "privacy_suppressed": 679,
+      "reported": 94,
+      "not_available": 3
+    },
+    "EARN_COUNT_WNE_5YR": {
+      "privacy_suppressed": 679,
+      "reported": 94,
+      "not_available": 3
+    },
+    "EARN_MDN_7YR": {
+      "privacy_suppressed": 686,
+      "reported": 87,
+      "not_available": 3
+    },
+    "EARN_COUNT_WNE_7YR": {
+      "privacy_suppressed": 686,
+      "reported": 87,
+      "not_available": 3
+    },
+    "DEBT_ALL_STGP_ANY_MDN": {
+      "privacy_suppressed": 704,
+      "reported": 72
+    },
+    "DEBT_ALL_STGP_ANY_N": {
+      "privacy_suppressed": 590,
+      "reported": 186
+    }
+  },
+  "both_earnings_and_debt": 50,
+  "comparison_floor": 30,
+  "comparison": [
+    {
+      "opeid6": "001081",
+      "name": "Arizona State University Campus Immersion and linked campuses (OPEID6 001081; pooled)",
+      "control": "Public",
+      "earnings": 59935,
+      "earnings_n": 65,
+      "debt": {
+        "raw": "20000",
+        "status": "reported",
+        "value": 20000
+      },
+      "debt_n": {
+        "raw": "119",
+        "status": "reported",
+        "value": 119
+      },
+      "pooled": true,
+      "branches": [
+        "Arizona State University Campus Immersion",
+        "Arizona State University Digital Immersion"
+      ]
+    },
+    {
+      "opeid6": "001083",
+      "name": "University of Arizona",
+      "control": "Public",
+      "earnings": 55804,
+      "earnings_n": 35,
+      "debt": {
+        "raw": "26000",
+        "status": "reported",
+        "value": 26000
+      },
+      "debt_n": {
+        "raw": "27",
+        "status": "reported",
+        "value": 27
+      },
+      "pooled": false,
+      "branches": [
+        "University of Arizona"
+      ]
+    },
+    {
+      "opeid6": "001154",
+      "name": "San Francisco State University",
+      "control": "Public",
+      "earnings": 42993,
+      "earnings_n": 35,
+      "debt": {
+        "raw": "16152",
+        "status": "reported",
+        "value": 16152
+      },
+      "debt_n": {
+        "raw": "26",
+        "status": "reported",
+        "value": 26
+      },
+      "pooled": false,
+      "branches": [
+        "San Francisco State University"
+      ]
+    },
+    {
+      "opeid6": "001312",
+      "name": "University of California-Berkeley",
+      "control": "Public",
+      "earnings": 63326,
+      "earnings_n": 67,
+      "debt": {
+        "raw": "12891",
+        "status": "reported",
+        "value": 12891
+      },
+      "debt_n": {
+        "raw": "80",
+        "status": "reported",
+        "value": 80
+      },
+      "pooled": false,
+      "branches": [
+        "University of California-Berkeley"
+      ]
+    },
+    {
+      "opeid6": "001313",
+      "name": "University of California-Davis",
+      "control": "Public",
+      "earnings": 58633,
+      "earnings_n": 38,
+      "debt": {
+        "raw": "16216",
+        "status": "reported",
+        "value": 16216
+      },
+      "debt_n": {
+        "raw": "46",
+        "status": "reported",
+        "value": 46
+      },
+      "pooled": false,
+      "branches": [
+        "University of California-Davis"
+      ]
+    },
+    {
+      "opeid6": "001315",
+      "name": "University of California-Los Angeles",
+      "control": "Public",
+      "earnings": 61754,
+      "earnings_n": 104,
+      "debt": {
+        "raw": "11337",
+        "status": "reported",
+        "value": 11337
+      },
+      "debt_n": {
+        "raw": "84",
+        "status": "reported",
+        "value": 84
+      },
+      "pooled": false,
+      "branches": [
+        "University of California-Los Angeles"
+      ]
+    },
+    {
+      "opeid6": "001316",
+      "name": "University of California-Riverside",
+      "control": "Public",
+      "earnings": 51402,
+      "earnings_n": 47,
+      "debt": {
+        "raw": "15944",
+        "status": "reported",
+        "value": 15944
+      },
+      "debt_n": {
+        "raw": "49",
+        "status": "reported",
+        "value": 49
+      },
+      "pooled": false,
+      "branches": [
+        "University of California-Riverside"
+      ]
+    },
+    {
+      "opeid6": "001320",
+      "name": "University of California-Santa Barbara",
+      "control": "Public",
+      "earnings": 71796,
+      "earnings_n": 73,
+      "debt": {
+        "raw": "11599",
+        "status": "reported",
+        "value": 11599
+      },
+      "debt_n": {
+        "raw": "68",
+        "status": "reported",
+        "value": 68
+      },
+      "pooled": false,
+      "branches": [
+        "University of California-Santa Barbara"
+      ]
+    },
+    {
+      "opeid6": "001321",
+      "name": "University of California-Santa Cruz",
+      "control": "Public",
+      "earnings": 51398,
+      "earnings_n": 46,
+      "debt": {
+        "raw": "15178",
+        "status": "reported",
+        "value": 15178
+      },
+      "debt_n": {
+        "raw": "34",
+        "status": "reported",
+        "value": 34
+      },
+      "pooled": false,
+      "branches": [
+        "University of California-Santa Cruz"
+      ]
+    },
+    {
+      "opeid6": "001328",
+      "name": "University of Southern California",
+      "control": "Private, nonprofit",
+      "earnings": 51831,
+      "earnings_n": 48,
+      "debt": {
+        "raw": "20500",
+        "status": "reported",
+        "value": 20500
+      },
+      "debt_n": {
+        "raw": "46",
+        "status": "reported",
+        "value": 46
+      },
+      "pooled": false,
+      "branches": [
+        "University of Southern California"
+      ]
+    },
+    {
+      "opeid6": "001489",
+      "name": "Florida State University",
+      "control": "Public",
+      "earnings": 47153,
+      "earnings_n": 42,
+      "debt": {
+        "raw": "20137",
+        "status": "reported",
+        "value": 20137
+      },
+      "debt_n": {
+        "raw": "24",
+        "status": "reported",
+        "value": 24
+      },
+      "pooled": false,
+      "branches": [
+        "Florida State University"
+      ]
+    },
+    {
+      "opeid6": "001535",
+      "name": "University of Florida",
+      "control": "Public",
+      "earnings": 52656,
+      "earnings_n": 44,
+      "debt": {
+        "raw": "14486",
+        "status": "reported",
+        "value": 14486
+      },
+      "debt_n": {
+        "raw": "20",
+        "status": "reported",
+        "value": 20
+      },
+      "pooled": false,
+      "branches": [
+        "University of Florida"
+      ]
+    },
+    {
+      "opeid6": "001574",
+      "name": "Georgia State University",
+      "control": "Public",
+      "earnings": 60009,
+      "earnings_n": 44,
+      "debt": {
+        "raw": "23988",
+        "status": "reported",
+        "value": 23988
+      },
+      "debt_n": {
+        "raw": "23",
+        "status": "reported",
+        "value": 23
+      },
+      "pooled": false,
+      "branches": [
+        "Georgia State University"
+      ]
+    },
+    {
+      "opeid6": "002128",
+      "name": "Boston College",
+      "control": "Private, nonprofit",
+      "earnings": 97519,
+      "earnings_n": 40,
+      "debt": {
+        "raw": "19000",
+        "status": "reported",
+        "value": 19000
+      },
+      "debt_n": {
+        "raw": "34",
+        "status": "reported",
+        "value": 34
+      },
+      "pooled": false,
+      "branches": [
+        "Boston College"
+      ]
+    },
+    {
+      "opeid6": "002325",
+      "name": "University of Michigan-Ann Arbor",
+      "control": "Public",
+      "earnings": 67293,
+      "earnings_n": 35,
+      "debt": {
+        "raw": "21183",
+        "status": "reported",
+        "value": 21183
+      },
+      "debt_n": {
+        "raw": "28",
+        "status": "reported",
+        "value": 28
+      },
+      "pooled": false,
+      "branches": [
+        "University of Michigan-Ann Arbor"
+      ]
+    },
+    {
+      "opeid6": "002629",
+      "name": "Rutgers University-New Brunswick and linked campuses (OPEID6 002629; pooled)",
+      "control": "Public",
+      "earnings": 58891,
+      "earnings_n": 62,
+      "debt": {
+        "raw": "23625",
+        "status": "reported",
+        "value": 23625
+      },
+      "debt_n": {
+        "raw": "56",
+        "status": "reported",
+        "value": 56
+      },
+      "pooled": true,
+      "branches": [
+        "Rutgers University-Camden",
+        "Rutgers University-New Brunswick",
+        "Rutgers University-Newark"
+      ]
+    },
+    {
+      "opeid6": "002722",
+      "name": "Fordham University",
+      "control": "Private, nonprofit",
+      "earnings": 74507,
+      "earnings_n": 42,
+      "debt": {
+        "raw": "21500",
+        "status": "reported",
+        "value": 21500
+      },
+      "debt_n": {
+        "raw": "21",
+        "status": "reported",
+        "value": 21
+      },
+      "pooled": false,
+      "branches": [
+        "Fordham University"
+      ]
+    },
+    {
+      "opeid6": "002974",
+      "name": "University of North Carolina at Chapel Hill",
+      "control": "Public",
+      "earnings": 70709,
+      "earnings_n": 32,
+      "debt": {
+        "raw": "13500",
+        "status": "reported",
+        "value": 13500
+      },
+      "debt_n": {
+        "raw": "27",
+        "status": "reported",
+        "value": 27
+      },
+      "pooled": false,
+      "branches": [
+        "University of North Carolina at Chapel Hill"
+      ]
+    },
+    {
+      "opeid6": "003090",
+      "name": "Ohio State University-Main Campus",
+      "control": "Public",
+      "earnings": 55823,
+      "earnings_n": 34,
+      "debt": {
+        "raw": "19500",
+        "status": "reported",
+        "value": 19500
+      },
+      "debt_n": {
+        "raw": "24",
+        "status": "reported",
+        "value": 24
+      },
+      "pooled": false,
+      "branches": [
+        "Ohio State University-Main Campus"
+      ]
+    },
+    {
+      "opeid6": "003378",
+      "name": "University of Pennsylvania",
+      "control": "Private, nonprofit",
+      "earnings": 107454,
+      "earnings_n": 79,
+      "debt": {
+        "raw": "17750",
+        "status": "reported",
+        "value": 17750
+      },
+      "debt_n": {
+        "raw": "56",
+        "status": "reported",
+        "value": 56
+      },
+      "pooled": false,
+      "branches": [
+        "University of Pennsylvania"
+      ]
+    },
+    {
+      "opeid6": "003632",
+      "name": "Texas A&M University-College Station",
+      "control": "Public",
+      "earnings": 54822,
+      "earnings_n": 30,
+      "debt": {
+        "raw": "PS",
+        "status": "privacy_suppressed",
+        "value": null
+      },
+      "debt_n": {
+        "raw": "14",
+        "status": "reported",
+        "value": 14
+      },
+      "pooled": false,
+      "branches": [
+        "Texas A&M University-College Station"
+      ]
+    },
+    {
+      "opeid6": "003658",
+      "name": "The University of Texas at Austin",
+      "control": "Public",
+      "earnings": 71790,
+      "earnings_n": 48,
+      "debt": {
+        "raw": "19956",
+        "status": "reported",
+        "value": 19956
+      },
+      "debt_n": {
+        "raw": "47",
+        "status": "reported",
+        "value": 47
+      },
+      "pooled": false,
+      "branches": [
+        "The University of Texas at Austin"
+      ]
+    },
+    {
+      "opeid6": "003798",
+      "name": "University of Washington-Seattle Campus and linked campuses (OPEID6 003798; pooled)",
+      "control": "Public",
+      "earnings": 61595,
+      "earnings_n": 65,
+      "debt": {
+        "raw": "12775",
+        "status": "reported",
+        "value": 12775
+      },
+      "debt_n": {
+        "raw": "56",
+        "status": "reported",
+        "value": 56
+      },
+      "pooled": true,
+      "branches": [
+        "University of Washington-Bothell Campus",
+        "University of Washington-Seattle Campus"
+      ]
+    },
+    {
+      "opeid6": "003895",
+      "name": "University of Wisconsin-Madison",
+      "control": "Public",
+      "earnings": 61186,
+      "earnings_n": 32,
+      "debt": {
+        "raw": "18504",
+        "status": "reported",
+        "value": 18504
+      },
+      "debt_n": {
+        "raw": "45",
+        "status": "reported",
+        "value": 45
+      },
+      "pooled": false,
+      "branches": [
+        "University of Wisconsin-Madison"
+      ]
+    },
+    {
+      "opeid6": "003969",
+      "name": "University of Minnesota-Twin Cities",
+      "control": "Public",
+      "earnings": 53189,
+      "earnings_n": 32,
+      "debt": {
+        "raw": "17625",
+        "status": "reported",
+        "value": 17625
+      },
+      "debt_n": {
+        "raw": "26",
+        "status": "reported",
+        "value": 26
+      },
+      "pooled": false,
+      "branches": [
+        "University of Minnesota-Twin Cities"
+      ]
+    },
+    {
+      "opeid6": "004509",
+      "name": "University of Colorado Colorado Springs",
+      "control": "Public",
+      "earnings": 49909,
+      "earnings_n": 31,
+      "debt": {
+        "raw": "24622",
+        "status": "reported",
+        "value": 24622
+      },
+      "debt_n": {
+        "raw": "30",
+        "status": "reported",
+        "value": 30
+      },
+      "pooled": false,
+      "branches": [
+        "University of Colorado Colorado Springs"
+      ]
+    }
+  ],
+  "public_comparison_count": 22,
+  "national_benchmark": {
+    "EARN_MDN_1YR_NAT": 37154,
+    "EARN_COUNT_WNE_1YR_NAT": 6052,
+    "EARN_P25_1YR_NAT": 20718,
+    "EARN_P75_1YR_NAT": 54040,
+    "EARN_MDN_4YR_NAT": 54455,
+    "EARN_COUNT_WNE_4YR_NAT": 6085,
+    "EARN_P25_4YR_NAT": 34926,
+    "EARN_P75_4YR_NAT": 78043,
+    "EARN_MDN_5YR_NAT": 59482,
+    "EARN_COUNT_WNE_5YR_NAT": 6497,
+    "EARN_P25_5YR_NAT": 38297,
+    "EARN_P75_5YR_NAT": 85975,
+    "EARN_MDN_7YR_NAT": 66944,
+    "EARN_COUNT_WNE_7YR_NAT": 6278,
+    "EARN_P25_7YR_NAT": 43245,
+    "EARN_P75_7YR_NAT": 98403
+  },
+  "uc_comparison": [
+    {
+      "opeid6": "001312",
+      "name": "University of California-Berkeley",
+      "control": "Public",
+      "earnings": 63326,
+      "earnings_n": 67,
+      "debt": {
+        "raw": "12891",
+        "status": "reported",
+        "value": 12891
+      },
+      "debt_n": {
+        "raw": "80",
+        "status": "reported",
+        "value": 80
+      },
+      "pooled": false,
+      "branches": [
+        "University of California-Berkeley"
+      ],
+      "label": "UC Berkeley"
+    },
+    {
+      "opeid6": "001313",
+      "name": "University of California-Davis",
+      "control": "Public",
+      "earnings": 58633,
+      "earnings_n": 38,
+      "debt": {
+        "raw": "16216",
+        "status": "reported",
+        "value": 16216
+      },
+      "debt_n": {
+        "raw": "46",
+        "status": "reported",
+        "value": 46
+      },
+      "pooled": false,
+      "branches": [
+        "University of California-Davis"
+      ],
+      "label": "UC Davis"
+    },
+    {
+      "opeid6": "001315",
+      "name": "University of California-Los Angeles",
+      "control": "Public",
+      "earnings": 61754,
+      "earnings_n": 104,
+      "debt": {
+        "raw": "11337",
+        "status": "reported",
+        "value": 11337
+      },
+      "debt_n": {
+        "raw": "84",
+        "status": "reported",
+        "value": 84
+      },
+      "pooled": false,
+      "branches": [
+        "University of California-Los Angeles"
+      ],
+      "label": "UCLA"
+    },
+    {
+      "opeid6": "001316",
+      "name": "University of California-Riverside",
+      "control": "Public",
+      "earnings": 51402,
+      "earnings_n": 47,
+      "debt": {
+        "raw": "15944",
+        "status": "reported",
+        "value": 15944
+      },
+      "debt_n": {
+        "raw": "49",
+        "status": "reported",
+        "value": 49
+      },
+      "pooled": false,
+      "branches": [
+        "University of California-Riverside"
+      ],
+      "label": "UC Riverside"
+    },
+    {
+      "opeid6": "001320",
+      "name": "University of California-Santa Barbara",
+      "control": "Public",
+      "earnings": 71796,
+      "earnings_n": 73,
+      "debt": {
+        "raw": "11599",
+        "status": "reported",
+        "value": 11599
+      },
+      "debt_n": {
+        "raw": "68",
+        "status": "reported",
+        "value": 68
+      },
+      "pooled": false,
+      "branches": [
+        "University of California-Santa Barbara"
+      ],
+      "label": "UC Santa Barbara"
+    },
+    {
+      "opeid6": "001321",
+      "name": "University of California-Santa Cruz",
+      "control": "Public",
+      "earnings": 51398,
+      "earnings_n": 46,
+      "debt": {
+        "raw": "15178",
+        "status": "reported",
+        "value": 15178
+      },
+      "debt_n": {
+        "raw": "34",
+        "status": "reported",
+        "value": 34
+      },
+      "pooled": false,
+      "branches": [
+        "University of California-Santa Cruz"
+      ],
+      "label": "UC Santa Cruz"
+    }
+  ],
+  "uc_scope": {
+    "rule": "All non-foreign University of California program groups with disclosed four-year earnings and at least 30 disclosed earnings observations; debt availability is not an eligibility condition.",
+    "source_uc_groups": 9,
+    "included": 6,
+    "omitted": [
+      {
+        "opeid6": "001314",
+        "name": "University of California-Irvine",
+        "earnings": {
+          "raw": "PS",
+          "status": "privacy_suppressed",
+          "value": null
+        },
+        "earnings_n": {
+          "raw": "PS",
+          "status": "privacy_suppressed",
+          "value": null
+        }
+      },
+      {
+        "opeid6": "001317",
+        "name": "University of California-San Diego",
+        "earnings": {
+          "raw": "PS",
+          "status": "privacy_suppressed",
+          "value": null
+        },
+        "earnings_n": {
+          "raw": "PS",
+          "status": "privacy_suppressed",
+          "value": null
+        }
+      },
+      {
+        "opeid6": "041271",
+        "name": "University of California-Merced",
+        "earnings": {
+          "raw": "PS",
+          "status": "privacy_suppressed",
+          "value": null
+        },
+        "earnings_n": {
+          "raw": "PS",
+          "status": "privacy_suppressed",
+          "value": null
+        }
+      }
+    ]
+  }
+}

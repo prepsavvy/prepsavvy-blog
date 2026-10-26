@@ -1,0 +1,68 @@
+{
+  "study": "philosophy-bachelor-outcomes",
+  "planned_edition": "2026-10-27",
+  "prepared_at": "2026-10-26",
+  "source_release": "2026-10-15",
+  "publication_status": "reviewed_evidence_article_draft",
+  "source_record_count": 802,
+  "domestic_group_count": 776,
+  "foreign_audit_groups": 26,
+  "grain": "OPEID6/CIP4/credential",
+  "source_files": [
+    {
+      "url": "https://collegescorecard.ed.gov/data/",
+      "sha256": "cb5873b6e09624968d41ce3447707ffebb1f6b6000ef713104f733093d629db6",
+      "bytes": 35006,
+      "retrieved_at": "2026-10-26T20:43:42.760724+00:00"
+    },
+    {
+      "url": "https://collegescorecard.ed.gov/data/data-documentation/",
+      "sha256": "d93c3abaf92cb5c5025ec358424c51a11ac323dd26b4175b345ed72b5508c60f",
+      "bytes": 37323,
+      "retrieved_at": "2026-10-26T20:44:05.636030+00:00"
+    },
+    {
+      "url": "https://collegescorecard.ed.gov/files/CollegeScorecardDataDictionary.xlsx",
+      "sha256": "8d258487f252aedc8c87bace61556446d49245bfe374734548bd861118e5cc4c",
+      "bytes": 769715,
+      "retrieved_at": "2026-10-26T20:44:15.859275+00:00"
+    },
+    {
+      "url": "https://collegescorecard.ed.gov/files/FieldOfStudyDataDocumentation.pdf",
+      "sha256": "2afd04a36d884be04082ed450af060cdbe7d3a35d674c07c10c1c5b3dff3ba43",
+      "bytes": 2261537,
+      "retrieved_at": "2026-10-26T20:44:26.528266+00:00"
+    },
+    {
+      "url": "https://collegescorecard.ed.gov/files/GraduateStudentsEarningsErrata.pdf",
+      "sha256": "0b810b90bf1c6c8da0ffa20ddb2e1e3cf3076be16416759ed4f9fb759b11375b",
+      "bytes": 292966,
+      "retrieved_at": "2026-10-26T20:45:10.367218+00:00"
+    },
+    {
+      "url": "https://collegescorecard.ed.gov/files/EarningsDataErrata.pdf",
+      "sha256": "59d1cead1d3c11cb89bc8ac95091ab3cab88e7631e99ed53b5640b8519327b0e",
+      "bytes": 512141,
+      "retrieved_at": "2026-10-26T20:45:10.735010+00:00"
+    },
+    {
+      "url": "https://ed-public-download.scorecard.network/downloads/Most-Recent-Cohorts-Field-of-Study_10152026.zip",
+      "sha256": "d42cd9ec5ffb4868e0f87f988fdbe10dc6c78adf427f9f6e5026a706d715be06",
+      "bytes": 33857926,
+      "retrieved_at": "2026-10-26T20:43:59.238131+00:00"
+    }
+  ],
+  "files": {
+    "programs.json": "05715a31d58d0f644b27fa075754c325fba5e4513d6d4a73074a4381ae4a53ce",
+    "programs.csv": "ddfca90898e3a6d3c783ba8ddd8778419c3faa830af347a384750ed0ee821e20",
+    "dictionary.json": "ea9395d266cc12c2850003adc86a71ec925dc01020b82253b75c390c5e15aa19"
+  },
+  "notes": [
+    "The planned edition date is a preparation label, not the source acquisition or article publication date.",
+    "Source acquisition occurred on 26 October 2026. No individual student records are included.",
+    "Foreign source groups are retained with domestic_scope=false and excluded from domestic comparisons.",
+    "National benchmark is publisher-defined; a domestic-only population is not asserted.",
+    "Privacy suppression and unavailable values remain distinct and are never zero-filled.",
+    "Higher-credential counts are excluded because their cohort does not match current four-year earnings; no higher-credential share is calculated."
+  ]
+}
