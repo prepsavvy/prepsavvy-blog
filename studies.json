@@ -1,0 +1,19 @@
+[
+  {
+    "id": "philosophy",
+    "edition": "2026-10-23",
+    "status": "published",
+    "article": "https://prepsavvy.ai/blog/top-philosophy-schools",
+    "explorer": "https://prepsavvy.ai/research/philosophy",
+    "data": "data/2026-10-23",
+    "reproduce": "python scripts/verify.py"
+  },
+  {
+    "id": "humanities-degree-growth",
+    "edition": "2026-10-26",
+    "status": "article_draft",
+    "article_source": "articles/humanities-degree-growth.md",
+    "data": "data/humanities-growth/2026-10-26",
+    "reproduce": "python scripts/humanities_growth.py --data data/humanities-growth/2026-10-26 --output analysis/humanities-growth/2026-10-26"
+  }
+]

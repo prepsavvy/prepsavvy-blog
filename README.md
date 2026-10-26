@@ -2,6 +2,17 @@
 
 Research data and reproducible figures supporting the [PrepSavvy blog](https://prepsavvy.ai/blog).
 
+## Studies
+
+| Study | Evidence | Editorial status |
+|---|---|---|
+| [Philosophy research](https://prepsavvy.ai/blog/top-philosophy-schools) | 23,457 articles, 31 journals, 112 ranked institutions; [explore the data](https://prepsavvy.ai/research/philosophy) | Published |
+| [Humanities degree growth](data/humanities-growth/2026-10-26) | 21,954 federal award records; national, institution and subject comparisons; three original charts | Article draft, evidence available |
+
+The [study registry](studies.json) distinguishes published articles from draft research. The humanities edition includes its [article draft](articles/humanities-degree-growth.md), [sources](articles/humanities-degree-growth.sources.json), [calculation code](scripts/humanities_growth.py) and [chart code](scripts/humanities_graphs.py). Run the commands in its [reproduction guide](data/humanities-growth/2026-10-26/README.md) without an API key or warehouse account.
+
+Department studies still undergoing source validation remain in the private research pipeline. Collection completeness alone does not establish that institutional affiliations or journal publication dates are correct.
+
 ## Philosophy research index, 23 October 2026
 
 **Published article:** [Top Philosophy Schools Worldwide for Research and Influence](https://prepsavvy.ai/blog/top-philosophy-schools). This repository contains the source data, calculation methods and code needed to reproduce the research in full. The [article source](articles/top-philosophy-schools.md) includes a direct link back to this reproduction repository.

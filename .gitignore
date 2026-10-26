@@ -4,3 +4,4 @@ __pycache__/
 *.log
 reproduced-*
 verification.json
+analysis/humanities-growth/*/summary.json
