@@ -1,0 +1,60 @@
+{
+  "stage": "research-edition",
+  "post": {
+    "title": "ACT Scholarships for 2027: Where the Award Tiers Change",
+    "slug": "act-scholarship-tiers",
+    "dek": "One ACT point changes annual scholarship tiers by $9,000 at Alabama, $5,000 at UAB and $1,500 at North Alabama. Compare the published GPA conditions and score rules for fall 2027.",
+    "bodyMd": "One point on the ACT can move an applicant into a scholarship tier worth thousands of dollars more each year. At the University of Alabama, the published annual award rises from **$15,000 at 29 to $24,000 at 30**, holding the GPA requirement constant.[¹](#source-1)\n\nThat gives students a reason to look at funding before deciding what score to aim for. A university's scholarship table can make a particular threshold more useful than a general ambition to score “a little higher.”\n\nWe compared published merit awards at three Alabama public universities for fall 2027 entry. The examples below show where the tiers change, what the score means at each institution and which conditions students need to check.\n\n## Three thresholds worth knowing\n\nEach comparison keeps the university's published GPA condition constant. These are annual cash awards; additional housing support appears separately.\n\n| University | Published GPA condition | ACT threshold | Annual cash award | Annual increase |\n|---|---|---|---|---|\n| Alabama[¹](#source-1) | 3.50+ | 29 → 30 | $15,000 → $24,000 | **$9,000** |\n| UAB[²](#source-2) | 3.50–3.99 | 31 → 32 | $17,500 → $22,500 | **$5,000** |\n| North Alabama[³](#source-3) | Unweighted 3.51–4.00 | 29 → 30 | $8,500 → $10,000 | **$1,500** |\n\nAt North Alabama, the higher Presidential tier also includes conditional residence-hall funding of **$4,000 annually for two years**. Apartments are excluded. That benefit belongs alongside the cash award, with its own conditions and duration.[³](#source-3)\n\nThe table is a comparison of published thresholds. Each university has its own residency, citizenship and GPA rules, so it does not establish what the same applicant would receive at all three.\n\n## The award increases arrive in steps\n\nAlabama's grid illustrates why the next threshold matters. For its 3.50+ GPA category, the annual cash award is $10,000 at 28, $15,000 at 29 and $24,000 at 30. Moving from 30 to 31 leaves that award unchanged; reaching 32 moves it to $28,000.[¹](#source-1)\n\n![Three panels show annual cash scholarship tiers at Alabama, UAB and North Alabama, holding each institution's stated GPA condition constant. Highlighted thresholds increase annual cash by $9,000, $5,000 and $1,500 respectively. North Alabama housing is shown separately.](https://raw.githubusercontent.com/prepsavvy/prepsavvy-blog/main/figures/act-scholarships/2026-10-26/annual-award-tiers.png)\n\nThe chart follows each institution's ACT route. It uses the published conditions that include GPA 3.75, while retaining the different GPA definitions. Missing awards below the plotted requirements are left blank. Our open dataset contains **47 qualification conditions**, including alternative ACT and SAT routes, rather than 47 separate scholarships.[⁴](#source-4)\n\n## Check which score the university uses\n\nAlabama requires an official ACT composite from one test date for automatic scholarships. UAB also excludes superscores. North Alabama uses an ACT superscore calculated from the best English, Reading and Math sections.[¹](#source-1)[²](#source-2)[³](#source-3)\n\nFunding can also exist without a submitted score. UAB lists a test-optional scholarship range of $7,500–$28,500, with selection based on the application; the upper amount is not an automatic award. North Alabama lists no-ACT tiers. Alabama keeps competitive scholarships open to applicants without scores, separately from its test-dependent automatic awards.[¹](#source-1)[²](#source-2)[³](#source-3)\n\nTiming matters too. Alabama lists December 4 for Summer/Fall 2027 applications and official scores. UAB lists May 1 for admission applications, with final eligible ACT and SAT test windows in February and March. North Alabama has a March 1, 2027 priority deadline and accepts official scores through the April 2027 test date.[¹](#source-1)[²](#source-2)[³](#source-3)\n\n## Set a target that matches your application\n\nBefore planning another test, identify the award tier, confirm how your GPA is calculated and check your residency or citizenship eligibility. North Alabama's freshman scholarship rules, for example, limit eligibility to U.S. citizens.[³](#source-3)\n\nThen check renewal. Alabama requires a cumulative UA GPA of at least 3.0 and at least 67% of attempted UA credits earned. UAB's current grid does not establish a four-year funding promise, so annual figures should stay annual.[²](#source-2)[⁵](#source-5)\n\nOnce a relevant threshold is clear, take an [ACT diagnostic and build a preparation plan](/exams/act) around the sections that need work. A useful score target connects your current performance to a verified application requirement or award tier.\n",
+    "contentType": "research",
+    "tags": [
+      "act",
+      "scholarships"
+    ],
+    "clusterId": "act-scholarships",
+    "primaryKeyword": "ACT scholarships",
+    "secondaryKeywords": [
+      "ACT merit scholarships",
+      "2027 scholarships"
+    ],
+    "market": "US",
+    "exam": "act",
+    "authorId": "041cfe25-3c0c-4cd4-ba35-5317bbd610f5",
+    "seoTitle": "ACT Scholarships for 2027: Where Award Tiers Change",
+    "metaDescription": "See where ACT scores change published scholarship tiers at three Alabama public universities, with GPA conditions, official sources and open data.",
+    "sources": [
+      {
+        "title": "2027 out-of-state and international freshman automatic merit scholarships and score rules",
+        "url": "https://afford.ua.edu/scholarships/oos-international-freshman/",
+        "publisher": "University of Alabama",
+        "accessed": "2026-10-26"
+      },
+      {
+        "title": "2027–2028 out-of-state freshman scholarships, award conditions and test-optional route",
+        "url": "https://www.uab.edu/admissions/cost/scholarships/out-of-state-students",
+        "publisher": "University of Alabama at Birmingham",
+        "accessed": "2026-10-26"
+      },
+      {
+        "title": "2027 freshman scholarships, unweighted GPA tiers, ACT superscore, housing and eligibility",
+        "url": "https://www.una.edu/admissions/new-freshmen/scholarships.html",
+        "publisher": "University of North Alabama",
+        "accessed": "2026-10-26"
+      },
+      {
+        "title": "ACT scholarship tier pilot: frozen normalized conditions, source hashes and chart reproduction",
+        "url": "https://github.com/prepsavvy/prepsavvy-blog/tree/main/data/act-scholarships/2026-10-26",
+        "publisher": "PrepSavvy",
+        "accessed": "2026-10-26"
+      },
+      {
+        "title": "Automatic merit scholarship academic stewardship and renewal requirements",
+        "url": "https://afford.ua.edu/scholarships/policies/",
+        "publisher": "University of Alabama",
+        "accessed": "2026-10-26"
+      }
+    ],
+    "pipelineRunId": "act-scholarships-2026-10-26",
+    "canonVersion": "merit-pilot-fall-2027-v1",
+    "heroAssetId": "80056a63-4163-44dd-ad8c-325c03f94ad3"
+  }
+}

@@ -15,5 +15,13 @@
     "article_source": "articles/humanities-degree-growth.md",
     "data": "data/humanities-growth/2026-10-26",
     "reproduce": "python scripts/humanities_growth.py --data data/humanities-growth/2026-10-26 --output analysis/humanities-growth/2026-10-26"
+  },
+  {
+    "id": "act-scholarship-tiers",
+    "edition": "2026-10-26",
+    "status": "article_draft",
+    "article_source": "articles/act-scholarship-tiers.md",
+    "data": "data/act-scholarships/2026-10-26",
+    "reproduce": "python scripts/merit_scholarships.py"
   }
 ]

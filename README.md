@@ -8,10 +8,13 @@ Research data and reproducible figures supporting the [PrepSavvy blog](https://p
 |---|---|---|
 | [Philosophy research](https://prepsavvy.ai/blog/top-philosophy-schools) | 23,457 articles, 31 journals, 112 ranked institutions; [explore the data](https://prepsavvy.ai/research/philosophy) | Published |
 | [Humanities degree growth](data/humanities-growth/2026-10-26) | 21,954 federal award records; national, institution and subject comparisons; three original charts | Article draft, evidence available |
+| [ACT scholarship tiers](data/act-scholarships/2026-10-26) | 47 qualification conditions at three Alabama public universities for fall 2027; official sources and a cash-tier chart | Article draft, evidence available |
 
 The [study registry](studies.json) distinguishes published articles from draft research. The humanities edition includes its [article draft](articles/humanities-degree-growth.md), [sources](articles/humanities-degree-growth.sources.json), [calculation code](scripts/humanities_growth.py) and [chart code](scripts/humanities_graphs.py). Run the commands in its [reproduction guide](data/humanities-growth/2026-10-26/README.md) without an API key or warehouse account.
 
 Department studies still undergoing source validation remain in the private research pipeline. Collection completeness alone does not establish that institutional affiliations or journal publication dates are correct.
+
+The ACT scholarship edition includes its [article draft](articles/act-scholarship-tiers.md), [sources](articles/act-scholarship-tiers.sources.json), [frozen award conditions](data/act-scholarships/2026-10-26/merit.json) and [offline chart calculator](scripts/merit_scholarships.py). The 47 conditions include alternative ACT and SAT routes, not 47 distinct scholarships. The [reproduction guide](data/act-scholarships/2026-10-26/README.md) documents score, GPA, residency, citizenship, renewal and timing differences.
 
 ## Philosophy research index, 23 October 2026
 

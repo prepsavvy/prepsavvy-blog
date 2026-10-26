@@ -1,0 +1,12 @@
+{
+  "study": "act-scholarship-tiers",
+  "edition": "2026-10-26",
+  "status": "article_draft",
+  "band_records": 47,
+  "institutions": 3,
+  "warehouse_run_id": "scholarship_merit_pilot_fc96b088b88c10711013a63a",
+  "files": {
+    "merit.json": "a25edb369e1dd9edbc7236f8747f9b6fb4f8f360fdcf16eb6362a42612a392c5",
+    "merit.csv": "5385b5b1a7e0852d6f270ca5a8648f20f179676b3c0c654394bb07c3e6052d74"
+  }
+}

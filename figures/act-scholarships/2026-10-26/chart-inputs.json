@@ -1,0 +1,348 @@
+{
+  "study": "act-scholarship-tiers",
+  "edition": "2026-10-26",
+  "input_file_sha256": {
+    "merit.json": "a25edb369e1dd9edbc7236f8747f9b6fb4f8f360fdcf16eb6362a42612a392c5",
+    "merit.csv": "5385b5b1a7e0852d6f270ca5a8648f20f179676b3c0c654394bb07c3e6052d74"
+  },
+  "normalized_band_records": 47,
+  "panels": [
+    {
+      "institution_id": "ua",
+      "gpa_for_selection": 3.75,
+      "published_gpa_label": "Published GPA condition: 3.50+",
+      "cash_only": true,
+      "threshold": [
+        29,
+        30
+      ],
+      "before": 15000,
+      "after": 24000,
+      "increase": 9000,
+      "steps": [
+        {
+          "score": 20,
+          "annual_cash_usd": null,
+          "record_id": null
+        },
+        {
+          "score": 21,
+          "annual_cash_usd": null,
+          "record_id": null
+        },
+        {
+          "score": 22,
+          "annual_cash_usd": null,
+          "record_id": null
+        },
+        {
+          "score": 23,
+          "annual_cash_usd": null,
+          "record_id": null
+        },
+        {
+          "score": 24,
+          "annual_cash_usd": null,
+          "record_id": null
+        },
+        {
+          "score": 25,
+          "annual_cash_usd": 6000,
+          "record_id": "ua:2027:fall:01:ACT"
+        },
+        {
+          "score": 26,
+          "annual_cash_usd": 6000,
+          "record_id": "ua:2027:fall:01:ACT"
+        },
+        {
+          "score": 27,
+          "annual_cash_usd": 8000,
+          "record_id": "ua:2027:fall:02:ACT"
+        },
+        {
+          "score": 28,
+          "annual_cash_usd": 10000,
+          "record_id": "ua:2027:fall:03:ACT"
+        },
+        {
+          "score": 29,
+          "annual_cash_usd": 15000,
+          "record_id": "ua:2027:fall:04:ACT"
+        },
+        {
+          "score": 30,
+          "annual_cash_usd": 24000,
+          "record_id": "ua:2027:fall:05:ACT"
+        },
+        {
+          "score": 31,
+          "annual_cash_usd": 24000,
+          "record_id": "ua:2027:fall:05:ACT"
+        },
+        {
+          "score": 32,
+          "annual_cash_usd": 28000,
+          "record_id": "ua:2027:fall:06:ACT"
+        },
+        {
+          "score": 33,
+          "annual_cash_usd": 28000,
+          "record_id": "ua:2027:fall:06:ACT"
+        },
+        {
+          "score": 34,
+          "annual_cash_usd": 28000,
+          "record_id": "ua:2027:fall:06:ACT"
+        },
+        {
+          "score": 35,
+          "annual_cash_usd": 28000,
+          "record_id": "ua:2027:fall:06:ACT"
+        },
+        {
+          "score": 36,
+          "annual_cash_usd": 28000,
+          "record_id": "ua:2027:fall:06:ACT"
+        }
+      ]
+    },
+    {
+      "institution_id": "uab",
+      "gpa_for_selection": 3.75,
+      "published_gpa_label": "Published GPA condition: 3.50–3.99",
+      "cash_only": true,
+      "threshold": [
+        31,
+        32
+      ],
+      "before": 17500,
+      "after": 22500,
+      "increase": 5000,
+      "steps": [
+        {
+          "score": 20,
+          "annual_cash_usd": null,
+          "record_id": null
+        },
+        {
+          "score": 21,
+          "annual_cash_usd": null,
+          "record_id": null
+        },
+        {
+          "score": 22,
+          "annual_cash_usd": 7500,
+          "record_id": "uab:2027:fall:07:ACT"
+        },
+        {
+          "score": 23,
+          "annual_cash_usd": 7500,
+          "record_id": "uab:2027:fall:07:ACT"
+        },
+        {
+          "score": 24,
+          "annual_cash_usd": 9500,
+          "record_id": "uab:2027:fall:05:ACT"
+        },
+        {
+          "score": 25,
+          "annual_cash_usd": 9500,
+          "record_id": "uab:2027:fall:05:ACT"
+        },
+        {
+          "score": 26,
+          "annual_cash_usd": 9500,
+          "record_id": "uab:2027:fall:05:ACT"
+        },
+        {
+          "score": 27,
+          "annual_cash_usd": 17500,
+          "record_id": "uab:2027:fall:03:ACT"
+        },
+        {
+          "score": 28,
+          "annual_cash_usd": 17500,
+          "record_id": "uab:2027:fall:03:ACT"
+        },
+        {
+          "score": 29,
+          "annual_cash_usd": 17500,
+          "record_id": "uab:2027:fall:03:ACT"
+        },
+        {
+          "score": 30,
+          "annual_cash_usd": 17500,
+          "record_id": "uab:2027:fall:03:ACT"
+        },
+        {
+          "score": 31,
+          "annual_cash_usd": 17500,
+          "record_id": "uab:2027:fall:03:ACT"
+        },
+        {
+          "score": 32,
+          "annual_cash_usd": 22500,
+          "record_id": "uab:2027:fall:02:ACT"
+        },
+        {
+          "score": 33,
+          "annual_cash_usd": 22500,
+          "record_id": "uab:2027:fall:02:ACT"
+        },
+        {
+          "score": 34,
+          "annual_cash_usd": 22500,
+          "record_id": "uab:2027:fall:02:ACT"
+        },
+        {
+          "score": 35,
+          "annual_cash_usd": 22500,
+          "record_id": "uab:2027:fall:02:ACT"
+        },
+        {
+          "score": 36,
+          "annual_cash_usd": 22500,
+          "record_id": "uab:2027:fall:02:ACT"
+        }
+      ]
+    },
+    {
+      "institution_id": "una",
+      "gpa_for_selection": 3.75,
+      "published_gpa_label": "Published unweighted GPA condition: 3.51–4.00",
+      "cash_only": true,
+      "threshold": [
+        29,
+        30
+      ],
+      "before": 8500,
+      "after": 10000,
+      "increase": 1500,
+      "steps": [
+        {
+          "score": 20,
+          "annual_cash_usd": 2500,
+          "record_id": "una:2027:fall:04:ACT"
+        },
+        {
+          "score": 21,
+          "annual_cash_usd": 2500,
+          "record_id": "una:2027:fall:04:ACT"
+        },
+        {
+          "score": 22,
+          "annual_cash_usd": 3000,
+          "record_id": "una:2027:fall:06:ACT"
+        },
+        {
+          "score": 23,
+          "annual_cash_usd": 3000,
+          "record_id": "una:2027:fall:06:ACT"
+        },
+        {
+          "score": 24,
+          "annual_cash_usd": 5500,
+          "record_id": "una:2027:fall:08:ACT"
+        },
+        {
+          "score": 25,
+          "annual_cash_usd": 5500,
+          "record_id": "una:2027:fall:08:ACT"
+        },
+        {
+          "score": 26,
+          "annual_cash_usd": 8000,
+          "record_id": "una:2027:fall:10:ACT"
+        },
+        {
+          "score": 27,
+          "annual_cash_usd": 8000,
+          "record_id": "una:2027:fall:10:ACT"
+        },
+        {
+          "score": 28,
+          "annual_cash_usd": 8500,
+          "record_id": "una:2027:fall:12:ACT"
+        },
+        {
+          "score": 29,
+          "annual_cash_usd": 8500,
+          "record_id": "una:2027:fall:12:ACT"
+        },
+        {
+          "score": 30,
+          "annual_cash_usd": 10000,
+          "record_id": "una:2027:fall:14:ACT"
+        },
+        {
+          "score": 31,
+          "annual_cash_usd": 10000,
+          "record_id": "una:2027:fall:14:ACT"
+        },
+        {
+          "score": 32,
+          "annual_cash_usd": 10000,
+          "record_id": "una:2027:fall:14:ACT"
+        },
+        {
+          "score": 33,
+          "annual_cash_usd": 12000,
+          "record_id": "una:2027:fall:16:ACT"
+        },
+        {
+          "score": 34,
+          "annual_cash_usd": 12000,
+          "record_id": "una:2027:fall:16:ACT"
+        },
+        {
+          "score": 35,
+          "annual_cash_usd": 12000,
+          "record_id": "una:2027:fall:16:ACT"
+        },
+        {
+          "score": 36,
+          "annual_cash_usd": 12000,
+          "record_id": "una:2027:fall:16:ACT"
+        }
+      ]
+    }
+  ],
+  "source_receipts": [
+    {
+      "bytes": 61640,
+      "id": "uab-grid",
+      "retrieved_at": "2026-10-26T19:22:09.252371+00:00",
+      "sha256": "589e323689d709652311a9761f288790949eeea6ed09dc7b744b810fe007fd3c",
+      "url": "https://www.uab.edu/admissions/cost/scholarships/out-of-state-students"
+    },
+    {
+      "bytes": 154448,
+      "id": "ua-grid",
+      "retrieved_at": "2026-10-26T19:22:10.309118+00:00",
+      "sha256": "64c4be89f4d9207efc0a4693eb728e91a87754d4051b54ff478be8ba0626f489",
+      "url": "https://afford.ua.edu/scholarships/oos-international-freshman/"
+    },
+    {
+      "bytes": 174855,
+      "id": "ua-policy",
+      "retrieved_at": "2026-10-26T19:23:48.477141+00:00",
+      "sha256": "1840bb6014b3ca83053cdfcebb6b3b79a0b27fec804c2fae68f17bf7b8a4429d",
+      "url": "https://afford.ua.edu/scholarships/policies/"
+    },
+    {
+      "bytes": 162358,
+      "id": "ua-faq",
+      "retrieved_at": "2026-10-26T19:23:48.633634+00:00",
+      "sha256": "98d1e66690f5b43f2ab13f04960104ca49b0f5a93cd79c3abf661aa365f064a3",
+      "url": "https://afford.ua.edu/scholarships/faq/"
+    },
+    {
+      "bytes": 103279,
+      "id": "una-grid",
+      "retrieved_at": "2026-10-26T19:23:48.151149+00:00",
+      "sha256": "bb8baf0ee68f6c659615169c4cc7c952c2d950aa865811f1a01df7528a02331d",
+      "url": "https://www.una.edu/admissions/new-freshmen/scholarships.html"
+    }
+  ]
+}

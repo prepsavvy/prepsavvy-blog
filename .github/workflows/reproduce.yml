@@ -19,3 +19,4 @@ jobs:
       - run: python -m unittest discover -s tests -v
       - run: python scripts/humanities_growth.py --data data/humanities-growth/2026-10-26 --output analysis/humanities-growth/2026-10-26
       - run: python scripts/humanities_graphs.py --data data/humanities-growth/2026-10-26 --output figures/humanities-growth/2026-10-26
+      - run: python scripts/merit_scholarships.py
