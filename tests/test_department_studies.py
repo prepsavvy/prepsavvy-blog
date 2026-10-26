@@ -1,6 +1,8 @@
 """Method tests that run without private infrastructure or network access."""
+import copy
 import importlib.util
 import unittest
+from unittest.mock import patch
 from pathlib import Path
 
 spec = importlib.util.spec_from_file_location('department_studies', Path(__file__).resolve().parents[1] / 'scripts' / 'department_studies.py')
@@ -27,6 +29,47 @@ def works():
 
 
 class PublicDepartmentMethodTests(unittest.TestCase):
+    def test_corpus_institution_override_preserves_raw_type_and_excludes_unrelated_facility(self):
+        data = works()
+        for work in data:
+            institutions = work['authorships'][0]['institutions']
+            institutions[0]['type'] = 'facility'
+            institutions.append({'id': 'C', 'display_name': 'Unrelated Facility',
+                                 'country_code': 'US', 'type': 'facility'})
+        original = copy.deepcopy(data)
+        decisions = {'overrides': {}, 'institution_overrides': {
+            'A': {'type': 'education', 'source': 'https://example.edu/institution-type'}}}
+        with patch.object(engine, 'DEPARTMENT_AFFILIATION_DECISIONS', decisions):
+            rows, coverage, reviewed, audit = engine.calculate(data, configuration(), minimum=1)
+        self.assertEqual(data, original)
+        self.assertEqual({r['institution_id'] for r in rows}, {'A', 'B'})
+        self.assertEqual(sum(r['fractional_articles'] for r in rows), 100)
+        self.assertEqual(len(audit), 100)
+        self.assertEqual(coverage['affiliation_decisions'], 100)
+        for work, entry in zip(reviewed, audit):
+            a, b, c = work['authorships'][0]['institutions']
+            self.assertEqual((a['type'], a['openalex_original_type']), ('education', 'facility'))
+            self.assertEqual(c['type'], 'facility')
+            self.assertNotIn('openalex_original_type', c)
+            self.assertEqual(entry, {'work_id': work['id'], 'institution_id': 'A',
+                'decision': 'source_verified_institution_type', 'original_type': 'facility',
+                'corrected_type': 'education', 'source': 'https://example.edu/institution-type'})
+
+    def test_existing_original_type_survives_repeated_review(self):
+        data = works()[:1]
+        institution = data[0]['authorships'][0]['institutions'][0]
+        institution.update(type='other', openalex_original_type='facility')
+        original = copy.deepcopy(data)
+        decisions = {'overrides': {}, 'institution_overrides': {
+            'A': {'type': 'education', 'source': 'https://example.edu/institution-type'}}}
+        with patch.object(engine, 'DEPARTMENT_AFFILIATION_DECISIONS', decisions):
+            once, first_audit = engine.review_department_affiliations(data)
+            twice, second_audit = engine.review_department_affiliations(once)
+        self.assertEqual(data, original)
+        self.assertEqual(once, twice)
+        self.assertEqual(first_audit[0]['original_type'], 'facility')
+        self.assertEqual(second_audit[0]['original_type'], 'facility')
+
     def test_unknown_source_is_rejected(self):
         data = works()
         data[0]['primary_location']['source']['id'] = 'unknown'

@@ -141,7 +141,7 @@
     "profiles/philosophy-universities.json": "15a0a0a0f82d76d66c00c1d2856df7e48771c9f2992fd3b29a1d4aa91b0ad4b9",
     "requirements.txt": "12a0a7bc6e1b1254c2f593a250e6ccff4dbd3cf0b27d6819696a9db86f4e530d",
     "scripts/chart_theme.py": "8aa9d3b93d74940e3578784842d824cea0c74a198b2e8a1716ad4281db60e2ca",
-    "scripts/department_studies.py": "177ee1512c059557f3e4b3af1f7f16f3fbf6193efba50a14117aec0f673e7f88",
+    "scripts/department_studies.py": "0e0021ab59de63765cb05a587d41db18f502f4f914e6b850cdea161dc833af37",
     "scripts/editorial_analysis.py": "40b7d72a37f09d0c70c5691f845875249dce8f7a7401e2e1a3cd947079e6ce5a",
     "scripts/flag_assets.py": "40d9aedc3318bf0875db2d9189979ae50594eaf930d3e0aafab94dde54feda9e",
     "scripts/graphs.py": "390063d71d822584cea0e996505f72c0c830c76332fdc15a066ef9194e746bd5",
@@ -154,7 +154,7 @@
     "scripts/release_manifest.py": "4be4ecce867dc1027ab64142a9381941999d70519b1de16d8a2ae70c44fb1486",
     "scripts/verify.py": "de33237aacc388b8117ac83d36f67cfb27ba2b7ae5c50bc206b466fa673aaf65",
     "studies.json": "7e5bb447344b417814cfa15e82d5f39f6d495998dd783e82de9b5c433a5c666e",
-    "tests/test_department_studies.py": "70716975230f1aaea45ec3f9f3bea0a7605992c557240faf376faca25cc6b5ac",
+    "tests/test_department_studies.py": "657f1740e4dae3b1ba6af633c9bfc1da0c918c1bd6fc90cfa31bf362307a50a7",
     "tests/test_humanities_growth.py": "b18ee186cc6665fef9dce91862c417a4d0c076832083151cc4b2be8636016e95",
     "tests/test_merit_scholarships.py": "52603c9c3d9f9f31996fe7a227ed8f751a9974eb8a97469afb053fa9b7a56683",
     "tests/test_philosophy_outcomes.py": "9abb29b3e9bcdb1b906dfc927bfba3a4f6fc36f7def972c67e3e99e8a6119c29"

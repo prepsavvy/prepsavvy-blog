@@ -15,7 +15,7 @@ from collections import defaultdict
 from pathlib import Path
 
 AFFILIATION_RULES = {'reject_pattern': '(?!)', 'aliases': {}, 'overrides': {}}
-DEPARTMENT_AFFILIATION_DECISIONS = {'overrides': {}}
+DEPARTMENT_AFFILIATION_DECISIONS = {'overrides': {}, 'institution_overrides': {}}
 
 def review_affiliations(works):
     """Remove acknowledgment-derived credit; preserve direct clean support.
@@ -58,7 +58,24 @@ def review_affiliations(works):
 
 
 def review_department_affiliations(works):
-    reviewed, audit = review_affiliations(works)
+    typed, taxonomy_audit = [], []
+    for work in works:
+        authors = []
+        for author in work['authorships']:
+            institutions = []
+            for institution in author['institutions']:
+                decision = DEPARTMENT_AFFILIATION_DECISIONS.get('institution_overrides', {}).get(institution['id'])
+                if decision:
+                    original_type = institution.get('openalex_original_type', institution.get('type'))
+                    institution = {**institution, 'openalex_original_type': original_type, 'type': decision['type']}
+                    taxonomy_audit.append({'work_id': work['id'], 'institution_id': institution['id'],
+                        'decision': 'source_verified_institution_type', 'original_type': original_type,
+                        'corrected_type': decision['type'], 'source': decision['source']})
+                institutions.append(institution)
+            authors.append({**author, 'institutions': institutions})
+        typed.append({**work, 'authorships': authors})
+    reviewed, audit = review_affiliations(typed)
+    audit = taxonomy_audit + audit
     output = []
     for work in reviewed:
         doi = re.sub(r'^https?://(?:dx\.)?doi\.org/', '', work.get('doi') or '', flags=re.I).lower()
