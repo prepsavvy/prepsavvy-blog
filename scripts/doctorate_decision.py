@@ -205,7 +205,7 @@ def render(result, output):
     save(fig, output, 'plans-at-graduation', 'Source: NCSES, Survey of Earned Doctorates 2025, Tables 9-15 and 6-1; September 2026.')
     for name in ['time-to-doctorate.svg', 'plans-at-graduation.svg']:
         path = output/name
-        path.write_bytes(path.read_bytes().replace(b'\r\n', b'\n'))
+        path.write_bytes(b'\n'.join(line.rstrip(b' \t\r') for line in path.read_bytes().splitlines())+b'\n')
 
 
 def main():
