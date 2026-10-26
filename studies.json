@@ -31,5 +31,13 @@
     "article_source": "articles/philosophy-degree-salary.md",
     "data": "data/philosophy-outcomes/2026-10-27",
     "reproduce": "python scripts/philosophy_outcomes.py"
+  },
+  {
+    "id": "philosophy-phd-decision",
+    "edition": "2026-10-27",
+    "status": "article_draft",
+    "article_source": "articles/philosophy-phd-decision.md",
+    "data": "data/philosophy-doctorates/2026-10-27",
+    "reproduce": "python scripts/doctorate_decision.py"
   }
 ]

@@ -22,3 +22,5 @@ jobs:
       - run: python scripts/merit_scholarships.py
       - run: python -S scripts/philosophy_outcomes.py --no-charts
       - run: python scripts/philosophy_outcomes.py
+      - run: python -S scripts/doctorate_decision.py --no-charts
+      - run: python scripts/doctorate_decision.py

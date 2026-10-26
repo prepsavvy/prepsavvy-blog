@@ -13,7 +13,7 @@ status: "draft"
 
 A philosophy PhD offer asks you to commit years of work. Before accepting, the questions are practical: how long might the training take, what will support you through it, and what do recent graduates report doing next?
 
-The latest federal doctorate census counts **413 Philosophy doctorates awarded in 2025**. Its time and destination tables combine Philosophy and religious studies, a group of 628 recipients. Funding and debt tables cover the broader Humanities field. Those distinctions let us use the available evidence without pretending every number describes philosophy alone.[¹](#source-1)
+The latest federal doctorate census counts **413 Philosophy doctorates awarded in 2025**. Its time and destination tables combine Philosophy and religious studies, a group of 628 recipients. Funding and debt tables cover the broader Humanities field.[¹](#source-1)
 
 ## Ask how many years the offer supports
 
@@ -52,7 +52,7 @@ Ask a department how it reports its own graduates: which cohorts, how many peopl
 
 ## Make the offer concrete
 
-A good decision connects the research you want to do with a funding arrangement you understand and career support you can examine. Request the terms in writing, speak with current students about workload and living costs, and look at recent graduates' destinations.
+A good decision connects the research you want to do with a funding arrangement you understand and career support you can examine. Request the terms in writing, speak with current students about workload and living costs, and look at recent graduates' destinations when you [compare programs](/schools).
 
 The national evidence gives you a starting point for those conversations. The program's actual terms and your circumstances determine whether the commitment works for you.
 
