@@ -1,5 +1,5 @@
 ---
-title: "The Philosophy PhD Decision: Time, Funding and What Comes Next"
+title: "Philosophy PhD: Time, Funding and What Comes Next"
 seo_title: "Philosophy PhD: Time, Funding and Graduate Plans"
 description: "Examine official doctorate data on study duration, tuition remission, graduate funding, debt and postgraduation plans, with each field and respondent group identified."
 primary_keyword: "philosophy PhD"
@@ -9,7 +9,7 @@ planned_edition: "2026-10-27"
 status: "draft"
 ---
 
-# The Philosophy PhD Decision: Time, Funding and What Comes Next
+# Philosophy PhD: Time, Funding and What Comes Next
 
 A philosophy PhD offer asks you to commit years of work. Before accepting, the questions are practical: how long might the training take, what will support you through it, and what do recent graduates report doing next?
 
