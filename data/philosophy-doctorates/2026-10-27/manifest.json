@@ -1,0 +1,125 @@
+{
+  "study": "philosophy-doctorate-decision",
+  "planned_edition": "2026-10-27",
+  "prepared_at": "2026-10-26",
+  "source_release": "2026-09-25",
+  "survey_year": 2025,
+  "status": "candidate_pending_review",
+  "source_cells": 453,
+  "suppressed_cells": 8,
+  "source_files": [
+    {
+      "url": "https://ncses.nsf.gov/surveys/earned-doctorates",
+      "sha256": "4c20fcaac45d875d11005ea0988773b8cc5510f9e883eb4fdf0dc42a345382f0",
+      "bytes": 419238,
+      "retrieved_at": "2026-10-26T21:24:20.490752+00:00"
+    },
+    {
+      "url": "https://ncses.nsf.gov/surveys/earned-doctorates/2025",
+      "sha256": "4c20fcaac45d875d11005ea0988773b8cc5510f9e883eb4fdf0dc42a345382f0",
+      "bytes": 419238,
+      "retrieved_at": "2026-10-26T21:20:07.605855+00:00"
+    },
+    {
+      "url": "https://ncses.nsf.gov/pubs/ncses26010/assets/ncses26010.pdf",
+      "sha256": "b7e69a7036f157c74308f000545ad789cbb10a624b81a5358e7a2d9f02f98450",
+      "bytes": 117411,
+      "retrieved_at": "2026-10-26T21:24:24.272423+00:00"
+    },
+    {
+      "url": "https://ncses.nsf.gov/1979/assets/0/files/earned-doctorates-2025.pdf",
+      "sha256": "25e18f7650ec831718268b514dcdf070b9e6ac50ada326782408cdcbc9a0996b",
+      "bytes": 499163,
+      "retrieved_at": "2026-10-26T21:26:38.307187+00:00"
+    },
+    {
+      "url": "https://ncses.nsf.gov/pubs/nsf26326/assets/technical-tables/tables/nsf26326-taba-004.xlsx",
+      "sha256": "730fc33f7a995d68a1c314fcd892f776a0c586a38a0c826f95fbe2c80d4766dd",
+      "bytes": 23404,
+      "retrieved_at": "2026-10-26T21:20:30.995203+00:00"
+    },
+    {
+      "url": "https://ncses.nsf.gov/pubs/nsf26326/assets/technical-tables/tables/nsf26326-taba-004.pdf",
+      "sha256": "207dda4bbf51ffdc9ba7471b4b81e90ff538565a9c1e764b25513803b612f422",
+      "bytes": 139856,
+      "retrieved_at": "2026-10-26T21:26:43.862280+00:00"
+    },
+    {
+      "url": "https://ncses.nsf.gov/pubs/nsf26326/assets/data-tables/tables/nsf26326-tab003-001.xlsx",
+      "sha256": "8ba24558c237173acccdaf9d3153da18333366e29495d954e53e1b45ed153a20",
+      "bytes": 29973,
+      "retrieved_at": "2026-10-26T21:20:28.885017+00:00"
+    },
+    {
+      "url": "https://ncses.nsf.gov/pubs/nsf26326/assets/data-tables/tables/nsf26326-tab003-001.pdf",
+      "sha256": "9a8418718a41f140ed44063a606e6bfc242accec60a229f41e0f07da735a09f3",
+      "bytes": 187330,
+      "retrieved_at": "2026-10-26T21:27:51.754903+00:00"
+    },
+    {
+      "url": "https://ncses.nsf.gov/pubs/nsf26326/assets/data-tables/tables/nsf26326-tab008-015.xlsx",
+      "sha256": "e30e0217d607e682f9465aa84986f64586fa63a43691c2b763507926a80f3a7d",
+      "bytes": 10940,
+      "retrieved_at": "2026-10-26T21:20:22.721512+00:00"
+    },
+    {
+      "url": "https://ncses.nsf.gov/pubs/nsf26326/assets/data-tables/tables/nsf26326-tab008-015.pdf",
+      "sha256": "4b9f92f2a76869ec1812fb4e54b1e6aa97f1ae199153a7a74dca9b2ef9536112",
+      "bytes": 76016,
+      "retrieved_at": "2026-10-26T21:21:30.375466+00:00"
+    },
+    {
+      "url": "https://ncses.nsf.gov/pubs/nsf26326/assets/data-tables/tables/nsf26326-tab009-015.xlsx",
+      "sha256": "81352ea56cd83d6d8f818ddd9d914e16ced4c089b28ed0b1408a52a1817b9422",
+      "bytes": 13804,
+      "retrieved_at": "2026-10-26T21:20:24.920488+00:00"
+    },
+    {
+      "url": "https://ncses.nsf.gov/pubs/nsf26326/assets/data-tables/tables/nsf26326-tab009-015.pdf",
+      "sha256": "4792d7732bfbe5cd2b330c6d01babed5bb57228bf4357e89d523d768c87ef14b",
+      "bytes": 94065,
+      "retrieved_at": "2026-10-26T21:21:33.241306+00:00"
+    },
+    {
+      "url": "https://ncses.nsf.gov/pubs/nsf26326/assets/data-tables/tables/nsf26326-tab006-001.xlsx",
+      "sha256": "1417c88355ceff02e5a839dab1974d192c9dbd6ba6f62341c69668d25877b725",
+      "bytes": 14448,
+      "retrieved_at": "2026-10-26T21:20:26.967063+00:00"
+    },
+    {
+      "url": "https://ncses.nsf.gov/pubs/nsf26326/assets/data-tables/tables/nsf26326-tab006-001.pdf",
+      "sha256": "d44b017fa7d04e613a96e5a8e6128d59b4a12dd012aa653ebd27bb84d8988cc3",
+      "bytes": 94566,
+      "retrieved_at": "2026-10-26T21:28:02.803678+00:00"
+    },
+    {
+      "url": "https://ncses.nsf.gov/pubs/nsf26326/assets/data-tables/tables/nsf26326-tab004-001.xlsx",
+      "sha256": "2501ddacbf8a9be426515d19269898e86a51a791ad27446edccbb063ceb430a7",
+      "bytes": 20013,
+      "retrieved_at": "2026-10-26T21:21:35.505074+00:00"
+    },
+    {
+      "url": "https://ncses.nsf.gov/pubs/nsf26326/assets/data-tables/tables/nsf26326-tab004-001.pdf",
+      "sha256": "ce830f44eca32c9521ce878d7fc91d67c5a370be56bb30471972c3e5e96afe26",
+      "bytes": 132510,
+      "retrieved_at": "2026-10-26T21:21:39.901046+00:00"
+    },
+    {
+      "url": "https://ncses.nsf.gov/pubs/nsf26326/assets/data-tables/tables/nsf26326-tab004-004.xlsx",
+      "sha256": "960bf116dc49913374bfd67cc24c0f2ebb236a51c28447389379b2a561490518",
+      "bytes": 24151,
+      "retrieved_at": "2026-10-26T21:21:37.590678+00:00"
+    },
+    {
+      "url": "https://ncses.nsf.gov/pubs/nsf26326/assets/data-tables/tables/nsf26326-tab004-004.pdf",
+      "sha256": "187519c60f83a3ceac0c3fcb72aa18d16ca6de1f584fece52656296367ebfe07",
+      "bytes": 143403,
+      "retrieved_at": "2026-10-26T21:21:42.946721+00:00"
+    }
+  ],
+  "files": {
+    "cells.json": "73f7dc228f73fb150573dec23ddba8215628e240bd18ef99b8d350eaa9411664",
+    "definitions.json": "7845b66a7413643035a256e97f27bba169f6528570c41337c964b4be897ae465",
+    "cells.csv": "0462252cb05efe30325024db5b50fb3e253f7360f8a7f7871094e0804906d917"
+  }
+}

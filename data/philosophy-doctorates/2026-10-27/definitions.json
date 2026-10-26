@@ -1,0 +1,18 @@
+{
+  "survey": "Survey of Earned Doctorates 2025",
+  "reference_period": "2024-07-01 to 2025-06-30",
+  "release_date": "2026-09-25",
+  "prepared_at": "2026-10-26",
+  "planned_edition": "2026-10-27",
+  "scopes": {
+    "detailed_philosophy": "Award counts only; SED-CIP 38.01 and 38.99",
+    "philosophy_and_religious_studies": "Combined major; time, remission and postgraduation plans",
+    "humanities": "Primary support and education-related debt"
+  },
+  "time": "Defined doctoral-program start can include a same-field master degree at the doctoral institution or a prerequisite master degree; exact time-item response count is not printed.",
+  "remission": "Question A7 asks about full or partial tuition remission. Not a living stipend or guaranteed funded duration; exact item response count not printed.",
+  "support": "Questions A38/A39 concern educational and living expenses across all graduate degrees, including master and doctorate; primary is largest total source.",
+  "debt": "Question A40 concerns education-related money owed at doctorate receipt. Published medians exclude zero-debt respondents. Not federal-only loan disbursements.",
+  "commitments": "Definite employment includes new employment or returning to predoctoral employment; not a first-job probability. Postdocs are separate.",
+  "missing": "D is suppressed; - is not calculable. Item nonresponse and unreported graduation status are not zero outcomes."
+}

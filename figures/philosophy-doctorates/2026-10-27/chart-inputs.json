@@ -1,0 +1,130 @@
+{
+  "status": "computed_frozen_edition",
+  "survey_year": 2025,
+  "philosophy_detailed_awards": {
+    "Philosophy and religious studies": 628,
+    "Philosophy": 413,
+    "Religion/ religious studies": 128,
+    "Philosophy and religious studies nec": 87
+  },
+  "taxonomy": {
+    "Philosophy and religious studies": 38.0,
+    "Philosophy": "38.01, 38.99",
+    "Religion/ religious studies": 38.0201,
+    "Philosophy and religious studies nec": "All other 38.02"
+  },
+  "profiles": {
+    "Humanities": {
+      "field_total": 3355,
+      "years_since_bachelor_median": 11.4,
+      "years_from_graduate_start_median": 9.7,
+      "years_from_defined_doctoral_start_median": 6.8,
+      "time_item_response_n": null,
+      "tuition_remission_percent": 88.4,
+      "tuition_item_response_n": null,
+      "postgraduation_status_reports": 2931,
+      "postgraduation_status_nonreporters": 424,
+      "status_percentages": {
+        "postdoc_percent": 15.3,
+        "employment_percent": 46.8,
+        "seeking_percent": 33.8,
+        "other_percent": 4
+      },
+      "definite_commitments": 1820,
+      "definite_percent_of_status_reporters": 62.09484817468441,
+      "destination_counts": {
+        "All doctorate recipients": 3355,
+        "Definite commitments (all locations)": 1820,
+        "United States total": 1637,
+        "United States postdoctoral study": 370,
+        "United States academic employment": 861,
+        "United States industry employment": 109,
+        "United States other sector or unknown": 297,
+        "Abroad": 181,
+        "Location unknown": 2
+      },
+      "employment_sectors_percent_of_definite_employment": {
+        "Academe": 68.1,
+        "Government": 4.3,
+        "Industry or business": 8.5,
+        "Nonprofit organization": 12.9,
+        "Other or unknown": 6.2
+      }
+    },
+    "Philosophy and religious studies": {
+      "field_total": 628,
+      "years_since_bachelor_median": 11,
+      "years_from_graduate_start_median": 9.5,
+      "years_from_defined_doctoral_start_median": 6.8,
+      "time_item_response_n": null,
+      "tuition_remission_percent": 91.5,
+      "tuition_item_response_n": null,
+      "postgraduation_status_reports": 538,
+      "postgraduation_status_nonreporters": 90,
+      "status_percentages": {
+        "postdoc_percent": 21.6,
+        "employment_percent": 40,
+        "seeking_percent": 33.8,
+        "other_percent": 4.6
+      },
+      "definite_commitments": 331,
+      "definite_percent_of_status_reporters": 61.52416356877323,
+      "destination_counts": {
+        "All doctorate recipients": 628,
+        "Definite commitments (all locations)": 331,
+        "United States total": 289,
+        "United States postdoctoral study": 96,
+        "United States academic employment": 142,
+        "United States industry employment": 15,
+        "United States other sector or unknown": 36,
+        "Abroad": 41,
+        "Location unknown": 1
+      },
+      "employment_sectors_percent_of_definite_employment": {
+        "Academe": 72.6,
+        "Government": 2.8,
+        "Industry or business": 7.9,
+        "Nonprofit organization": 11.6,
+        "Other or unknown": 5.1
+      }
+    }
+  },
+  "primary_support": {
+    "field_scope": "Humanities",
+    "respondents": 2898,
+    "percentages": {
+      "Teaching assistantships": 41.4,
+      "Research assistantships or traineeshipsb": 1.9,
+      "Fellowships, scholarships, or dissertation grants": 35.6,
+      "Own resources": 18.2,
+      "Employer or other sources": 3
+    }
+  },
+  "debt": {
+    "Cumulative debt": {
+      "field_scope": "Humanities",
+      "respondents": 2929,
+      "no_debt_count": 1654,
+      "no_debt_percent": 56.5,
+      "positive_debt_count": 1275,
+      "median_among_positive_debt_only_usd": 45000
+    },
+    "Graduate debt": {
+      "field_scope": "Humanities",
+      "respondents": 2926,
+      "no_debt_count": 1982,
+      "no_debt_percent": 67.7,
+      "positive_debt_count": 944,
+      "median_among_positive_debt_only_usd": 35000
+    },
+    "Undergraduate debt": {
+      "field_scope": "Humanities",
+      "respondents": 2923,
+      "no_debt_count": 2015,
+      "no_debt_percent": 68.9,
+      "positive_debt_count": 908,
+      "median_among_positive_debt_only_usd": 25000
+    }
+  },
+  "interpretation": "Recipients, not entrants. No completion probabilities, philosophy-only funding estimates or causal ROI."
+}
