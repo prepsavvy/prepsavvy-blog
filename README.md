@@ -7,6 +7,7 @@ Research data and reproducible figures supporting the [PrepSavvy blog](https://p
 | Study | Evidence | Editorial status |
 |---|---|---|
 | [Philosophy research](https://prepsavvy.ai/blog/top-philosophy-schools) | 23,457 articles, 31 journals, 112 ranked institutions; [explore the data](https://prepsavvy.ai/research/philosophy) | Published |
+| [Economics research index](data/economics/2026-10-27) | 7,036 papers in eight leading economics journals, 2015 to 2024; 56 universities ranked by share of the most-cited papers; standalone calculator | Published: [article](https://prepsavvy.ai/blog/best-economics-schools-in-the-world) |
 | [Humanities degree growth](data/humanities-growth/2026-10-26) | 21,954 federal award records; national, institution and subject comparisons; three original charts | Article draft, evidence available |
 | [ACT scholarship tiers](data/act-scholarships/2026-10-26) | 47 qualification conditions at three Alabama public universities for fall 2027; official sources and a cash-tier chart | Article draft, evidence available |
 | [Philosophy graduate earnings](data/philosophy-outcomes/2026-10-27) | Official federal earnings and borrowing data; national benchmark and six UC comparisons with cohort counts; two original charts | Article draft, evidence available |

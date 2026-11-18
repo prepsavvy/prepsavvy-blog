@@ -1,0 +1,44 @@
+{
+ "study": "economics",
+ "edition": "2026-10-27",
+ "papers": 7036,
+ "ranked_universities": 56,
+ "publication_years": "2015-2024",
+ "citations_collected": "2026-10-26",
+ "article": "https://prepsavvy.ai/blog/best-economics-schools-in-the-world",
+ "reproduce": "python calculate.py",
+ "files": {
+  "calculate.py": {
+   "bytes": 5928,
+   "sha256": "61d8a1a26ef99fc98c34a8eb798916fac80dfc1b0a62cfccb464c2a4b202d24d"
+  },
+  "country-shares.csv": {
+   "bytes": 2118,
+   "sha256": "e51483e0fefb212169168a2e39a39a7a84cc679f5fc209da4d80c901e4a8d6a0"
+  },
+  "excluded-papers.json": {
+   "bytes": 11068,
+   "sha256": "16f83a3c7871899e02be38f41b533daaaf26e9b8edcf1a4d34e56cc272952e85"
+  },
+  "index.csv": {
+   "bytes": 9345,
+   "sha256": "aeee1910ea8170ad852a0f091104d63e7878eea92ce8a783b1e44fe3f2edce28"
+  },
+  "index.json": {
+   "bytes": 25945,
+   "sha256": "2c5c90d652938a0d215ce2769fb7665816611b2b4ea71b3288548b3e89563126"
+  },
+  "journals.json": {
+   "bytes": 1012,
+   "sha256": "ba23584ab339bbe1c51cbcb93a70d09ad349e5a2aa9dde662782b08383d9d550"
+  },
+  "README.md": {
+   "bytes": 2970,
+   "sha256": "5c6287006fce1ced89eeb8acf7609a88a7fb80b2e0d45f8913818dde3c74b9dc"
+  },
+  "works.jsonl": {
+   "bytes": 6672314,
+   "sha256": "d83b53ef8fd8d67a49936c036cbfa398bc318d92989f352bc7cf0066f532d8ba"
+  }
+ }
+}

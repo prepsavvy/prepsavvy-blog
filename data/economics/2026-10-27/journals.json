@@ -1,0 +1,42 @@
+[
+ {
+  "issn": "0002-8282",
+  "name": "American Economic Review",
+  "source_id": "https://openalex.org/S23254222"
+ },
+ {
+  "issn": "0012-9682",
+  "name": "Econometrica",
+  "source_id": "https://openalex.org/S95464858"
+ },
+ {
+  "issn": "0033-5533",
+  "name": "The Quarterly Journal of Economics",
+  "source_id": "https://openalex.org/S203860005"
+ },
+ {
+  "issn": "0022-3808",
+  "name": "Journal of Political Economy",
+  "source_id": "https://openalex.org/S95323914"
+ },
+ {
+  "issn": "0034-6527",
+  "name": "The Review of Economic Studies",
+  "source_id": "https://openalex.org/S88935262"
+ },
+ {
+  "issn": "0034-6535",
+  "name": "The Review of Economics and Statistics",
+  "source_id": "https://openalex.org/S180061323"
+ },
+ {
+  "issn": "1542-4766",
+  "name": "Journal of the European Economic Association",
+  "source_id": "https://openalex.org/S165087003"
+ },
+ {
+  "issn": "0013-0133",
+  "name": "The Economic Journal",
+  "source_id": "https://openalex.org/S45992627"
+ }
+]

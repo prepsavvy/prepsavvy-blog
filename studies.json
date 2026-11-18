@@ -9,6 +9,14 @@
     "reproduce": "python scripts/verify.py"
   },
   {
+    "id": "economics",
+    "edition": "2026-10-27",
+    "status": "published",
+    "article": "https://prepsavvy.ai/blog/best-economics-schools-in-the-world",
+    "data": "data/economics/2026-10-27",
+    "reproduce": "cd data/economics/2026-10-27 && python calculate.py"
+  },
+  {
     "id": "humanities-degree-growth",
     "edition": "2026-10-26",
     "status": "article_draft",
